@@ -2,7 +2,7 @@
 
 # Interface: AppContextChangedEvent
 
-Defined in: [events/app.ts:221](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L221)
+Defined in: [events/app.ts:221](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L221)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/app.ts:221](https://github.com/slackapi/node-slack-sdk/blob/
 channel: string;
 ```
 
-Defined in: [events/app.ts:223](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L223)
+Defined in: [events/app.ts:223](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L223)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/app.ts:223](https://github.com/slackapi/node-slack-sdk/blob/
 context: object;
 ```
 
-Defined in: [events/app.ts:225](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L225)
+Defined in: [events/app.ts:225](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L225)
 
 #### entities?
 
@@ -57,7 +57,7 @@ optional entities?:
 event_ts: string;
 ```
 
-Defined in: [events/app.ts:251](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L251)
+Defined in: [events/app.ts:251](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L251)
 
 ***
 
@@ -67,7 +67,7 @@ Defined in: [events/app.ts:251](https://github.com/slackapi/node-slack-sdk/blob/
 type: "app_context_changed";
 ```
 
-Defined in: [events/app.ts:222](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L222)
+Defined in: [events/app.ts:222](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L222)
 
 ***
 
@@ -77,4 +77,4 @@ Defined in: [events/app.ts:222](https://github.com/slackapi/node-slack-sdk/blob/
 user: string;
 ```
 
-Defined in: [events/app.ts:224](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L224)
+Defined in: [events/app.ts:224](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L224)

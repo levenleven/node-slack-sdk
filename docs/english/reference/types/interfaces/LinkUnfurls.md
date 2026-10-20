@@ -2,7 +2,7 @@
 
 # Interface: LinkUnfurls
 
-Defined in: [message-attachments.ts:184](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L184)
+Defined in: [message-attachments.ts:184](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L184)
 
 ## Indexable
 

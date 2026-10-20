@@ -2,7 +2,7 @@
 
 # Interface: EntityFullSizePreview
 
-Defined in: [message-metadata.ts:135](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L135)
+Defined in: [message-metadata.ts:135](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L135)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [message-metadata.ts:135](https://github.com/slackapi/node-slack-sdk
 optional error?: object;
 ```
 
-Defined in: [message-metadata.ts:139](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L139)
+Defined in: [message-metadata.ts:139](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L139)
 
 #### code
 
@@ -34,7 +34,7 @@ optional message?: string;
 is_supported: boolean;
 ```
 
-Defined in: [message-metadata.ts:136](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L136)
+Defined in: [message-metadata.ts:136](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L136)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [message-metadata.ts:136](https://github.com/slackapi/node-slack-sdk
 optional mime_type?: string;
 ```
 
-Defined in: [message-metadata.ts:138](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L138)
+Defined in: [message-metadata.ts:138](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L138)
 
 ***
 
@@ -54,4 +54,4 @@ Defined in: [message-metadata.ts:138](https://github.com/slackapi/node-slack-sdk
 optional preview_url?: string;
 ```
 
-Defined in: [message-metadata.ts:137](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L137)
+Defined in: [message-metadata.ts:137](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L137)

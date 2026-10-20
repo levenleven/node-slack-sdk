@@ -2,7 +2,7 @@
 
 # Class: ChatStreamer
 
-Defined in: [packages/web-api/src/chat-stream.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L15)
+Defined in: [packages/web-api/src/chat-stream.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L15)
 
 ## Constructors
 
@@ -17,7 +17,7 @@ new ChatStreamer(
 ): ChatStreamer;
 ```
 
-Defined in: [packages/web-api/src/chat-stream.ts:47](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L47)
+Defined in: [packages/web-api/src/chat-stream.ts:47](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L47)
 
 Instantiate a new chat streamer.
 
@@ -81,7 +81,7 @@ await streamer.stop();
 get ts(): string | undefined;
 ```
 
-Defined in: [packages/web-api/src/chat-stream.ts:62](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L62)
+Defined in: [packages/web-api/src/chat-stream.ts:62](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L62)
 
 ##### Description
 
@@ -107,7 +107,7 @@ append(args): Promise<
 | null>;
 ```
 
-Defined in: [packages/web-api/src/chat-stream.ts:86](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L86)
+Defined in: [packages/web-api/src/chat-stream.ts:86](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L86)
 
 Append to the stream.
 
@@ -158,7 +158,7 @@ await streamer.stop();
 stop(args?): Promise<ChatStopStreamResponse>;
 ```
 
-Defined in: [packages/web-api/src/chat-stream.ts:132](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L132)
+Defined in: [packages/web-api/src/chat-stream.ts:132](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L132)
 
 Stop the stream and finalize the message.
 

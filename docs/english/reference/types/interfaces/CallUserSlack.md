@@ -2,7 +2,7 @@
 
 # Interface: CallUserSlack
 
-Defined in: [calls.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/calls.ts#L10)
+Defined in: [calls.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/calls.ts#L10)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [calls.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/p
 slack_id: string;
 ```
 
-Defined in: [calls.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/calls.ts#L15)
+Defined in: [calls.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/calls.ts#L15)
 
 #### Description
 

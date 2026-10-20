@@ -2,7 +2,7 @@
 
 # Interface: AppsUninstallArguments
 
-Defined in: [packages/web-api/src/types/request/apps.ts:44](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L44)
+Defined in: [packages/web-api/src/types/request/apps.ts:117](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L117)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/apps.ts:44](https://github.com/s
 client_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:138](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L138)
+Defined in: [packages/web-api/src/types/request/common.ts:138](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L138)
 
 #### Description
 
@@ -34,7 +34,7 @@ Issued when you created your application.
 client_secret: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:140](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L140)
+Defined in: [packages/web-api/src/types/request/common.ts:140](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L140)
 
 #### Description
 
@@ -52,7 +52,7 @@ Issued when you created your application.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

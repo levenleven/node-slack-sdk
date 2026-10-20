@@ -2,7 +2,7 @@
 
 # Interface: AssistantThreadsSetSuggestedPromptsArguments
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L31)
+Defined in: [packages/web-api/src/types/request/assistant.ts:31](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L31)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/assistant.ts:31](https://github.
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:33](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L33)
+Defined in: [packages/web-api/src/types/request/assistant.ts:33](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L33)
 
 #### Description
 
@@ -30,7 +30,7 @@ Channel ID containing the assistant thread.
 prompts: AssistantPrompt[];
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L35)
+Defined in: [packages/web-api/src/types/request/assistant.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L35)
 
 #### Description
 
@@ -44,7 +44,7 @@ Prompt suggestions that appear when opening assistant thread.
 optional thread_ts?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L37)
+Defined in: [packages/web-api/src/types/request/assistant.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L37)
 
 #### Description
 
@@ -58,7 +58,7 @@ Message timestamp of the thread.
 optional title?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L39)
+Defined in: [packages/web-api/src/types/request/assistant.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L39)
 
 #### Description
 
@@ -72,7 +72,7 @@ Title for the prompts.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

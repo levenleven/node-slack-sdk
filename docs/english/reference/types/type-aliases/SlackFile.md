@@ -6,7 +6,7 @@
 type SlackFile = SlackFileViaUrl | SlackFileViaId;
 ```
 
-Defined in: [block-kit/composition-objects.ts:277](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L277)
+Defined in: [block-kit/composition-objects.ts:277](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L277)
 
 ## Description
 

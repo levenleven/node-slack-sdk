@@ -2,7 +2,7 @@
 
 # ~~Interface: Confirm~~
 
-Defined in: [block-kit/composition-objects.ts:19](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L19)
+Defined in: [block-kit/composition-objects.ts:19](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L19)
 
 ## Deprecated
 
@@ -29,7 +29,7 @@ Defines a dialog that adds a confirmation step to interactive elements.
 optional confirm?: PlainTextElement;
 ```
 
-Defined in: [block-kit/composition-objects.ts:34](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L34)
+Defined in: [block-kit/composition-objects.ts:34](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L34)
 
 #### Description
 
@@ -44,7 +44,7 @@ Maximum length for the `text` in this field is 30 characters.
 optional deny?: PlainTextElement;
 ```
 
-Defined in: [block-kit/composition-objects.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L39)
+Defined in: [block-kit/composition-objects.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L39)
 
 #### Description
 
@@ -59,7 +59,7 @@ Maximum length for the `text` in this field is 30 characters.
 optional style?: ColorScheme;
 ```
 
-Defined in: [block-kit/composition-objects.ts:45](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L45)
+Defined in: [block-kit/composition-objects.ts:45](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L45)
 
 #### Description
 
@@ -77,7 +77,7 @@ text:
   | MrkdwnElement;
 ```
 
-Defined in: [block-kit/composition-objects.ts:29](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L29)
+Defined in: [block-kit/composition-objects.ts:29](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L29)
 
 #### Description
 
@@ -92,7 +92,7 @@ dialog. Maximum length for the `text` in this field is 300 characters.
 optional title?: PlainTextElement;
 ```
 
-Defined in: [block-kit/composition-objects.ts:24](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L24)
+Defined in: [block-kit/composition-objects.ts:24](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L24)
 
 #### Description
 

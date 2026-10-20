@@ -2,7 +2,7 @@
 
 # Interface: ChannelRenameEvent
 
-Defined in: [events/channel.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L60)
+Defined in: [events/channel.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L60)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:60](https://github.com/slackapi/node-slack-sdk/bl
 channel: object;
 ```
 
-Defined in: [events/channel.ts:62](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L62)
+Defined in: [events/channel.ts:62](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L62)
 
 #### created
 
@@ -58,7 +58,7 @@ name_normalized: string;
 event_ts: string;
 ```
 
-Defined in: [events/channel.ts:70](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L70)
+Defined in: [events/channel.ts:70](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L70)
 
 ***
 
@@ -68,4 +68,4 @@ Defined in: [events/channel.ts:70](https://github.com/slackapi/node-slack-sdk/bl
 type: "channel_rename";
 ```
 
-Defined in: [events/channel.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L61)
+Defined in: [events/channel.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L61)

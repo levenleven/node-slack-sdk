@@ -8,4 +8,4 @@ type WebAPIFilesUploadError =
   | WebAPIFileUploadReadFileDataError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:26](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L26)
+Defined in: [packages/web-api/src/errors.ts:26](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L26)

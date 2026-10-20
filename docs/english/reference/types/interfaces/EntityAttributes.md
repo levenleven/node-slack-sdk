@@ -2,7 +2,7 @@
 
 # Interface: EntityAttributes
 
-Defined in: [message-metadata.ts:89](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L89)
+Defined in: [message-metadata.ts:89](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L89)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [message-metadata.ts:89](https://github.com/slackapi/node-slack-sdk/
 optional display_id?: string;
 ```
 
-Defined in: [message-metadata.ts:95](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L95)
+Defined in: [message-metadata.ts:95](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L95)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [message-metadata.ts:95](https://github.com/slackapi/node-slack-sdk/
 optional display_type?: string;
 ```
 
-Defined in: [message-metadata.ts:94](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L94)
+Defined in: [message-metadata.ts:94](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L94)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [message-metadata.ts:94](https://github.com/slackapi/node-slack-sdk/
 optional full_size_preview?: EntityFullSizePreview;
 ```
 
-Defined in: [message-metadata.ts:99](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L99)
+Defined in: [message-metadata.ts:99](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L99)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [message-metadata.ts:99](https://github.com/slackapi/node-slack-sdk/
 optional locale?: string;
 ```
 
-Defined in: [message-metadata.ts:98](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L98)
+Defined in: [message-metadata.ts:98](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L98)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [message-metadata.ts:98](https://github.com/slackapi/node-slack-sdk/
 optional metadata_last_modified?: number;
 ```
 
-Defined in: [message-metadata.ts:100](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L100)
+Defined in: [message-metadata.ts:100](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L100)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [message-metadata.ts:100](https://github.com/slackapi/node-slack-sdk
 optional product_icon?: EntityIconField;
 ```
 
-Defined in: [message-metadata.ts:96](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L96)
+Defined in: [message-metadata.ts:96](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L96)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [message-metadata.ts:96](https://github.com/slackapi/node-slack-sdk/
 optional product_name?: string;
 ```
 
-Defined in: [message-metadata.ts:97](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L97)
+Defined in: [message-metadata.ts:97](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L97)
 
 ***
 
@@ -82,7 +82,7 @@ Defined in: [message-metadata.ts:97](https://github.com/slackapi/node-slack-sdk/
 title: object;
 ```
 
-Defined in: [message-metadata.ts:90](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L90)
+Defined in: [message-metadata.ts:90](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L90)
 
 #### edit?
 

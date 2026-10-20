@@ -2,7 +2,7 @@
 
 # Interface: GroupOpenEvent
 
-Defined in: [events/group.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L37)
+Defined in: [events/group.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L37)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/group.ts:37](https://github.com/slackapi/node-slack-sdk/blob
 channel: string;
 ```
 
-Defined in: [events/group.ts:40](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L40)
+Defined in: [events/group.ts:40](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L40)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/group.ts:40](https://github.com/slackapi/node-slack-sdk/blob
 type: "group_open";
 ```
 
-Defined in: [events/group.ts:38](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L38)
+Defined in: [events/group.ts:38](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L38)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [events/group.ts:38](https://github.com/slackapi/node-slack-sdk/blob
 user: string;
 ```
 
-Defined in: [events/group.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L39)
+Defined in: [events/group.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L39)

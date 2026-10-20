@@ -2,7 +2,7 @@
 
 # Interface: IMCreatedEvent
 
-Defined in: [events/im.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L8)
+Defined in: [events/im.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L8)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/im.ts:8](https://github.com/slackapi/node-slack-sdk/blob/mai
 channel: object;
 ```
 
-Defined in: [events/im.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L14)
+Defined in: [events/im.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L14)
 
 #### id
 
@@ -28,7 +28,7 @@ id: string;
 type: "im_created";
 ```
 
-Defined in: [events/im.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L9)
+Defined in: [events/im.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L9)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [events/im.ts:9](https://github.com/slackapi/node-slack-sdk/blob/mai
 user: string;
 ```
 
-Defined in: [events/im.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L10)
+Defined in: [events/im.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L10)

@@ -6,4 +6,4 @@
 type MessageEvent = AllMessageEvents;
 ```
 
-Defined in: [events/message.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message.ts#L28)
+Defined in: [events/message.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message.ts#L28)

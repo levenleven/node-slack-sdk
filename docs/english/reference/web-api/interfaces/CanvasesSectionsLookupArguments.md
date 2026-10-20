@@ -2,7 +2,7 @@
 
 # Interface: CanvasesSectionsLookupArguments
 
-Defined in: [packages/web-api/src/types/request/canvas.ts:78](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L78)
+Defined in: [packages/web-api/src/types/request/canvas.ts:78](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L78)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/canvas.ts:78](https://github.com
 canvas_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/canvas.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L6)
+Defined in: [packages/web-api/src/types/request/canvas.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L6)
 
 #### Description
 
@@ -36,7 +36,7 @@ CanvasID.canvas_id
 criteria: Criteria;
 ```
 
-Defined in: [packages/web-api/src/types/request/canvas.ts:80](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L80)
+Defined in: [packages/web-api/src/types/request/canvas.ts:80](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L80)
 
 #### Description
 
@@ -50,7 +50,7 @@ Filtering criteria.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

@@ -2,7 +2,7 @@
 
 # Interface: FileEntitySlackFile
 
-Defined in: [message-metadata.ts:84](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L84)
+Defined in: [message-metadata.ts:84](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L84)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [message-metadata.ts:84](https://github.com/slackapi/node-slack-sdk/
 id: string;
 ```
 
-Defined in: [message-metadata.ts:85](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L85)
+Defined in: [message-metadata.ts:85](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L85)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [message-metadata.ts:85](https://github.com/slackapi/node-slack-sdk/
 optional type?: string;
 ```
 
-Defined in: [message-metadata.ts:86](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L86)
+Defined in: [message-metadata.ts:86](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L86)

@@ -2,7 +2,7 @@
 
 # Interface: RTMSendWhileDisconnectedError
 
-Defined in: [packages/rtm-api/src/errors.ts:47](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L47)
+Defined in: [packages/rtm-api/src/errors.ts:47](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L47)
 
 All errors produced by this package adhere to this interface
 
@@ -32,7 +32,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 code: SendWhileDisconnectedError;
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:48](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L48)
+Defined in: [packages/rtm-api/src/errors.ts:48](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L48)
 
 #### Overrides
 

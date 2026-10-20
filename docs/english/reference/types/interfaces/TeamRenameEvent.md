@@ -2,7 +2,7 @@
 
 # Interface: TeamRenameEvent
 
-Defined in: [events/team.ts:103](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L103)
+Defined in: [events/team.ts:103](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L103)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/team.ts:103](https://github.com/slackapi/node-slack-sdk/blob
 name: string;
 ```
 
-Defined in: [events/team.ts:105](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L105)
+Defined in: [events/team.ts:105](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L105)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [events/team.ts:105](https://github.com/slackapi/node-slack-sdk/blob
 type: "team_rename";
 ```
 
-Defined in: [events/team.ts:104](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L104)
+Defined in: [events/team.ts:104](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L104)

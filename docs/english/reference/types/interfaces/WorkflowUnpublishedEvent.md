@@ -2,7 +2,7 @@
 
 # Interface: WorkflowUnpublishedEvent
 
-Defined in: [events/steps-from-apps.ts:29](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L29)
+Defined in: [events/steps-from-apps.ts:29](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L29)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/steps-from-apps.ts:29](https://github.com/slackapi/node-slac
 event_ts: string;
 ```
 
-Defined in: [events/steps-from-apps.ts:40](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L40)
+Defined in: [events/steps-from-apps.ts:40](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L40)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/steps-from-apps.ts:40](https://github.com/slackapi/node-slac
 type: "workflow_unpublished";
 ```
 
-Defined in: [events/steps-from-apps.ts:30](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L30)
+Defined in: [events/steps-from-apps.ts:30](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L30)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/steps-from-apps.ts:30](https://github.com/slackapi/node-slac
 workflow_draft_configuration: object;
 ```
 
-Defined in: [events/steps-from-apps.ts:32](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L32)
+Defined in: [events/steps-from-apps.ts:32](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L32)
 
 #### app\_steps
 
@@ -54,4 +54,4 @@ version_id: string;
 workflow_id: string;
 ```
 
-Defined in: [events/steps-from-apps.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L31)
+Defined in: [events/steps-from-apps.ts:31](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L31)

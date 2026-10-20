@@ -2,7 +2,7 @@
 
 # Interface: PlanUpdateChunk
 
-Defined in: [chunk.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L35)
+Defined in: [chunk.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L35)
 
 Used for displaying an updated title of a plan.
 https://docs.slack.dev/messaging/sending-and-scheduling-messages#text-streaming
@@ -19,7 +19,7 @@ https://docs.slack.dev/messaging/sending-and-scheduling-messages#text-streaming
 title: string;
 ```
 
-Defined in: [chunk.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L37)
+Defined in: [chunk.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L37)
 
 ***
 
@@ -29,7 +29,7 @@ Defined in: [chunk.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/p
 type: "plan_update";
 ```
 
-Defined in: [chunk.ts:36](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L36)
+Defined in: [chunk.ts:36](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L36)
 
 #### Overrides
 

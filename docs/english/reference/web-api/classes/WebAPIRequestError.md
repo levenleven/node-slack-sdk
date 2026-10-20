@@ -2,7 +2,7 @@
 
 # Class: WebAPIRequestError
 
-Defined in: [packages/web-api/src/errors.ts:48](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L48)
+Defined in: [packages/web-api/src/errors.ts:48](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L48)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/errors.ts:48](https://github.com/slackapi/node
 new WebAPIRequestError(original): WebAPIRequestError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:52](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L52)
+Defined in: [packages/web-api/src/errors.ts:52](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L52)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: RequestError = ErrorCode.RequestError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:49](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L49)
+Defined in: [packages/web-api/src/errors.ts:49](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L49)
 
 #### Overrides
 
@@ -96,7 +96,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
 readonly original: Error;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:50](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L50)
+Defined in: [packages/web-api/src/errors.ts:50](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L50)
 
 ***
 

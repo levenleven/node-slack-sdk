@@ -2,7 +2,7 @@
 
 # Interface: SubteamSelfRemovedEvent
 
-Defined in: [events/subteam.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L61)
+Defined in: [events/subteam.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L61)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/subteam.ts:61](https://github.com/slackapi/node-slack-sdk/bl
 event_ts: string;
 ```
 
-Defined in: [events/subteam.ts:64](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L64)
+Defined in: [events/subteam.ts:64](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L64)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/subteam.ts:64](https://github.com/slackapi/node-slack-sdk/bl
 subteam_id: string;
 ```
 
-Defined in: [events/subteam.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L63)
+Defined in: [events/subteam.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L63)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [events/subteam.ts:63](https://github.com/slackapi/node-slack-sdk/bl
 type: "subteam_self_removed";
 ```
 
-Defined in: [events/subteam.ts:62](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L62)
+Defined in: [events/subteam.ts:62](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L62)

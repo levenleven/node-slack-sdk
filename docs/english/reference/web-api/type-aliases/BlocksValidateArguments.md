@@ -13,4 +13,4 @@ type BlocksValidateArguments = OptionalArgument<{
 }>;
 ```
 
-Defined in: [packages/web-api/src/types/request/blocks.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/blocks.ts#L6)
+Defined in: [packages/web-api/src/types/request/blocks.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/blocks.ts#L6)

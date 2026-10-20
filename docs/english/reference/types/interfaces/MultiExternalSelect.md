@@ -2,7 +2,7 @@
 
 # Interface: MultiExternalSelect
 
-Defined in: [block-kit/block-elements.ts:539](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L539)
+Defined in: [block-kit/block-elements.ts:539](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L539)
 
 ## Description
 
@@ -25,7 +25,7 @@ This menu will load its options from an external data source, allowing for a dyn
 optional action_id?: string;
 ```
 
-Defined in: [block-kit/extensions.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
+Defined in: [block-kit/extensions.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
 
 @description: An identifier for this action. You can use this when you receive an interaction payload to
 [identify the source of the action](https://docs.slack.dev/interactivity/handling-user-interaction#payloads). Should be unique
@@ -43,7 +43,7 @@ among all other `action_id`s in the containing block. Maximum length for this fi
 optional confirm?: ConfirmationDialog;
 ```
 
-Defined in: [block-kit/extensions.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
+Defined in: [block-kit/extensions.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
 
 #### Description
 
@@ -62,7 +62,7 @@ with.
 optional focus_on_load?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
+Defined in: [block-kit/extensions.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
 
 #### Description
 
@@ -82,7 +82,7 @@ Defaults to `false`.
 optional initial_options?: PlainTextOption[];
 ```
 
-Defined in: [block-kit/block-elements.ts:548](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L548)
+Defined in: [block-kit/block-elements.ts:548](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L548)
 
 #### Description
 
@@ -96,7 +96,7 @@ An array of options to be selected when the menu initially loads.
 optional max_selected_items?: number;
 ```
 
-Defined in: [block-kit/extensions.ts:49](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L49)
+Defined in: [block-kit/extensions.ts:49](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L49)
 
 #### Description
 
@@ -114,7 +114,7 @@ Specifies the maximum number of items that can be selected. Minimum number is 1.
 optional min_query_length?: number;
 ```
 
-Defined in: [block-kit/block-elements.ts:554](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L554)
+Defined in: [block-kit/block-elements.ts:554](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L554)
 
 #### Description
 
@@ -130,7 +130,7 @@ of typed characters required before dispatch. The default value is `3`.
 optional placeholder?: PlainTextElement;
 ```
 
-Defined in: [block-kit/extensions.ts:57](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L57)
+Defined in: [block-kit/extensions.ts:57](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L57)
 
 #### Description
 
@@ -149,7 +149,7 @@ length for the `text` field in this object is 150 characters.
 type: "multi_external_select";
 ```
 
-Defined in: [block-kit/block-elements.ts:543](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L543)
+Defined in: [block-kit/block-elements.ts:543](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L543)
 
 #### Description
 

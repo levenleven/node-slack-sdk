@@ -2,7 +2,7 @@
 
 # Interface: IMCloseEvent
 
-Defined in: [events/im.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L1)
+Defined in: [events/im.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/im.ts:1](https://github.com/slackapi/node-slack-sdk/blob/mai
 channel: string;
 ```
 
-Defined in: [events/im.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L4)
+Defined in: [events/im.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L4)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/im.ts:4](https://github.com/slackapi/node-slack-sdk/blob/mai
 event_ts: string;
 ```
 
-Defined in: [events/im.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L5)
+Defined in: [events/im.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L5)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/im.ts:5](https://github.com/slackapi/node-slack-sdk/blob/mai
 type: "im_close";
 ```
 
-Defined in: [events/im.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L2)
+Defined in: [events/im.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L2)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/im.ts:2](https://github.com/slackapi/node-slack-sdk/blob/mai
 user: string;
 ```
 
-Defined in: [events/im.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L3)
+Defined in: [events/im.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L3)

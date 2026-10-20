@@ -2,7 +2,7 @@
 
 # Class: WebhookTriggerRequestError
 
-Defined in: [packages/webhook/src/errors.ts:49](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L49)
+Defined in: [packages/webhook/src/errors.ts:49](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L49)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/webhook/src/errors.ts:49](https://github.com/slackapi/node
 new WebhookTriggerRequestError(original): WebhookTriggerRequestError;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:53](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L53)
+Defined in: [packages/webhook/src/errors.ts:53](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L53)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: RequestError = ErrorCode.RequestError;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:50](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L50)
+Defined in: [packages/webhook/src/errors.ts:50](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L50)
 
 #### Overrides
 
@@ -96,7 +96,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
 readonly original: Error;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:51](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L51)
+Defined in: [packages/webhook/src/errors.ts:51](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L51)
 
 ***
 

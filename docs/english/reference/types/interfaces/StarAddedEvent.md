@@ -2,7 +2,7 @@
 
 # Interface: StarAddedEvent
 
-Defined in: [events/star.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L1)
+Defined in: [events/star.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/star.ts:1](https://github.com/slackapi/node-slack-sdk/blob/m
 event_ts: string;
 ```
 
-Defined in: [events/star.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L7)
+Defined in: [events/star.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L7)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/star.ts:7](https://github.com/slackapi/node-slack-sdk/blob/m
 item: Record<string, unknown>;
 ```
 
-Defined in: [events/star.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L6)
+Defined in: [events/star.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L6)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/star.ts:6](https://github.com/slackapi/node-slack-sdk/blob/m
 type: "star_added";
 ```
 
-Defined in: [events/star.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L2)
+Defined in: [events/star.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L2)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/star.ts:2](https://github.com/slackapi/node-slack-sdk/blob/m
 user: string;
 ```
 
-Defined in: [events/star.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L3)
+Defined in: [events/star.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/star.ts#L3)

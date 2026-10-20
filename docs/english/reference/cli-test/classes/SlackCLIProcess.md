@@ -2,7 +2,7 @@
 
 # Class: SlackCLIProcess
 
-Defined in: [cli/cli-process.ts:49](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L49)
+Defined in: [cli/cli-process.ts:49](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L49)
 
 ## Constructors
 
@@ -16,7 +16,7 @@ new SlackCLIProcess(
 ): SlackCLIProcess;
 ```
 
-Defined in: [cli/cli-process.ts:65](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L65)
+Defined in: [cli/cli-process.ts:65](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L65)
 
 #### Parameters
 
@@ -44,7 +44,7 @@ Defined in: [cli/cli-process.ts:65](https://github.com/slackapi/node-slack-sdk/b
 command: string[];
 ```
 
-Defined in: [cli/cli-process.ts:53](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L53)
+Defined in: [cli/cli-process.ts:53](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L53)
 
 #### Description
 
@@ -58,7 +58,7 @@ The CLI command to invoke
 commandOptions: SlackCLICommandOptions | undefined;
 ```
 
-Defined in: [cli/cli-process.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L63)
+Defined in: [cli/cli-process.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L63)
 
 #### Description
 
@@ -72,7 +72,7 @@ The CLI command-specific options to pass to the command
 globalOptions: SlackCLIGlobalOptions | undefined;
 ```
 
-Defined in: [cli/cli-process.ts:58](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L58)
+Defined in: [cli/cli-process.ts:58](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L58)
 
 #### Description
 
@@ -86,7 +86,7 @@ The global CLI options to pass to the command
 execAsync(shellOpts?): Promise<ShellProcess>;
 ```
 
-Defined in: [cli/cli-process.ts:81](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L81)
+Defined in: [cli/cli-process.ts:81](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L81)
 
 #### Parameters
 
@@ -110,7 +110,7 @@ Executes the command asynchronously, returning the process details once the proc
 execAsyncUntilOutputPresent(output, shellOpts?): Promise<ShellProcess>;
 ```
 
-Defined in: [cli/cli-process.ts:92](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L92)
+Defined in: [cli/cli-process.ts:92](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L92)
 
 #### Parameters
 
@@ -138,7 +138,7 @@ Executes the command asynchronously, returning the process details once the proc
 execSync(shellOpts?): string;
 ```
 
-Defined in: [cli/cli-process.ts:108](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L108)
+Defined in: [cli/cli-process.ts:108](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/cli-process.ts#L108)
 
 #### Parameters
 

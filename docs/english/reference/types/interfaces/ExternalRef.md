@@ -2,7 +2,7 @@
 
 # Interface: ExternalRef
 
-Defined in: [message-metadata.ts:71](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L71)
+Defined in: [message-metadata.ts:71](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L71)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [message-metadata.ts:71](https://github.com/slackapi/node-slack-sdk/
 id: string;
 ```
 
-Defined in: [message-metadata.ts:72](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L72)
+Defined in: [message-metadata.ts:72](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L72)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [message-metadata.ts:72](https://github.com/slackapi/node-slack-sdk/
 optional type?: string;
 ```
 
-Defined in: [message-metadata.ts:73](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L73)
+Defined in: [message-metadata.ts:73](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L73)

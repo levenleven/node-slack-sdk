@@ -2,7 +2,7 @@
 
 # Interface: ChannelDeletedEvent
 
-Defined in: [events/channel.ts:34](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L34)
+Defined in: [events/channel.ts:34](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L34)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:34](https://github.com/slackapi/node-slack-sdk/bl
 channel: string;
 ```
 
-Defined in: [events/channel.ts:36](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L36)
+Defined in: [events/channel.ts:36](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L36)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [events/channel.ts:36](https://github.com/slackapi/node-slack-sdk/bl
 type: "channel_deleted";
 ```
 
-Defined in: [events/channel.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L35)
+Defined in: [events/channel.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L35)

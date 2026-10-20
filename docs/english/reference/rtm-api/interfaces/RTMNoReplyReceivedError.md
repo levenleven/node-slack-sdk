@@ -2,7 +2,7 @@
 
 # Interface: RTMNoReplyReceivedError
 
-Defined in: [packages/rtm-api/src/errors.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L43)
+Defined in: [packages/rtm-api/src/errors.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L43)
 
 All errors produced by this package adhere to this interface
 
@@ -32,7 +32,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 code: NoReplyReceivedError;
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:44](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L44)
+Defined in: [packages/rtm-api/src/errors.ts:44](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L44)
 
 #### Overrides
 

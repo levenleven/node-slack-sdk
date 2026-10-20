@@ -2,7 +2,7 @@
 
 # Interface: CanvasesDeleteArguments
 
-Defined in: [packages/web-api/src/types/request/canvas.ts:84](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L84)
+Defined in: [packages/web-api/src/types/request/canvas.ts:84](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L84)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/canvas.ts:84](https://github.com
 canvas_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/canvas.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L6)
+Defined in: [packages/web-api/src/types/request/canvas.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/canvas.ts#L6)
 
 #### Description
 
@@ -36,7 +36,7 @@ CanvasID.canvas_id
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

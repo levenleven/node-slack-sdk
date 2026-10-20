@@ -2,7 +2,7 @@
 
 # Class: GenerateInstallUrlError
 
-Defined in: [packages/oauth/src/errors.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L39)
+Defined in: [packages/oauth/src/errors.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L39)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/oauth/src/errors.ts:39](https://github.com/slackapi/node-s
 new GenerateInstallUrlError(message, options?): GenerateInstallUrlError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
+Defined in: [packages/oauth/src/errors.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: GenerateInstallUrlError = ErrorCode.GenerateInstallUrlError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:40](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L40)
+Defined in: [packages/oauth/src/errors.ts:40](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L40)
 
 #### Overrides
 

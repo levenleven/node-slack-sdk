@@ -2,7 +2,7 @@
 
 # Class: ConsoleLogger
 
-Defined in: [index.ts:66](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L66)
+Defined in: [index.ts:66](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L66)
 
 Default logger which logs to stdout and stderr
 
@@ -18,7 +18,7 @@ Default logger which logs to stdout and stderr
 new ConsoleLogger(): ConsoleLogger;
 ```
 
-Defined in: [index.ts:88](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L88)
+Defined in: [index.ts:88](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L88)
 
 #### Returns
 
@@ -32,7 +32,7 @@ Defined in: [index.ts:88](https://github.com/slackapi/node-slack-sdk/blob/main/p
 debug(...msg): void;
 ```
 
-Defined in: [index.ts:115](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L115)
+Defined in: [index.ts:115](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L115)
 
 Log a debug message
 
@@ -58,7 +58,7 @@ Log a debug message
 error(...msg): void;
 ```
 
-Defined in: [index.ts:145](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L145)
+Defined in: [index.ts:145](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L145)
 
 Log an error message
 
@@ -84,7 +84,7 @@ Log an error message
 getLevel(): LogLevel;
 ```
 
-Defined in: [index.ts:93](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L93)
+Defined in: [index.ts:93](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L93)
 
 Return the current LogLevel.
 
@@ -104,7 +104,7 @@ Return the current LogLevel.
 info(...msg): void;
 ```
 
-Defined in: [index.ts:125](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L125)
+Defined in: [index.ts:125](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L125)
 
 Log an info message
 
@@ -130,7 +130,7 @@ Log an info message
 setLevel(level): void;
 ```
 
-Defined in: [index.ts:100](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L100)
+Defined in: [index.ts:100](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L100)
 
 Sets the instance's log level so that only messages which are equal or more severe are output to the console.
 
@@ -156,7 +156,7 @@ Sets the instance's log level so that only messages which are equal or more seve
 setName(name): void;
 ```
 
-Defined in: [index.ts:107](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L107)
+Defined in: [index.ts:107](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L107)
 
 Set the instance's name, which will appear on each log line before the message.
 
@@ -182,7 +182,7 @@ Set the instance's name, which will appear on each log line before the message.
 warn(...msg): void;
 ```
 
-Defined in: [index.ts:135](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L135)
+Defined in: [index.ts:135](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L135)
 
 Log a warning message
 

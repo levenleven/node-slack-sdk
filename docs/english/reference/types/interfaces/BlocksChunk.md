@@ -2,7 +2,7 @@
 
 # Interface: BlocksChunk
 
-Defined in: [chunk.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L16)
+Defined in: [chunk.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L16)
 
 Used for passing an array of blocks within a streaming message.
 https://docs.slack.dev/changelog/2026/04/16/block-kit-new-blocks/
@@ -19,7 +19,7 @@ https://docs.slack.dev/changelog/2026/04/16/block-kit-new-blocks/
 blocks: AnyBlock[];
 ```
 
-Defined in: [chunk.ts:19](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L19)
+Defined in: [chunk.ts:19](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L19)
 
 #### Description
 
@@ -33,7 +33,7 @@ An array of [AnyBlock](../type-aliases/AnyBlock.md) objects. Maximum of 50 block
 type: "blocks";
 ```
 
-Defined in: [chunk.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L17)
+Defined in: [chunk.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L17)
 
 #### Overrides
 

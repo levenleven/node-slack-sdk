@@ -11,7 +11,7 @@ function defaultCallbackFailure(
 ): void;
 ```
 
-Defined in: [packages/oauth/src/callback-options.ts:126](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/callback-options.ts#L126)
+Defined in: [packages/oauth/src/callback-options.ts:126](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/callback-options.ts#L126)
 
 ## Parameters
 

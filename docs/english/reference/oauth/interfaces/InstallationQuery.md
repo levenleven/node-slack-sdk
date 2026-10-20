@@ -2,7 +2,7 @@
 
 # Interface: InstallationQuery\<isEnterpriseInstall\>
 
-Defined in: [packages/oauth/src/installation-query.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L4)
+Defined in: [packages/oauth/src/installation-query.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L4)
 
 ## Type Parameters
 
@@ -18,7 +18,7 @@ Defined in: [packages/oauth/src/installation-query.ts:4](https://github.com/slac
 optional conversationId?: string;
 ```
 
-Defined in: [packages/oauth/src/installation-query.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L8)
+Defined in: [packages/oauth/src/installation-query.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L8)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [packages/oauth/src/installation-query.ts:8](https://github.com/slac
 enterpriseId: isEnterpriseInstall extends true ? string : string | undefined;
 ```
 
-Defined in: [packages/oauth/src/installation-query.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L6)
+Defined in: [packages/oauth/src/installation-query.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L6)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [packages/oauth/src/installation-query.ts:6](https://github.com/slac
 isEnterpriseInstall: isEnterpriseInstall;
 ```
 
-Defined in: [packages/oauth/src/installation-query.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L4)
+Defined in: [packages/oauth/src/installation-query.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L4)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [packages/oauth/src/installation-query.ts:4](https://github.com/slac
 teamId: isEnterpriseInstall extends false ? string : undefined;
 ```
 
-Defined in: [packages/oauth/src/installation-query.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L5)
+Defined in: [packages/oauth/src/installation-query.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L5)
 
 ***
 
@@ -58,4 +58,4 @@ Defined in: [packages/oauth/src/installation-query.ts:5](https://github.com/slac
 optional userId?: string;
 ```
 
-Defined in: [packages/oauth/src/installation-query.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L7)
+Defined in: [packages/oauth/src/installation-query.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-query.ts#L7)

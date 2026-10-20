@@ -2,7 +2,7 @@
 
 # Interface: AssistantThreadsSetStatusArguments
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L4)
+Defined in: [packages/web-api/src/types/request/assistant.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L4)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/assistant.ts:4](https://github.c
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L6)
+Defined in: [packages/web-api/src/types/request/assistant.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L6)
 
 #### Description
 
@@ -30,7 +30,7 @@ Channel ID containing the assistant thread.
 optional icon_emoji?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L17)
+Defined in: [packages/web-api/src/types/request/assistant.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L17)
 
 #### Description
 
@@ -50,7 +50,7 @@ Emoji to use as the icon for this message. Overrides `icon_url`.
 optional icon_url?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L22)
+Defined in: [packages/web-api/src/types/request/assistant.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L22)
 
 #### Description
 
@@ -70,7 +70,7 @@ http://lorempixel.com/48/48
 optional loading_messages?: string[];
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L12)
+Defined in: [packages/web-api/src/types/request/assistant.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L12)
 
 #### Description
 
@@ -84,7 +84,7 @@ The list of messages to rotate through as a loading indicator.
 status: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L8)
+Defined in: [packages/web-api/src/types/request/assistant.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L8)
 
 #### Description
 
@@ -98,7 +98,7 @@ Status of the assistant (e.g. 'is thinking...')
 thread_ts: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L10)
+Defined in: [packages/web-api/src/types/request/assistant.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L10)
 
 #### Description
 
@@ -112,7 +112,7 @@ Message timestamp of the thread.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -132,7 +132,7 @@ TokenOverridable.token
 optional username?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:27](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L27)
+Defined in: [packages/web-api/src/types/request/assistant.ts:27](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L27)
 
 #### Description
 

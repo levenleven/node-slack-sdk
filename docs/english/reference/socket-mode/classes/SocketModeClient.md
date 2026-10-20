@@ -2,7 +2,7 @@
 
 # Class: SocketModeClient
 
-Defined in: [packages/socket-mode/src/SocketModeClient.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L37)
+Defined in: [packages/socket-mode/src/SocketModeClient.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L37)
 
 A Socket Mode Client allows programs to communicate with the
 [Slack Platform's Events API](https://https://docs.slack.dev/apis/events-api) over WebSocket connections.
@@ -21,7 +21,7 @@ and has a built in send method to acknowledge incoming events over the WebSocket
 new SocketModeClient(__namedParameters?): SocketModeClient;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeClient.ts:107](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L107)
+Defined in: [packages/socket-mode/src/SocketModeClient.ts:107](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L107)
 
 #### Parameters
 
@@ -47,7 +47,7 @@ EventEmitter.constructor
 optional websocket?: SlackWebSocket;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeClient.ts:72](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L72)
+Defined in: [packages/socket-mode/src/SocketModeClient.ts:72](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L72)
 
 ***
 
@@ -117,7 +117,7 @@ EventEmitter.addListener
 disconnect(): Promise<void>;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeClient.ts:223](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L223)
+Defined in: [packages/socket-mode/src/SocketModeClient.ts:223](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L223)
 
 End a Socket Mode session. After this method is called no messages will be sent or received
 unless you call start() again later.
@@ -477,7 +477,7 @@ EventEmitter.removeListener
 start(): Promise<AppsConnectionsOpenResponse>;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeClient.ts:180](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L180)
+Defined in: [packages/socket-mode/src/SocketModeClient.ts:180](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeClient.ts#L180)
 
 Start a Socket Mode session app.
 This method must be called before any messages can be sent or received,

@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsListViewsArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L60)
+Defined in: [packages/web-api/src/types/request/agents.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L60)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:60](https://github.com
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:62](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L62)
+Defined in: [packages/web-api/src/types/request/agents.ts:62](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L62)
 
 #### Description
 
@@ -30,7 +30,7 @@ ID of the code channel to list views for.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

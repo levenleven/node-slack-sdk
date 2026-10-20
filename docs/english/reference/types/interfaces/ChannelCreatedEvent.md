@@ -2,7 +2,7 @@
 
 # Interface: ChannelCreatedEvent
 
-Defined in: [events/channel.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L9)
+Defined in: [events/channel.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L9)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:9](https://github.com/slackapi/node-slack-sdk/blo
 channel: object;
 ```
 
-Defined in: [events/channel.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L12)
+Defined in: [events/channel.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L12)
 
 #### context\_team\_id
 
@@ -130,7 +130,7 @@ name_normalized: string;
 event_ts: string;
 ```
 
-Defined in: [events/channel.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L11)
+Defined in: [events/channel.ts:11](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L11)
 
 ***
 
@@ -140,4 +140,4 @@ Defined in: [events/channel.ts:11](https://github.com/slackapi/node-slack-sdk/bl
 type: "channel_created";
 ```
 
-Defined in: [events/channel.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L10)
+Defined in: [events/channel.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L10)

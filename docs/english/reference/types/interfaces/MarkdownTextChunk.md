@@ -2,7 +2,7 @@
 
 # Interface: MarkdownTextChunk
 
-Defined in: [chunk.ts:26](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L26)
+Defined in: [chunk.ts:26](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L26)
 
 Used for streaming text content with markdown formatting support.
 https://docs.slack.dev/messaging/sending-and-scheduling-messages#text-streaming
@@ -19,7 +19,7 @@ https://docs.slack.dev/messaging/sending-and-scheduling-messages#text-streaming
 text: string;
 ```
 
-Defined in: [chunk.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L28)
+Defined in: [chunk.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L28)
 
 ***
 
@@ -29,7 +29,7 @@ Defined in: [chunk.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/p
 type: "markdown_text";
 ```
 
-Defined in: [chunk.ts:27](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L27)
+Defined in: [chunk.ts:27](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/chunk.ts#L27)
 
 #### Overrides
 

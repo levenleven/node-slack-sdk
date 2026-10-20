@@ -2,7 +2,7 @@
 
 # Interface: ModalView
 
-Defined in: [views.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L31)
+Defined in: [views.ts:31](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L31)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [views.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/p
 blocks: AnyBlock[];
 ```
 
-Defined in: [views.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L6)
+Defined in: [views.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L6)
 
 #### Description
 
@@ -36,7 +36,7 @@ BaseView.blocks
 optional callback_id?: string;
 ```
 
-Defined in: [views.ts:19](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L19)
+Defined in: [views.ts:19](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L19)
 
 #### Description
 
@@ -61,7 +61,7 @@ BaseView.callback_id
 optional clear_on_close?: boolean;
 ```
 
-Defined in: [views.ts:54](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L54)
+Defined in: [views.ts:54](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L54)
 
 #### Description
 
@@ -76,7 +76,7 @@ Defaults to `false`.
 optional close?: PlainTextElement;
 ```
 
-Defined in: [views.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L43)
+Defined in: [views.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L43)
 
 #### Description
 
@@ -91,7 +91,7 @@ bottom-right of the view. Maximum length of 24 characters.
 optional external_id?: string;
 ```
 
-Defined in: [views.ts:21](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L21)
+Defined in: [views.ts:21](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L21)
 
 #### Description
 
@@ -111,7 +111,7 @@ BaseView.external_id
 optional notify_on_close?: boolean;
 ```
 
-Defined in: [views.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L60)
+Defined in: [views.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L60)
 
 #### Description
 
@@ -127,7 +127,7 @@ clicks the close button. Defaults to `false`.
 optional private_metadata?: string;
 ```
 
-Defined in: [views.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L13)
+Defined in: [views.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L13)
 
 #### Description
 
@@ -150,7 +150,7 @@ BaseView.private_metadata
 optional submit?: PlainTextElement;
 ```
 
-Defined in: [views.ts:49](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L49)
+Defined in: [views.ts:49](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L49)
 
 #### Description
 
@@ -166,7 +166,7 @@ characters.
 title: PlainTextElement;
 ```
 
-Defined in: [views.ts:38](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L38)
+Defined in: [views.ts:38](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L38)
 
 #### Description
 
@@ -181,7 +181,7 @@ maximum length of 24 characters.
 type: "modal";
 ```
 
-Defined in: [views.ts:33](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L33)
+Defined in: [views.ts:33](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L33)
 
 #### Description
 

@@ -2,7 +2,7 @@
 
 # Abstract Class: SlackOAuthError
 
-Defined in: [packages/oauth/src/errors.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L25)
+Defined in: [packages/oauth/src/errors.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L25)
 
 ## Extends
 
@@ -26,7 +26,7 @@ Defined in: [packages/oauth/src/errors.ts:25](https://github.com/slackapi/node-s
 new SlackOAuthError(message, options?): SlackOAuthError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
+Defined in: [packages/oauth/src/errors.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
 
 #### Parameters
 
@@ -72,7 +72,7 @@ Error.cause
 abstract readonly code: ErrorCode;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:26](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L26)
+Defined in: [packages/oauth/src/errors.ts:26](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L26)
 
 ***
 

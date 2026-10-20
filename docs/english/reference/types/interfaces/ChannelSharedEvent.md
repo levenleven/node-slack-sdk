@@ -2,7 +2,7 @@
 
 # Interface: ChannelSharedEvent
 
-Defined in: [events/channel.ts:73](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L73)
+Defined in: [events/channel.ts:73](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L73)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:73](https://github.com/slackapi/node-slack-sdk/bl
 channel: string;
 ```
 
-Defined in: [events/channel.ts:76](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L76)
+Defined in: [events/channel.ts:76](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L76)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/channel.ts:76](https://github.com/slackapi/node-slack-sdk/bl
 connected_team_id: string;
 ```
 
-Defined in: [events/channel.ts:75](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L75)
+Defined in: [events/channel.ts:75](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L75)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/channel.ts:75](https://github.com/slackapi/node-slack-sdk/bl
 event_ts: string;
 ```
 
-Defined in: [events/channel.ts:77](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L77)
+Defined in: [events/channel.ts:77](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L77)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/channel.ts:77](https://github.com/slackapi/node-slack-sdk/bl
 type: "channel_shared";
 ```
 
-Defined in: [events/channel.ts:74](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L74)
+Defined in: [events/channel.ts:74](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L74)

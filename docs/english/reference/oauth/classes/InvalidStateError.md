@@ -2,7 +2,7 @@
 
 # Class: InvalidStateError
 
-Defined in: [packages/oauth/src/errors.ts:47](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L47)
+Defined in: [packages/oauth/src/errors.ts:47](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L47)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/oauth/src/errors.ts:47](https://github.com/slackapi/node-s
 new InvalidStateError(message, options?): InvalidStateError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
+Defined in: [packages/oauth/src/errors.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: InvalidStateError = ErrorCode.InvalidStateError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:48](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L48)
+Defined in: [packages/oauth/src/errors.ts:48](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L48)
 
 #### Overrides
 

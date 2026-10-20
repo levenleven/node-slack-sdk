@@ -2,7 +2,7 @@
 
 # Interface: TeamJoinEvent
 
-Defined in: [events/team.ts:21](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L21)
+Defined in: [events/team.ts:21](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L21)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/team.ts:21](https://github.com/slackapi/node-slack-sdk/blob/
 cache_ts: number;
 ```
 
-Defined in: [events/team.ts:99](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L99)
+Defined in: [events/team.ts:99](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L99)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/team.ts:99](https://github.com/slackapi/node-slack-sdk/blob/
 event_ts: string;
 ```
 
-Defined in: [events/team.ts:100](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L100)
+Defined in: [events/team.ts:100](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L100)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/team.ts:100](https://github.com/slackapi/node-slack-sdk/blob
 type: "team_join";
 ```
 
-Defined in: [events/team.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L22)
+Defined in: [events/team.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L22)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/team.ts:22](https://github.com/slackapi/node-slack-sdk/blob/
 user: object;
 ```
 
-Defined in: [events/team.ts:23](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L23)
+Defined in: [events/team.ts:23](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L23)
 
 #### color
 

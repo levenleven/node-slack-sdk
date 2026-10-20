@@ -2,7 +2,7 @@
 
 # Interface: LinkSharedEvent
 
-Defined in: [events/link-shared.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L1)
+Defined in: [events/link-shared.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/link-shared.ts:1](https://github.com/slackapi/node-slack-sdk
 channel: string;
 ```
 
-Defined in: [events/link-shared.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L3)
+Defined in: [events/link-shared.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L3)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/link-shared.ts:3](https://github.com/slackapi/node-slack-sdk
 event_ts: string;
 ```
 
-Defined in: [events/link-shared.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L14)
+Defined in: [events/link-shared.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L14)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/link-shared.ts:14](https://github.com/slackapi/node-slack-sd
 is_bot_user_member: boolean;
 ```
 
-Defined in: [events/link-shared.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L4)
+Defined in: [events/link-shared.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L4)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/link-shared.ts:4](https://github.com/slackapi/node-slack-sdk
 links: object[];
 ```
 
-Defined in: [events/link-shared.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L8)
+Defined in: [events/link-shared.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L8)
 
 #### domain
 
@@ -64,7 +64,7 @@ url: string;
 message_ts: string;
 ```
 
-Defined in: [events/link-shared.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L6)
+Defined in: [events/link-shared.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L6)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [events/link-shared.ts:6](https://github.com/slackapi/node-slack-sdk
 optional source?: string;
 ```
 
-Defined in: [events/link-shared.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L13)
+Defined in: [events/link-shared.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L13)
 
 ***
 
@@ -84,7 +84,7 @@ Defined in: [events/link-shared.ts:13](https://github.com/slackapi/node-slack-sd
 optional thread_ts?: string;
 ```
 
-Defined in: [events/link-shared.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L7)
+Defined in: [events/link-shared.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L7)
 
 ***
 
@@ -94,7 +94,7 @@ Defined in: [events/link-shared.ts:7](https://github.com/slackapi/node-slack-sdk
 type: "link_shared";
 ```
 
-Defined in: [events/link-shared.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L2)
+Defined in: [events/link-shared.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L2)
 
 ***
 
@@ -104,7 +104,7 @@ Defined in: [events/link-shared.ts:2](https://github.com/slackapi/node-slack-sdk
 optional unfurl_id?: string;
 ```
 
-Defined in: [events/link-shared.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L12)
+Defined in: [events/link-shared.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L12)
 
 ***
 
@@ -114,4 +114,4 @@ Defined in: [events/link-shared.ts:12](https://github.com/slackapi/node-slack-sd
 user: string;
 ```
 
-Defined in: [events/link-shared.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L5)
+Defined in: [events/link-shared.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/link-shared.ts#L5)

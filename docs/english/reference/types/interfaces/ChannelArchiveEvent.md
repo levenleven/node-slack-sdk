@@ -2,7 +2,7 @@
 
 # Interface: ChannelArchiveEvent
 
-Defined in: [events/channel.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L1)
+Defined in: [events/channel.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:1](https://github.com/slackapi/node-slack-sdk/blo
 channel: string;
 ```
 
-Defined in: [events/channel.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L3)
+Defined in: [events/channel.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L3)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/channel.ts:3](https://github.com/slackapi/node-slack-sdk/blo
 event_ts: string;
 ```
 
-Defined in: [events/channel.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L6)
+Defined in: [events/channel.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L6)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/channel.ts:6](https://github.com/slackapi/node-slack-sdk/blo
 optional is_moved?: number;
 ```
 
-Defined in: [events/channel.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L5)
+Defined in: [events/channel.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L5)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/channel.ts:5](https://github.com/slackapi/node-slack-sdk/blo
 type: "channel_archive";
 ```
 
-Defined in: [events/channel.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L2)
+Defined in: [events/channel.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L2)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [events/channel.ts:2](https://github.com/slackapi/node-slack-sdk/blo
 user: string;
 ```
 
-Defined in: [events/channel.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L4)
+Defined in: [events/channel.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L4)

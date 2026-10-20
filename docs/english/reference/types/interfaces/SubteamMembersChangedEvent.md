@@ -2,7 +2,7 @@
 
 # Interface: SubteamMembersChangedEvent
 
-Defined in: [events/subteam.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L37)
+Defined in: [events/subteam.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L37)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/subteam.ts:37](https://github.com/slackapi/node-slack-sdk/bl
 optional added_users?: string[];
 ```
 
-Defined in: [events/subteam.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L43)
+Defined in: [events/subteam.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L43)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/subteam.ts:43](https://github.com/slackapi/node-slack-sdk/bl
 optional added_users_count?: number;
 ```
 
-Defined in: [events/subteam.ts:44](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L44)
+Defined in: [events/subteam.ts:44](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L44)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/subteam.ts:44](https://github.com/slackapi/node-slack-sdk/bl
 date_previous_update: number;
 ```
 
-Defined in: [events/subteam.ts:41](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L41)
+Defined in: [events/subteam.ts:41](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L41)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/subteam.ts:41](https://github.com/slackapi/node-slack-sdk/bl
 date_update: number;
 ```
 
-Defined in: [events/subteam.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L42)
+Defined in: [events/subteam.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L42)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [events/subteam.ts:42](https://github.com/slackapi/node-slack-sdk/bl
 event_ts: string;
 ```
 
-Defined in: [events/subteam.ts:47](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L47)
+Defined in: [events/subteam.ts:47](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L47)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [events/subteam.ts:47](https://github.com/slackapi/node-slack-sdk/bl
 optional removed_users?: string[];
 ```
 
-Defined in: [events/subteam.ts:45](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L45)
+Defined in: [events/subteam.ts:45](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L45)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [events/subteam.ts:45](https://github.com/slackapi/node-slack-sdk/bl
 optional removed_users_count?: number;
 ```
 
-Defined in: [events/subteam.ts:46](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L46)
+Defined in: [events/subteam.ts:46](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L46)
 
 ***
 
@@ -82,7 +82,7 @@ Defined in: [events/subteam.ts:46](https://github.com/slackapi/node-slack-sdk/bl
 subteam_id: string;
 ```
 
-Defined in: [events/subteam.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L39)
+Defined in: [events/subteam.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L39)
 
 ***
 
@@ -92,7 +92,7 @@ Defined in: [events/subteam.ts:39](https://github.com/slackapi/node-slack-sdk/bl
 team_id: string;
 ```
 
-Defined in: [events/subteam.ts:40](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L40)
+Defined in: [events/subteam.ts:40](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L40)
 
 ***
 
@@ -102,4 +102,4 @@ Defined in: [events/subteam.ts:40](https://github.com/slackapi/node-slack-sdk/bl
 type: "subteam_members_changed";
 ```
 
-Defined in: [events/subteam.ts:38](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L38)
+Defined in: [events/subteam.ts:38](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/subteam.ts#L38)

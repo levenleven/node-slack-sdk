@@ -2,7 +2,7 @@
 
 # Interface: FileSharedEvent
 
-Defined in: [events/file.ts:47](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L47)
+Defined in: [events/file.ts:47](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L47)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/file.ts:47](https://github.com/slackapi/node-slack-sdk/blob/
 channel_id: string;
 ```
 
-Defined in: [events/file.ts:54](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L54)
+Defined in: [events/file.ts:54](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L54)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/file.ts:54](https://github.com/slackapi/node-slack-sdk/blob/
 event_ts: string;
 ```
 
-Defined in: [events/file.ts:55](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L55)
+Defined in: [events/file.ts:55](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L55)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/file.ts:55](https://github.com/slackapi/node-slack-sdk/blob/
 file: object;
 ```
 
-Defined in: [events/file.ts:51](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L51)
+Defined in: [events/file.ts:51](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L51)
 
 #### id
 
@@ -48,7 +48,7 @@ id: string;
 file_id: string;
 ```
 
-Defined in: [events/file.ts:49](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L49)
+Defined in: [events/file.ts:49](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L49)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [events/file.ts:49](https://github.com/slackapi/node-slack-sdk/blob/
 type: "file_shared";
 ```
 
-Defined in: [events/file.ts:48](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L48)
+Defined in: [events/file.ts:48](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L48)
 
 ***
 
@@ -68,4 +68,4 @@ Defined in: [events/file.ts:48](https://github.com/slackapi/node-slack-sdk/blob/
 user_id: string;
 ```
 
-Defined in: [events/file.ts:50](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L50)
+Defined in: [events/file.ts:50](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L50)

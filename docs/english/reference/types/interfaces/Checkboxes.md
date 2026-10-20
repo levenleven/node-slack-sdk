@@ -2,7 +2,7 @@
 
 # Interface: Checkboxes
 
-Defined in: [block-kit/block-elements.ts:71](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L71)
+Defined in: [block-kit/block-elements.ts:71](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L71)
 
 ## Description
 
@@ -25,7 +25,7 @@ Allows users to choose multiple items from a list of options.
 optional action_id?: string;
 ```
 
-Defined in: [block-kit/extensions.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
+Defined in: [block-kit/extensions.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
 
 @description: An identifier for this action. You can use this when you receive an interaction payload to
 [identify the source of the action](https://docs.slack.dev/interactivity/handling-user-interaction#payloads). Should be unique
@@ -43,7 +43,7 @@ among all other `action_id`s in the containing block. Maximum length for this fi
 optional confirm?: ConfirmationDialog;
 ```
 
-Defined in: [block-kit/extensions.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
+Defined in: [block-kit/extensions.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
 
 #### Description
 
@@ -62,7 +62,7 @@ with.
 optional focus_on_load?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
+Defined in: [block-kit/extensions.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
 
 #### Description
 
@@ -82,7 +82,7 @@ Defaults to `false`.
 optional initial_options?: Option[];
 ```
 
-Defined in: [block-kit/block-elements.ts:80](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L80)
+Defined in: [block-kit/block-elements.ts:80](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L80)
 
 #### Description
 
@@ -97,7 +97,7 @@ These options will be selected when the checkbox group initially loads.
 options: Option[];
 ```
 
-Defined in: [block-kit/block-elements.ts:84](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L84)
+Defined in: [block-kit/block-elements.ts:84](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L84)
 
 #### Description
 
@@ -111,7 +111,7 @@ An array of [Option](../type-aliases/Option.md) objects. A maximum of 10 options
 type: "checkboxes";
 ```
 
-Defined in: [block-kit/block-elements.ts:75](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L75)
+Defined in: [block-kit/block-elements.ts:75](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L75)
 
 #### Description
 

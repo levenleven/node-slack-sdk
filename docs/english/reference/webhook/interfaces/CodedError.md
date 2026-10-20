@@ -2,7 +2,7 @@
 
 # ~~Interface: CodedError~~
 
-Defined in: [packages/webhook/src/errors.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L4)
+Defined in: [packages/webhook/src/errors.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L4)
 
 ## Deprecated
 
@@ -36,7 +36,7 @@ NodeJS.ErrnoException.cause
 code: ErrorCode;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L5)
+Defined in: [packages/webhook/src/errors.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L5)
 
 #### Overrides
 

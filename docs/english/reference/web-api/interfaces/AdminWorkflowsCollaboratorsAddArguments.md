@@ -2,7 +2,7 @@
 
 # Interface: AdminWorkflowsCollaboratorsAddArguments
 
-Defined in: [packages/web-api/src/types/request/admin/workflows.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/workflows.ts#L16)
+Defined in: [packages/web-api/src/types/request/admin/workflows.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/workflows.ts#L16)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/admin/workflows.ts:16](https://g
 collaborator_ids: [string, ...string[]];
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/workflows.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/workflows.ts#L7)
+Defined in: [packages/web-api/src/types/request/admin/workflows.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/workflows.ts#L7)
 
 #### Description
 
@@ -36,7 +36,7 @@ CollaboratorIDs.collaborator_ids
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -56,7 +56,7 @@ TokenOverridable.token
 workflow_ids: [string, ...string[]];
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/workflows.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/workflows.ts#L12)
+Defined in: [packages/web-api/src/types/request/admin/workflows.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/workflows.ts#L12)
 
 #### Description
 

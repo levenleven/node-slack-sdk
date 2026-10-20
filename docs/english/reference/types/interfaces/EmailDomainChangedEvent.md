@@ -2,7 +2,7 @@
 
 # Interface: EmailDomainChangedEvent
 
-Defined in: [events/email.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/email.ts#L1)
+Defined in: [events/email.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/email.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/email.ts:1](https://github.com/slackapi/node-slack-sdk/blob/
 email_domain: string;
 ```
 
-Defined in: [events/email.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/email.ts#L3)
+Defined in: [events/email.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/email.ts#L3)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/email.ts:3](https://github.com/slackapi/node-slack-sdk/blob/
 event_ts: string;
 ```
 
-Defined in: [events/email.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/email.ts#L4)
+Defined in: [events/email.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/email.ts#L4)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [events/email.ts:4](https://github.com/slackapi/node-slack-sdk/blob/
 type: "email_domain_changed";
 ```
 
-Defined in: [events/email.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/email.ts#L2)
+Defined in: [events/email.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/email.ts#L2)

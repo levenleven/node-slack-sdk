@@ -2,7 +2,7 @@
 
 # Abstract Class: SlackSocketModeError
 
-Defined in: [packages/socket-mode/src/errors.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L35)
+Defined in: [packages/socket-mode/src/errors.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L35)
 
 ## Extends
 
@@ -24,7 +24,7 @@ Defined in: [packages/socket-mode/src/errors.ts:35](https://github.com/slackapi/
 new SlackSocketModeError(message, options?): SlackSocketModeError;
 ```
 
-Defined in: [packages/socket-mode/src/errors.ts:38](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L38)
+Defined in: [packages/socket-mode/src/errors.ts:38](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L38)
 
 #### Parameters
 
@@ -70,7 +70,7 @@ Error.cause
 abstract readonly code: ErrorCode;
 ```
 
-Defined in: [packages/socket-mode/src/errors.ts:36](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L36)
+Defined in: [packages/socket-mode/src/errors.ts:36](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L36)
 
 ***
 

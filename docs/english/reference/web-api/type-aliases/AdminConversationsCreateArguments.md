@@ -6,7 +6,7 @@
 type AdminConversationsCreateArguments = TokenOverridable & WorkspaceAccess & object;
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/conversations.ts:85](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/conversations.ts#L85)
+Defined in: [packages/web-api/src/types/request/admin/conversations.ts:85](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/conversations.ts#L85)
 
 ## Type Declaration
 

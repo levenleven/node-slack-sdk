@@ -2,7 +2,7 @@
 
 # Interface: AdminAppsConfigLookupArguments
 
-Defined in: [packages/web-api/src/types/request/admin/apps.ts:67](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/apps.ts#L67)
+Defined in: [packages/web-api/src/types/request/admin/apps.ts:67](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/apps.ts#L67)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/admin/apps.ts:67](https://github
 app_ids: string[];
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/apps.ts:69](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/apps.ts#L69)
+Defined in: [packages/web-api/src/types/request/admin/apps.ts:69](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/apps.ts#L69)
 
 #### Description
 
@@ -30,7 +30,7 @@ An array of app IDs to get app configs for.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

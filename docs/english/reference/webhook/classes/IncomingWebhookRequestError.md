@@ -2,7 +2,7 @@
 
 # Class: IncomingWebhookRequestError
 
-Defined in: [packages/webhook/src/errors.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L25)
+Defined in: [packages/webhook/src/errors.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L25)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/webhook/src/errors.ts:25](https://github.com/slackapi/node
 new IncomingWebhookRequestError(original): IncomingWebhookRequestError;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:29](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L29)
+Defined in: [packages/webhook/src/errors.ts:29](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L29)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: RequestError = ErrorCode.RequestError;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:26](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L26)
+Defined in: [packages/webhook/src/errors.ts:26](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L26)
 
 #### Overrides
 
@@ -96,7 +96,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
 readonly original: Error;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:27](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L27)
+Defined in: [packages/webhook/src/errors.ts:27](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L27)
 
 ***
 

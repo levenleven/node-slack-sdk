@@ -6,7 +6,7 @@
 type FilesCompleteUploadExternalArguments = FileDestinationArgument & TokenOverridable & object;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:71](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L71)
+Defined in: [packages/web-api/src/types/request/files.ts:71](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L71)
 
 ## Type Declaration
 

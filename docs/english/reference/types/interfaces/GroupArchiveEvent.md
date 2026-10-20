@@ -2,7 +2,7 @@
 
 # Interface: GroupArchiveEvent
 
-Defined in: [events/group.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L1)
+Defined in: [events/group.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/group.ts:1](https://github.com/slackapi/node-slack-sdk/blob/
 channel: string;
 ```
 
-Defined in: [events/group.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L3)
+Defined in: [events/group.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L3)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/group.ts:3](https://github.com/slackapi/node-slack-sdk/blob/
 event_ts: string;
 ```
 
-Defined in: [events/group.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L6)
+Defined in: [events/group.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L6)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/group.ts:6](https://github.com/slackapi/node-slack-sdk/blob/
 is_moved: number;
 ```
 
-Defined in: [events/group.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L5)
+Defined in: [events/group.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L5)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/group.ts:5](https://github.com/slackapi/node-slack-sdk/blob/
 type: "group_archive";
 ```
 
-Defined in: [events/group.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L2)
+Defined in: [events/group.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L2)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [events/group.ts:2](https://github.com/slackapi/node-slack-sdk/blob/
 user: string;
 ```
 
-Defined in: [events/group.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L4)
+Defined in: [events/group.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L4)

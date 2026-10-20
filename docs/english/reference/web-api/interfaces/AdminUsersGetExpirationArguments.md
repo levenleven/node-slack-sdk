@@ -2,7 +2,7 @@
 
 # Interface: AdminUsersGetExpirationArguments
 
-Defined in: [packages/web-api/src/types/request/admin/users.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L63)
+Defined in: [packages/web-api/src/types/request/admin/users.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L63)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/admin/users.ts:63](https://githu
 optional target_team?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/users.ts:69](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L69)
+Defined in: [packages/web-api/src/types/request/admin/users.ts:69](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L69)
 
 #### Description
 
@@ -31,7 +31,7 @@ on the specified team. Otherwise it will operate on the org or team in context.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -51,7 +51,7 @@ TokenOverridable.token
 optional user_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/users.ts:65](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L65)
+Defined in: [packages/web-api/src/types/request/admin/users.ts:65](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L65)
 
 #### Description
 

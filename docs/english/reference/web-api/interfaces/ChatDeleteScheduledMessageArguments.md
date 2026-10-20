@@ -2,7 +2,7 @@
 
 # Interface: ChatDeleteScheduledMessageArguments
 
-Defined in: [packages/web-api/src/types/request/chat.ts:184](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L184)
+Defined in: [packages/web-api/src/types/request/chat.ts:184](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L184)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/chat.ts:184](https://github.com/
 optional as_user?: boolean;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:38](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L38)
+Defined in: [packages/web-api/src/types/request/chat.ts:38](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L38)
 
 #### Description
 
@@ -38,7 +38,7 @@ AsUser.as_user
 channel: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L22)
+Defined in: [packages/web-api/src/types/request/chat.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L22)
 
 #### Description
 
@@ -58,7 +58,7 @@ Channel.channel
 scheduled_message_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:186](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L186)
+Defined in: [packages/web-api/src/types/request/chat.ts:186](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L186)
 
 #### Description
 
@@ -72,7 +72,7 @@ The `scheduled_message_id` returned from call to [\`chat.scheduleMessage\`](http
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

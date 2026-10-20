@@ -2,7 +2,7 @@
 
 # Interface: ConversationsSelect
 
-Defined in: [block-kit/block-elements.ts:409](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L409)
+Defined in: [block-kit/block-elements.ts:409](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L409)
 
 ## Description
 
@@ -26,7 +26,7 @@ visible to the current user in the active workspace.
 optional action_id?: string;
 ```
 
-Defined in: [block-kit/extensions.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
+Defined in: [block-kit/extensions.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
 
 @description: An identifier for this action. You can use this when you receive an interaction payload to
 [identify the source of the action](https://docs.slack.dev/interactivity/handling-user-interaction#payloads). Should be unique
@@ -44,7 +44,7 @@ among all other `action_id`s in the containing block. Maximum length for this fi
 optional confirm?: ConfirmationDialog;
 ```
 
-Defined in: [block-kit/extensions.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
+Defined in: [block-kit/extensions.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
 
 #### Description
 
@@ -63,7 +63,7 @@ with.
 optional default_to_current_conversation?: boolean;
 ```
 
-Defined in: [block-kit/block-elements.ts:423](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L423)
+Defined in: [block-kit/block-elements.ts:423](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L423)
 
 #### Description
 
@@ -78,7 +78,7 @@ modal, if available. Default is `false`.
 optional filter?: object;
 ```
 
-Defined in: [block-kit/block-elements.ts:427](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L427)
+Defined in: [block-kit/block-elements.ts:427](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L427)
 
 #### exclude\_bot\_users?
 
@@ -110,7 +110,7 @@ A filter object that reduces the list of available conversations using the speci
 optional focus_on_load?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
+Defined in: [block-kit/extensions.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
 
 #### Description
 
@@ -130,7 +130,7 @@ Defaults to `false`.
 optional initial_conversation?: string;
 ```
 
-Defined in: [block-kit/block-elements.ts:418](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L418)
+Defined in: [block-kit/block-elements.ts:418](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L418)
 
 #### Description
 
@@ -145,7 +145,7 @@ The ID of any valid conversation to be pre-selected when the menu loads. If
 optional placeholder?: PlainTextElement;
 ```
 
-Defined in: [block-kit/extensions.ts:57](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L57)
+Defined in: [block-kit/extensions.ts:57](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L57)
 
 #### Description
 
@@ -164,7 +164,7 @@ length for the `text` field in this object is 150 characters.
 optional response_url_enabled?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:67](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L67)
+Defined in: [block-kit/extensions.ts:67](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L67)
 
 #### Description
 
@@ -185,7 +185,7 @@ for the message will be determined by the value of this select menu.
 type: "conversations_select";
 ```
 
-Defined in: [block-kit/block-elements.ts:413](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L413)
+Defined in: [block-kit/block-elements.ts:413](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L413)
 
 #### Description
 

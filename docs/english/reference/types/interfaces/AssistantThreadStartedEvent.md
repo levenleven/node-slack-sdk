@@ -2,7 +2,7 @@
 
 # Interface: AssistantThreadStartedEvent
 
-Defined in: [events/assistant.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L1)
+Defined in: [events/assistant.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/assistant.ts:1](https://github.com/slackapi/node-slack-sdk/b
 assistant_thread: object;
 ```
 
-Defined in: [events/assistant.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L3)
+Defined in: [events/assistant.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L3)
 
 #### channel\_id
 
@@ -64,7 +64,7 @@ user_id: string;
 event_ts: string;
 ```
 
-Defined in: [events/assistant.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L13)
+Defined in: [events/assistant.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L13)
 
 ***
 
@@ -74,4 +74,4 @@ Defined in: [events/assistant.ts:13](https://github.com/slackapi/node-slack-sdk/
 type: "assistant_thread_started";
 ```
 
-Defined in: [events/assistant.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L2)
+Defined in: [events/assistant.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L2)

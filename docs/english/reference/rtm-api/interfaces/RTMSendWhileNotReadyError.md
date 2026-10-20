@@ -2,7 +2,7 @@
 
 # Interface: RTMSendWhileNotReadyError
 
-Defined in: [packages/rtm-api/src/errors.ts:51](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L51)
+Defined in: [packages/rtm-api/src/errors.ts:51](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L51)
 
 All errors produced by this package adhere to this interface
 
@@ -32,7 +32,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 code: SendWhileNotReadyError;
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:52](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L52)
+Defined in: [packages/rtm-api/src/errors.ts:52](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L52)
 
 #### Overrides
 

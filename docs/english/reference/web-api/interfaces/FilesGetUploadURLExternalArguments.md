@@ -2,7 +2,7 @@
 
 # Interface: FilesGetUploadURLExternalArguments
 
-Defined in: [packages/web-api/src/types/request/files.ts:92](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L92)
+Defined in: [packages/web-api/src/types/request/files.ts:92](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L92)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/files.ts:92](https://github.com/
 optional alt_text?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:98](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L98)
+Defined in: [packages/web-api/src/types/request/files.ts:98](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L98)
 
 #### Description
 
@@ -30,7 +30,7 @@ Description of image for screen-reader.
 filename: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:94](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L94)
+Defined in: [packages/web-api/src/types/request/files.ts:94](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L94)
 
 #### Description
 
@@ -44,7 +44,7 @@ Name of the file being uploaded.
 length: number;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:96](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L96)
+Defined in: [packages/web-api/src/types/request/files.ts:96](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L96)
 
 #### Description
 
@@ -58,7 +58,7 @@ Size in bytes of the file being uploaded.
 optional snippet_type?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:100](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L100)
+Defined in: [packages/web-api/src/types/request/files.ts:100](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L100)
 
 #### Description
 
@@ -72,7 +72,7 @@ Syntax type of the snippet being uploaded. E.g. `python`.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

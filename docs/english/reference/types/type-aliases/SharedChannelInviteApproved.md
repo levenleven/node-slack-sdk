@@ -6,7 +6,7 @@
 type SharedChannelInviteApproved = SharedChannelInviteApprovedEvent;
 ```
 
-Defined in: [events/shared-channel.ts:74](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L74)
+Defined in: [events/shared-channel.ts:74](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L74)
 
 ## Deprecated
 

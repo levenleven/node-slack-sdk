@@ -2,7 +2,7 @@
 
 # Interface: MessageMetadata
 
-Defined in: [message-metadata.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L12)
+Defined in: [message-metadata.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L12)
 
 ## Description
 
@@ -21,7 +21,7 @@ Application-specific event data to attach to a Slack message.
 event_payload: object;
 ```
 
-Defined in: [message-metadata.ts:21](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L21)
+Defined in: [message-metadata.ts:21](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L21)
 
 #### Index Signature
 
@@ -46,7 +46,7 @@ A free-form object containing whatever data your application wishes to attach to
 event_type: string;
 ```
 
-Defined in: [message-metadata.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L17)
+Defined in: [message-metadata.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L17)
 
 #### Description
 

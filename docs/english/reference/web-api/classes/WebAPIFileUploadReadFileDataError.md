@@ -2,7 +2,7 @@
 
 # Class: WebAPIFileUploadReadFileDataError
 
-Defined in: [packages/web-api/src/errors.ts:103](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L103)
+Defined in: [packages/web-api/src/errors.ts:103](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L103)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/errors.ts:103](https://github.com/slackapi/nod
 new WebAPIFileUploadReadFileDataError(message, options?): WebAPIFileUploadReadFileDataError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L31)
+Defined in: [packages/web-api/src/errors.ts:31](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L31)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: FileUploadReadFileDataError = ErrorCode.FileUploadReadFileDataError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:104](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L104)
+Defined in: [packages/web-api/src/errors.ts:104](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L104)
 
 #### Overrides
 

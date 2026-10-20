@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsGetCanvasArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:48](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L48)
+Defined in: [packages/web-api/src/types/request/agents.ts:48](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L48)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:48](https://github.com
 canvas_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:52](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L52)
+Defined in: [packages/web-api/src/types/request/agents.ts:52](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L52)
 
 #### Description
 
@@ -30,7 +30,7 @@ Encoded ID of the canvas to fetch.
 channel: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:50](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L50)
+Defined in: [packages/web-api/src/types/request/agents.ts:50](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L50)
 
 #### Description
 
@@ -44,7 +44,7 @@ ID of the agent session channel the canvas belongs to.
 optional content_format?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:54](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L54)
+Defined in: [packages/web-api/src/types/request/agents.ts:54](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L54)
 
 #### Description
 
@@ -58,7 +58,7 @@ Format to render the canvas content in. Defaults to `markdown`.
 optional include_resolved?: boolean;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:56](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L56)
+Defined in: [packages/web-api/src/types/request/agents.ts:56](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L56)
 
 #### Description
 
@@ -72,7 +72,7 @@ Whether to include resolved comment threads in the response. Defaults to `false`
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

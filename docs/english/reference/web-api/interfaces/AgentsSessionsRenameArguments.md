@@ -2,7 +2,7 @@
 
 # Interface: AgentsSessionsRenameArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:209](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L209)
+Defined in: [packages/web-api/src/types/request/agents.ts:209](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L209)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:209](https://github.co
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:211](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L211)
+Defined in: [packages/web-api/src/types/request/agents.ts:211](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L211)
 
 #### Description
 
@@ -30,7 +30,7 @@ ID of the channel containing the agent session.
 optional thread_ts?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:218](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L218)
+Defined in: [packages/web-api/src/types/request/agents.ts:218](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L218)
 
 #### Description
 
@@ -45,7 +45,7 @@ regular channels and DMs. Must be omitted for session channels.
 title: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:213](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L213)
+Defined in: [packages/web-api/src/types/request/agents.ts:213](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L213)
 
 #### Description
 
@@ -59,7 +59,7 @@ New title for the agent session (1-200 characters). For a session channel, this 
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

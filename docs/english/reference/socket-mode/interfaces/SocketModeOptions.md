@@ -2,7 +2,7 @@
 
 # Interface: SocketModeOptions
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:21](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L21)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:21](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L21)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [packages/socket-mode/src/SocketModeOptions.ts:21](https://github.co
 appToken: string;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L25)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L25)
 
 The App-level token associated with your app, located under the Basic Information page on api.slack.com/apps.
 
@@ -24,7 +24,7 @@ The App-level token associated with your app, located under the Basic Informatio
 optional autoReconnectEnabled?: boolean;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L39)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L39)
 
 Whether the client should automatically reconnect when the socket mode connection is disrupted. Defaults to `true`.
 Note that disconnects are regular and expected when using Socket Mode, so setting this to `false` will likely lead
@@ -38,7 +38,7 @@ to a disconnected client after some amount of time.
 optional clientOptions?: Omit<WebClientOptions, "logLevel" | "logger">;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L63)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L63)
 
 The `@slack/web-api` `WebClientOptions` to provide to the HTTP client interacting with Slack's HTTP API.
 Useful for setting retry configurations and custom fetch implementations.
@@ -51,7 +51,7 @@ Useful for setting retry configurations and custom fetch implementations.
 optional clientPingTimeout?: number;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:46](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L46)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:46](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L46)
 
 How long the client should wait for a `pong` response to the client's `ping` to the server, in milliseconds.
 If this timeout is hit, the client will attempt to reconnect if `autoReconnectEnabled` is `true`;
@@ -66,7 +66,7 @@ Defaults to 5,000.
 optional dispatcher?: SocketModeDispatcher;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:78](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L78)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:78](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L78)
 
 A [SocketModeDispatcher](SocketModeDispatcher.md) used for the WebSocket connection and, if no custom `fetch` is provided
 via `clientOptions`, also wrapped into a custom fetch for HTTP API calls.
@@ -90,7 +90,7 @@ const dispatcher = new ProxyAgent('http://proxy:3128');
 optional logger?: Logger;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:29](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L29)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:29](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L29)
 
 An instance of `@slack/logger`'s Logger interface, to send log messages to.
 
@@ -102,7 +102,7 @@ An instance of `@slack/logger`'s Logger interface, to send log messages to.
 optional logLevel?: LogLevel;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:33](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L33)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:33](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L33)
 
 An instance of `@slack/logger`'s LogLevel enum, setting the minimum log level to emit log messages for.
 
@@ -114,7 +114,7 @@ An instance of `@slack/logger`'s LogLevel enum, setting the minimum log level to
 optional pingPongLoggingEnabled?: boolean;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:58](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L58)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:58](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L58)
 
 Should logging related to `ping` and `pong` messages between the client and server be logged at a
 `LogLevel.DEBUG` level. Defaults to `false.
@@ -127,7 +127,7 @@ Should logging related to `ping` and `pong` messages between the client and serv
 optional serverPingTimeout?: number;
 ```
 
-Defined in: [packages/socket-mode/src/SocketModeOptions.ts:53](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L53)
+Defined in: [packages/socket-mode/src/SocketModeOptions.ts:53](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/SocketModeOptions.ts#L53)
 
 How long the client should wait for `ping` messages from the server, in milliseconds.
 If this timeout is hit, the client will attempt to reconnect if `autoReconnectEnabled` is `true`;

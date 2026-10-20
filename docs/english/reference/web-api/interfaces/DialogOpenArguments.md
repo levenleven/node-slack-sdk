@@ -2,7 +2,7 @@
 
 # Interface: DialogOpenArguments
 
-Defined in: [packages/web-api/src/types/request/dialog.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/dialog.ts#L5)
+Defined in: [packages/web-api/src/types/request/dialog.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/dialog.ts#L5)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/dialog.ts:5](https://github.com/
 dialog: Dialog;
 ```
 
-Defined in: [packages/web-api/src/types/request/dialog.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/dialog.ts#L9)
+Defined in: [packages/web-api/src/types/request/dialog.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/dialog.ts#L9)
 
 #### Description
 
@@ -30,7 +30,7 @@ The dialog definition.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -50,7 +50,7 @@ TokenOverridable.token
 trigger_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/dialog.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/dialog.ts#L7)
+Defined in: [packages/web-api/src/types/request/dialog.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/dialog.ts#L7)
 
 #### Description
 

@@ -2,7 +2,7 @@
 
 # Interface: CodedError
 
-Defined in: [packages/oauth/src/errors.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L8)
+Defined in: [packages/oauth/src/errors.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L8)
 
 All errors produced by this package adhere to this interface.
 
@@ -38,7 +38,7 @@ Error.cause
 code: string;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L9)
+Defined in: [packages/oauth/src/errors.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L9)
 
 ***
 

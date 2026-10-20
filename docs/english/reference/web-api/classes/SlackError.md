@@ -2,7 +2,7 @@
 
 # Abstract Class: SlackError
 
-Defined in: [packages/web-api/src/errors.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L28)
+Defined in: [packages/web-api/src/errors.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L28)
 
 ## Extends
 
@@ -25,7 +25,7 @@ Defined in: [packages/web-api/src/errors.ts:28](https://github.com/slackapi/node
 new SlackError(message, options?): SlackError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L31)
+Defined in: [packages/web-api/src/errors.ts:31](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L31)
 
 #### Parameters
 
@@ -71,7 +71,7 @@ Error.cause
 abstract readonly code: ErrorCode;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:29](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L29)
+Defined in: [packages/web-api/src/errors.ts:29](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L29)
 
 ***
 

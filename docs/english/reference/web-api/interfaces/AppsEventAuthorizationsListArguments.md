@@ -2,7 +2,7 @@
 
 # Interface: AppsEventAuthorizationsListArguments
 
-Defined in: [packages/web-api/src/types/request/apps.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L10)
+Defined in: [packages/web-api/src/types/request/apps.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L12)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/apps.ts:10](https://github.com/s
 optional cursor?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L16)
+Defined in: [packages/web-api/src/types/request/common.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L16)
 
 #### Description
 
@@ -42,7 +42,7 @@ CursorPaginationEnabled.cursor
 event_context: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/apps.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L11)
+Defined in: [packages/web-api/src/types/request/apps.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L13)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [packages/web-api/src/types/request/apps.ts:11](https://github.com/s
 optional limit?: number;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L9)
+Defined in: [packages/web-api/src/types/request/common.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L9)
 
 #### Description
 
@@ -73,7 +73,7 @@ CursorPaginationEnabled.limit
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

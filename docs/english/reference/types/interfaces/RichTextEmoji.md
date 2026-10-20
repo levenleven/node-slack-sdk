@@ -2,7 +2,7 @@
 
 # Interface: RichTextEmoji
 
-Defined in: [block-kit/block-elements.ts:879](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L879)
+Defined in: [block-kit/block-elements.ts:879](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L879)
 
 ## Description
 
@@ -20,7 +20,7 @@ An emoji element for use in a rich text message.
 name: string;
 ```
 
-Defined in: [block-kit/block-elements.ts:887](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L887)
+Defined in: [block-kit/block-elements.ts:887](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L887)
 
 #### Description
 
@@ -34,7 +34,7 @@ Name of emoji, without colons or skin tones, e.g. `wave`
 optional style?: object;
 ```
 
-Defined in: [block-kit/extensions.ts:86](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L86)
+Defined in: [block-kit/extensions.ts:86](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L86)
 
 #### bold?
 
@@ -102,7 +102,7 @@ A limited style object for styling rich text `text` elements.
 type: "emoji";
 ```
 
-Defined in: [block-kit/block-elements.ts:883](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L883)
+Defined in: [block-kit/block-elements.ts:883](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L883)
 
 #### Description
 
@@ -116,7 +116,7 @@ The type of element. In this case `type` is always `emoji`.
 optional unicode?: string;
 ```
 
-Defined in: [block-kit/block-elements.ts:891](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L891)
+Defined in: [block-kit/block-elements.ts:891](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L891)
 
 #### Description
 
@@ -130,7 +130,7 @@ Lowercase hexadecimal Unicode representation of a standard emoji (not for use wi
 optional url?: string;
 ```
 
-Defined in: [block-kit/block-elements.ts:895](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L895)
+Defined in: [block-kit/block-elements.ts:895](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L895)
 
 #### Description
 

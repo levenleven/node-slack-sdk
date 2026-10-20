@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsSetViewArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:152](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L152)
+Defined in: [packages/web-api/src/types/request/agents.ts:152](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L152)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:152](https://github.co
 optional access_level?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:179](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L179)
+Defined in: [packages/web-api/src/types/request/agents.ts:179](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L179)
 
 #### Description
 
@@ -31,7 +31,7 @@ For canvas views: access level granted to the channel for the canvas tab. Defaul
 optional agent_content_hash?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:184](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L184)
+Defined in: [packages/web-api/src/types/request/agents.ts:184](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L184)
 
 #### Description
 
@@ -46,7 +46,7 @@ later detect human edits to the canvas. Opaque to the server.
 optional base_branch?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:188](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L188)
+Defined in: [packages/web-api/src/types/request/agents.ts:188](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L188)
 
 #### Description
 
@@ -60,7 +60,7 @@ For diff views: base branch name for display purposes.
 optional blocks?: (Block | KnownBlock)[];
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:172](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L172)
+Defined in: [packages/web-api/src/types/request/agents.ts:172](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L172)
 
 #### Description
 
@@ -74,7 +74,7 @@ Block Kit blocks to render in the view tab. Required when `type` is `block_kit`;
 optional canvas_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:174](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L174)
+Defined in: [packages/web-api/src/types/request/agents.ts:174](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L174)
 
 #### Description
 
@@ -88,7 +88,7 @@ Encoded ID of the canvas to attach as the view. Required when `type` is `canvas`
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:154](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L154)
+Defined in: [packages/web-api/src/types/request/agents.ts:154](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L154)
 
 #### Description
 
@@ -102,7 +102,7 @@ ID of the code channel to render the view in.
 optional content?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:170](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L170)
+Defined in: [packages/web-api/src/types/request/agents.ts:170](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L170)
 
 #### Description
 
@@ -117,7 +117,7 @@ Capped at 1,000,000 bytes — larger content returns content_too_large. The cap 
 optional csp?: object;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:200](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L200)
+Defined in: [packages/web-api/src/types/request/agents.ts:200](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L200)
 
 #### connect\_domains?
 
@@ -152,7 +152,7 @@ Content-Security-Policy domain declarations for the view. Domains are validated 
 optional head_branch?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:190](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L190)
+Defined in: [packages/web-api/src/types/request/agents.ts:190](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L190)
 
 #### Description
 
@@ -166,7 +166,7 @@ For diff views: head branch name for display purposes.
 optional name?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:195](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L195)
+Defined in: [packages/web-api/src/types/request/agents.ts:195](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L195)
 
 #### Description
 
@@ -181,7 +181,7 @@ supplied). Defaults to the last path segment of `view_key`, stripped of any .htm
 optional pr_url?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:186](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L186)
+Defined in: [packages/web-api/src/types/request/agents.ts:186](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L186)
 
 #### Description
 
@@ -195,7 +195,7 @@ For pull_request views: the pull request's URL. Required when `type` is `pull_re
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -215,7 +215,7 @@ TokenOverridable.token
 optional type?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:160](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L160)
+Defined in: [packages/web-api/src/types/request/agents.ts:160](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L160)
 
 #### Description
 
@@ -231,7 +231,7 @@ required: `html` and `diff` require `content`, `block_kit` requires `blocks`, `c
 optional view_key?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:165](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L165)
+Defined in: [packages/web-api/src/types/request/agents.ts:165](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L165)
 
 #### Description
 

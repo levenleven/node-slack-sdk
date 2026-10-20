@@ -6,7 +6,7 @@
 const SlackTracerId: object;
 ```
 
-Defined in: [utils/constants.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/utils/constants.ts#L5)
+Defined in: [utils/constants.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/utils/constants.ts#L5)
 
 This file should be kept up to date with the source of truth in the Slack CLI repo
 

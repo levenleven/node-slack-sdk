@@ -9,4 +9,4 @@ type AllMessageMetadataEvents =
   | MessageMetadataUpdatedEvent;
 ```
 
-Defined in: [events/message-metadata.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L3)
+Defined in: [events/message-metadata.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L3)

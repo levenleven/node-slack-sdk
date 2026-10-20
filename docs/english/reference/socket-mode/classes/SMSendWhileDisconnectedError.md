@@ -2,7 +2,7 @@
 
 # Class: SMSendWhileDisconnectedError
 
-Defined in: [packages/socket-mode/src/errors.ts:76](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L76)
+Defined in: [packages/socket-mode/src/errors.ts:76](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L76)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/socket-mode/src/errors.ts:76](https://github.com/slackapi/
 new SMSendWhileDisconnectedError(): SMSendWhileDisconnectedError;
 ```
 
-Defined in: [packages/socket-mode/src/errors.ts:79](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L79)
+Defined in: [packages/socket-mode/src/errors.ts:79](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L79)
 
 #### Returns
 
@@ -48,7 +48,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: SendWhileDisconnectedError = ErrorCode.SendWhileDisconnectedError;
 ```
 
-Defined in: [packages/socket-mode/src/errors.ts:77](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L77)
+Defined in: [packages/socket-mode/src/errors.ts:77](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L77)
 
 #### Overrides
 

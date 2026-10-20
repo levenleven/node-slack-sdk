@@ -2,7 +2,7 @@
 
 # Interface: AppRequestedEvent
 
-Defined in: [events/app.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L6)
+Defined in: [events/app.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L6)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/app.ts:6](https://github.com/slackapi/node-slack-sdk/blob/ma
 app_request: object;
 ```
 
-Defined in: [events/app.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L8)
+Defined in: [events/app.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L8)
 
 #### app
 
@@ -172,7 +172,7 @@ id: string;
 date_created: number;
 ```
 
-Defined in: [events/app.ts:64](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L64)
+Defined in: [events/app.ts:64](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L64)
 
 ***
 
@@ -182,7 +182,7 @@ Defined in: [events/app.ts:64](https://github.com/slackapi/node-slack-sdk/blob/m
 is_user_app_collaborator: boolean;
 ```
 
-Defined in: [events/app.ts:46](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L46)
+Defined in: [events/app.ts:46](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L46)
 
 ***
 
@@ -192,7 +192,7 @@ Defined in: [events/app.ts:46](https://github.com/slackapi/node-slack-sdk/blob/m
 message: string;
 ```
 
-Defined in: [events/app.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L63)
+Defined in: [events/app.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L63)
 
 ***
 
@@ -212,7 +212,7 @@ previous_resolution:
   | null;
 ```
 
-Defined in: [events/app.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L37)
+Defined in: [events/app.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L37)
 
 ***
 
@@ -222,7 +222,7 @@ Defined in: [events/app.ts:37](https://github.com/slackapi/node-slack-sdk/blob/m
 scopes: object;
 ```
 
-Defined in: [events/app.ts:57](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L57)
+Defined in: [events/app.ts:57](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L57)
 
 #### description
 
@@ -256,7 +256,7 @@ token_type: "user" | "bot" | "app" | null;
 team: object;
 ```
 
-Defined in: [events/app.ts:52](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L52)
+Defined in: [events/app.ts:52](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L52)
 
 #### domain
 
@@ -284,7 +284,7 @@ name: string;
 type: "app_requested";
 ```
 
-Defined in: [events/app.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L7)
+Defined in: [events/app.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L7)
 
 ***
 
@@ -294,7 +294,7 @@ Defined in: [events/app.ts:7](https://github.com/slackapi/node-slack-sdk/blob/ma
 user: object;
 ```
 
-Defined in: [events/app.ts:47](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L47)
+Defined in: [events/app.ts:47](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L47)
 
 #### email
 

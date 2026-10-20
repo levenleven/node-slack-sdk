@@ -6,7 +6,7 @@
 type AdminInviteRequestsDeniedListResponse = WebAPICallResult & object;
 ```
 
-Defined in: [packages/web-api/src/types/response/AdminInviteRequestsDeniedListResponse.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/response/AdminInviteRequestsDeniedListResponse.ts#L11)
+Defined in: [packages/web-api/src/types/response/AdminInviteRequestsDeniedListResponse.ts:11](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/response/AdminInviteRequestsDeniedListResponse.ts#L11)
 
 ## Type Declaration
 

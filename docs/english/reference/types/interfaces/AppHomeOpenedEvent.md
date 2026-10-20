@@ -2,7 +2,7 @@
 
 # Interface: AppHomeOpenedEvent
 
-Defined in: [events/app.ts:67](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L67)
+Defined in: [events/app.ts:67](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L67)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/app.ts:67](https://github.com/slackapi/node-slack-sdk/blob/m
 channel: string;
 ```
 
-Defined in: [events/app.ts:70](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L70)
+Defined in: [events/app.ts:70](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L70)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/app.ts:70](https://github.com/slackapi/node-slack-sdk/blob/m
 optional context?: object;
 ```
 
-Defined in: [events/app.ts:73](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L73)
+Defined in: [events/app.ts:73](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L73)
 
 #### entities?
 
@@ -57,7 +57,7 @@ optional entities?:
 event_ts: string;
 ```
 
-Defined in: [events/app.ts:74](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L74)
+Defined in: [events/app.ts:74](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L74)
 
 ***
 
@@ -67,7 +67,7 @@ Defined in: [events/app.ts:74](https://github.com/slackapi/node-slack-sdk/blob/m
 optional tab?: "home" | "messages";
 ```
 
-Defined in: [events/app.ts:71](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L71)
+Defined in: [events/app.ts:71](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L71)
 
 ***
 
@@ -77,7 +77,7 @@ Defined in: [events/app.ts:71](https://github.com/slackapi/node-slack-sdk/blob/m
 type: "app_home_opened";
 ```
 
-Defined in: [events/app.ts:68](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L68)
+Defined in: [events/app.ts:68](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L68)
 
 ***
 
@@ -87,7 +87,7 @@ Defined in: [events/app.ts:68](https://github.com/slackapi/node-slack-sdk/blob/m
 user: string;
 ```
 
-Defined in: [events/app.ts:69](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L69)
+Defined in: [events/app.ts:69](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L69)
 
 ***
 
@@ -97,4 +97,4 @@ Defined in: [events/app.ts:69](https://github.com/slackapi/node-slack-sdk/blob/m
 optional view?: View;
 ```
 
-Defined in: [events/app.ts:72](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L72)
+Defined in: [events/app.ts:72](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/app.ts#L72)

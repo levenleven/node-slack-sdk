@@ -2,7 +2,7 @@
 
 # Interface: AdminUsersSessionInvalidateArguments
 
-Defined in: [packages/web-api/src/types/request/admin/users.ts:125](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L125)
+Defined in: [packages/web-api/src/types/request/admin/users.ts:125](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L125)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/admin/users.ts:125](https://gith
 session_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/users.ts:127](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L127)
+Defined in: [packages/web-api/src/types/request/admin/users.ts:127](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L127)
 
 #### Description
 
@@ -30,7 +30,7 @@ ID of the session to invalidate.
 team_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L61)
+Defined in: [packages/web-api/src/types/request/common.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L61)
 
 #### Description
 
@@ -50,7 +50,7 @@ TeamID.team_id
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

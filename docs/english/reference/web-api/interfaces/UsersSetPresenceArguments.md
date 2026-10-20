@@ -2,7 +2,7 @@
 
 # Interface: UsersSetPresenceArguments
 
-Defined in: [packages/web-api/src/types/request/users.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/users.ts#L61)
+Defined in: [packages/web-api/src/types/request/users.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/users.ts#L61)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/users.ts:61](https://github.com/
 presence: "auto" | "away";
 ```
 
-Defined in: [packages/web-api/src/types/request/users.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/users.ts#L63)
+Defined in: [packages/web-api/src/types/request/users.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/users.ts#L63)
 
 #### Description
 
@@ -30,7 +30,7 @@ Either `auto` or `away`.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

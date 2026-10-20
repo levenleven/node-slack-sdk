@@ -2,7 +2,7 @@
 
 # Interface: ChatStreamerOptions
 
-Defined in: [packages/web-api/src/chat-stream.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L7)
+Defined in: [packages/web-api/src/chat-stream.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L7)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [packages/web-api/src/chat-stream.ts:7](https://github.com/slackapi/
 optional buffer_size?: number;
 ```
 
-Defined in: [packages/web-api/src/chat-stream.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L12)
+Defined in: [packages/web-api/src/chat-stream.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/chat-stream.ts#L12)
 
 #### Description
 

@@ -2,7 +2,7 @@
 
 # Interface: ChannelHistoryChangedEvent
 
-Defined in: [events/channel.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L39)
+Defined in: [events/channel.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L39)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:39](https://github.com/slackapi/node-slack-sdk/bl
 event_ts: string;
 ```
 
-Defined in: [events/channel.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L43)
+Defined in: [events/channel.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L43)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/channel.ts:43](https://github.com/slackapi/node-slack-sdk/bl
 latest: string;
 ```
 
-Defined in: [events/channel.ts:41](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L41)
+Defined in: [events/channel.ts:41](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L41)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/channel.ts:41](https://github.com/slackapi/node-slack-sdk/bl
 ts: string;
 ```
 
-Defined in: [events/channel.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L42)
+Defined in: [events/channel.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L42)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/channel.ts:42](https://github.com/slackapi/node-slack-sdk/bl
 type: "channel_history_changed";
 ```
 
-Defined in: [events/channel.ts:40](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L40)
+Defined in: [events/channel.ts:40](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L40)

@@ -2,7 +2,7 @@
 
 # Interface: GroupCloseEvent
 
-Defined in: [events/group.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L9)
+Defined in: [events/group.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L9)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/group.ts:9](https://github.com/slackapi/node-slack-sdk/blob/
 channel: string;
 ```
 
-Defined in: [events/group.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L12)
+Defined in: [events/group.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L12)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/group.ts:12](https://github.com/slackapi/node-slack-sdk/blob
 type: "group_close";
 ```
 
-Defined in: [events/group.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L10)
+Defined in: [events/group.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L10)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [events/group.ts:10](https://github.com/slackapi/node-slack-sdk/blob
 user: string;
 ```
 
-Defined in: [events/group.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L11)
+Defined in: [events/group.ts:11](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L11)

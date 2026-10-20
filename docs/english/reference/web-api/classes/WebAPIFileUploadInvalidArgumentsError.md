@@ -2,7 +2,7 @@
 
 # Class: WebAPIFileUploadInvalidArgumentsError
 
-Defined in: [packages/web-api/src/errors.ts:99](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L99)
+Defined in: [packages/web-api/src/errors.ts:99](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L99)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/errors.ts:99](https://github.com/slackapi/node
 new WebAPIFileUploadInvalidArgumentsError(message, options?): WebAPIFileUploadInvalidArgumentsError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L31)
+Defined in: [packages/web-api/src/errors.ts:31](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L31)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: FileUploadInvalidArgumentsError = ErrorCode.FileUploadInvalidArgumentsError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:100](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L100)
+Defined in: [packages/web-api/src/errors.ts:100](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L100)
 
 #### Overrides
 

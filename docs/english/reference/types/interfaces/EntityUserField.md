@@ -2,7 +2,7 @@
 
 # Interface: EntityUserField
 
-Defined in: [message-metadata.ts:225](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L225)
+Defined in: [message-metadata.ts:225](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L225)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [message-metadata.ts:225](https://github.com/slackapi/node-slack-sdk
 optional email?: string;
 ```
 
-Defined in: [message-metadata.ts:228](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L228)
+Defined in: [message-metadata.ts:228](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L228)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [message-metadata.ts:228](https://github.com/slackapi/node-slack-sdk
 optional icon?: EntityIconField;
 ```
 
-Defined in: [message-metadata.ts:229](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L229)
+Defined in: [message-metadata.ts:229](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L229)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [message-metadata.ts:229](https://github.com/slackapi/node-slack-sdk
 text: string;
 ```
 
-Defined in: [message-metadata.ts:226](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L226)
+Defined in: [message-metadata.ts:226](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L226)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [message-metadata.ts:226](https://github.com/slackapi/node-slack-sdk
 optional url?: string;
 ```
 
-Defined in: [message-metadata.ts:227](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L227)
+Defined in: [message-metadata.ts:227](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L227)

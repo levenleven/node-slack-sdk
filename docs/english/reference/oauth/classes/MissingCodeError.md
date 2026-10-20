@@ -2,7 +2,7 @@
 
 # Class: MissingCodeError
 
-Defined in: [packages/oauth/src/errors.ts:51](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L51)
+Defined in: [packages/oauth/src/errors.ts:51](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L51)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/oauth/src/errors.ts:51](https://github.com/slackapi/node-s
 new MissingCodeError(message, options?): MissingCodeError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
+Defined in: [packages/oauth/src/errors.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: MissingCodeError = ErrorCode.MissingCodeError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:52](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L52)
+Defined in: [packages/oauth/src/errors.ts:52](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L52)
 
 #### Overrides
 

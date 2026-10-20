@@ -2,7 +2,7 @@
 
 # Interface: Confirmation
 
-Defined in: [message-attachments.ts:176](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L176)
+Defined in: [message-attachments.ts:176](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L176)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [message-attachments.ts:176](https://github.com/slackapi/node-slack-
 optional dismiss_text?: string;
 ```
 
-Defined in: [message-attachments.ts:177](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L177)
+Defined in: [message-attachments.ts:177](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L177)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [message-attachments.ts:177](https://github.com/slackapi/node-slack-
 optional ok_text?: string;
 ```
 
-Defined in: [message-attachments.ts:178](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L178)
+Defined in: [message-attachments.ts:178](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L178)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [message-attachments.ts:178](https://github.com/slackapi/node-slack-
 text: string;
 ```
 
-Defined in: [message-attachments.ts:179](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L179)
+Defined in: [message-attachments.ts:179](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L179)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [message-attachments.ts:179](https://github.com/slackapi/node-slack-
 optional title?: string;
 ```
 
-Defined in: [message-attachments.ts:180](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L180)
+Defined in: [message-attachments.ts:180](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L180)

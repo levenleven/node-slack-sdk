@@ -2,7 +2,7 @@
 
 # Interface: DNDUpdatedEvent
 
-Defined in: [events/dnd.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L1)
+Defined in: [events/dnd.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/dnd.ts:1](https://github.com/slackapi/node-slack-sdk/blob/ma
 dnd_status: object;
 ```
 
-Defined in: [events/dnd.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L4)
+Defined in: [events/dnd.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L4)
 
 #### dnd\_enabled
 
@@ -58,7 +58,7 @@ snooze_remaining: number;
 event_ts: string;
 ```
 
-Defined in: [events/dnd.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L12)
+Defined in: [events/dnd.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L12)
 
 ***
 
@@ -68,7 +68,7 @@ Defined in: [events/dnd.ts:12](https://github.com/slackapi/node-slack-sdk/blob/m
 type: "dnd_updated";
 ```
 
-Defined in: [events/dnd.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L2)
+Defined in: [events/dnd.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L2)
 
 ***
 
@@ -78,4 +78,4 @@ Defined in: [events/dnd.ts:2](https://github.com/slackapi/node-slack-sdk/blob/ma
 user: string;
 ```
 
-Defined in: [events/dnd.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L3)
+Defined in: [events/dnd.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/dnd.ts#L3)

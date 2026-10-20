@@ -2,7 +2,7 @@
 
 # Interface: GroupUnarchiveEvent
 
-Defined in: [events/group.ts:56](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L56)
+Defined in: [events/group.ts:56](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L56)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/group.ts:56](https://github.com/slackapi/node-slack-sdk/blob
 actor_id: string;
 ```
 
-Defined in: [events/group.ts:59](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L59)
+Defined in: [events/group.ts:59](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L59)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/group.ts:59](https://github.com/slackapi/node-slack-sdk/blob
 channel: string;
 ```
 
-Defined in: [events/group.ts:58](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L58)
+Defined in: [events/group.ts:58](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L58)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/group.ts:58](https://github.com/slackapi/node-slack-sdk/blob
 event_ts: string;
 ```
 
-Defined in: [events/group.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L60)
+Defined in: [events/group.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L60)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/group.ts:60](https://github.com/slackapi/node-slack-sdk/blob
 type: "group_unarchive";
 ```
 
-Defined in: [events/group.ts:57](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L57)
+Defined in: [events/group.ts:57](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L57)

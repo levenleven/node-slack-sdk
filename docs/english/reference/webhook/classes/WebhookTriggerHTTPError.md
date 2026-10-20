@@ -2,7 +2,7 @@
 
 # Class: WebhookTriggerHTTPError
 
-Defined in: [packages/webhook/src/errors.ts:59](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L59)
+Defined in: [packages/webhook/src/errors.ts:59](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L59)
 
 ## Extends
 
@@ -20,7 +20,7 @@ new WebhookTriggerHTTPError(
 ): WebhookTriggerHTTPError;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:65](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L65)
+Defined in: [packages/webhook/src/errors.ts:65](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L65)
 
 #### Parameters
 
@@ -52,7 +52,7 @@ Defined in: [packages/webhook/src/errors.ts:65](https://github.com/slackapi/node
 readonly body: string;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L63)
+Defined in: [packages/webhook/src/errors.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L63)
 
 ***
 
@@ -76,7 +76,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: HTTPError = ErrorCode.HTTPError;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L60)
+Defined in: [packages/webhook/src/errors.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L60)
 
 #### Overrides
 
@@ -132,7 +132,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1078
 readonly statusCode: number;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L61)
+Defined in: [packages/webhook/src/errors.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L61)
 
 ***
 
@@ -142,7 +142,7 @@ Defined in: [packages/webhook/src/errors.ts:61](https://github.com/slackapi/node
 readonly statusMessage: string;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:62](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L62)
+Defined in: [packages/webhook/src/errors.ts:62](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L62)
 
 ***
 

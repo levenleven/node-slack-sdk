@@ -2,7 +2,7 @@
 
 # Interface: ConversationsSetTopicArguments
 
-Defined in: [packages/web-api/src/types/request/conversations.ts:243](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/conversations.ts#L243)
+Defined in: [packages/web-api/src/types/request/conversations.ts:243](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/conversations.ts#L243)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/conversations.ts:243](https://gi
 channel: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/conversations.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/conversations.ts#L15)
+Defined in: [packages/web-api/src/types/request/conversations.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/conversations.ts#L15)
 
 #### Description
 
@@ -36,7 +36,7 @@ Channel.channel
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -56,7 +56,7 @@ TokenOverridable.token
 topic: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/conversations.ts:245](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/conversations.ts#L245)
+Defined in: [packages/web-api/src/types/request/conversations.ts:245](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/conversations.ts#L245)
 
 #### Description
 

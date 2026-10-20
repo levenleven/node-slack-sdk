@@ -2,7 +2,7 @@
 
 # Interface: RTMPlatformError
 
-Defined in: [packages/rtm-api/src/errors.ts:33](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L33)
+Defined in: [packages/rtm-api/src/errors.ts:33](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L33)
 
 All errors produced by this package adhere to this interface
 
@@ -32,7 +32,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 code: SendMessagePlatformError;
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:34](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L34)
+Defined in: [packages/rtm-api/src/errors.ts:34](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L34)
 
 #### Overrides
 
@@ -46,7 +46,7 @@ Defined in: [packages/rtm-api/src/errors.ts:34](https://github.com/slackapi/node
 data: RTMCallResult;
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L35)
+Defined in: [packages/rtm-api/src/errors.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L35)
 
 ***
 

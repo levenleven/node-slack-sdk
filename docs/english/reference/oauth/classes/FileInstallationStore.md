@@ -2,7 +2,7 @@
 
 # Class: FileInstallationStore
 
-Defined in: [packages/oauth/src/installation-stores/file-store.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L14)
+Defined in: [packages/oauth/src/installation-stores/file-store.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L14)
 
 ## Implements
 
@@ -16,7 +16,7 @@ Defined in: [packages/oauth/src/installation-stores/file-store.ts:14](https://gi
 new FileInstallationStore(__namedParameters?): FileInstallationStore;
 ```
 
-Defined in: [packages/oauth/src/installation-stores/file-store.ts:19](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L19)
+Defined in: [packages/oauth/src/installation-stores/file-store.ts:19](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L19)
 
 #### Parameters
 
@@ -36,7 +36,7 @@ Defined in: [packages/oauth/src/installation-stores/file-store.ts:19](https://gi
 deleteInstallation(query, logger?): Promise<void>;
 ```
 
-Defined in: [packages/oauth/src/installation-stores/file-store.ts:99](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L99)
+Defined in: [packages/oauth/src/installation-stores/file-store.ts:99](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L99)
 
 #### Parameters
 
@@ -64,7 +64,7 @@ Defined in: [packages/oauth/src/installation-stores/file-store.ts:99](https://gi
 fetchInstallation(query, logger?): Promise<Installation<"v1" | "v2", boolean>>;
 ```
 
-Defined in: [packages/oauth/src/installation-stores/file-store.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L61)
+Defined in: [packages/oauth/src/installation-stores/file-store.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L61)
 
 #### Parameters
 
@@ -92,7 +92,7 @@ Defined in: [packages/oauth/src/installation-stores/file-store.ts:61](https://gi
 storeInstallation(installation, logger?): Promise<void>;
 ```
 
-Defined in: [packages/oauth/src/installation-stores/file-store.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L28)
+Defined in: [packages/oauth/src/installation-stores/file-store.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/installation-stores/file-store.ts#L28)
 
 #### Parameters
 

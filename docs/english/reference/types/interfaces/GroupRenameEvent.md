@@ -2,7 +2,7 @@
 
 # Interface: GroupRenameEvent
 
-Defined in: [events/group.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L43)
+Defined in: [events/group.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L43)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/group.ts:43](https://github.com/slackapi/node-slack-sdk/blob
 channel: object;
 ```
 
-Defined in: [events/group.ts:45](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L45)
+Defined in: [events/group.ts:45](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L45)
 
 #### created
 
@@ -58,7 +58,7 @@ name_normalized: string;
 event_ts: string;
 ```
 
-Defined in: [events/group.ts:53](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L53)
+Defined in: [events/group.ts:53](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L53)
 
 ***
 
@@ -68,4 +68,4 @@ Defined in: [events/group.ts:53](https://github.com/slackapi/node-slack-sdk/blob
 type: "group_rename";
 ```
 
-Defined in: [events/group.ts:44](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L44)
+Defined in: [events/group.ts:44](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L44)

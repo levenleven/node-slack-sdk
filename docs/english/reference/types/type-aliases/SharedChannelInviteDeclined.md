@@ -6,7 +6,7 @@
 type SharedChannelInviteDeclined = SharedChannelInviteDeclinedEvent;
 ```
 
-Defined in: [events/shared-channel.ts:89](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L89)
+Defined in: [events/shared-channel.ts:89](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L89)
 
 ## Deprecated
 

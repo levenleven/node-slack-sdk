@@ -2,7 +2,7 @@
 
 # Interface: SelectOption
 
-Defined in: [dialog.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L35)
+Defined in: [dialog.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L35)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [dialog.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/
 label: string;
 ```
 
-Defined in: [dialog.ts:36](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L36)
+Defined in: [dialog.ts:36](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L36)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [dialog.ts:36](https://github.com/slackapi/node-slack-sdk/blob/main/
 value: string;
 ```
 
-Defined in: [dialog.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L37)
+Defined in: [dialog.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L37)

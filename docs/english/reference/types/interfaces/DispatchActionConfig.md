@@ -2,7 +2,7 @@
 
 # Interface: DispatchActionConfig
 
-Defined in: [block-kit/composition-objects.ts:58](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L58)
+Defined in: [block-kit/composition-objects.ts:58](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L58)
 
 ## Description
 
@@ -20,7 +20,7 @@ Defines when a [PlainTextElement](PlainTextElement.md) will return a [\`block\_a
 optional trigger_actions_on?: ("on_enter_pressed" | "on_character_entered")[];
 ```
 
-Defined in: [block-kit/composition-objects.ts:67](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L67)
+Defined in: [block-kit/composition-objects.ts:67](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L67)
 
 #### Description
 

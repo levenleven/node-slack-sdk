@@ -2,7 +2,7 @@
 
 # Class: WebAPIRateLimitedError
 
-Defined in: [packages/web-api/src/errors.ts:89](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L89)
+Defined in: [packages/web-api/src/errors.ts:89](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L89)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/errors.ts:89](https://github.com/slackapi/node
 new WebAPIRateLimitedError(retryAfter): WebAPIRateLimitedError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:93](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L93)
+Defined in: [packages/web-api/src/errors.ts:93](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L93)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: RateLimitedError = ErrorCode.RateLimitedError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:90](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L90)
+Defined in: [packages/web-api/src/errors.ts:90](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L90)
 
 #### Overrides
 
@@ -96,7 +96,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
 readonly retryAfter: number;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:91](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L91)
+Defined in: [packages/web-api/src/errors.ts:91](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L91)
 
 ***
 

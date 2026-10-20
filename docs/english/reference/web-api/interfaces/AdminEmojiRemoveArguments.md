@@ -2,7 +2,7 @@
 
 # Interface: AdminEmojiRemoveArguments
 
-Defined in: [packages/web-api/src/types/request/admin/emoji.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/emoji.ts#L35)
+Defined in: [packages/web-api/src/types/request/admin/emoji.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/emoji.ts#L35)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/admin/emoji.ts:35](https://githu
 name: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/emoji.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/emoji.ts#L10)
+Defined in: [packages/web-api/src/types/request/admin/emoji.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/emoji.ts#L10)
 
 #### Description
 
@@ -37,7 +37,7 @@ Name.name
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

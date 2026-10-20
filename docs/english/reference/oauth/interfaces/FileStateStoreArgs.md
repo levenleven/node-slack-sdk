@@ -2,7 +2,7 @@
 
 # Interface: FileStateStoreArgs
 
-Defined in: [packages/oauth/src/state-stores/file-state-store.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/state-stores/file-state-store.ts#L11)
+Defined in: [packages/oauth/src/state-stores/file-state-store.ts:11](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/state-stores/file-state-store.ts#L11)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [packages/oauth/src/state-stores/file-state-store.ts:11](https://git
 optional baseDir?: string;
 ```
 
-Defined in: [packages/oauth/src/state-stores/file-state-store.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/state-stores/file-state-store.ts#L13)
+Defined in: [packages/oauth/src/state-stores/file-state-store.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/state-stores/file-state-store.ts#L13)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [packages/oauth/src/state-stores/file-state-store.ts:13](https://git
 optional logger?: Logger;
 ```
 
-Defined in: [packages/oauth/src/state-stores/file-state-store.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/state-stores/file-state-store.ts#L14)
+Defined in: [packages/oauth/src/state-stores/file-state-store.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/state-stores/file-state-store.ts#L14)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [packages/oauth/src/state-stores/file-state-store.ts:14](https://git
 optional stateExpirationSeconds?: number;
 ```
 
-Defined in: [packages/oauth/src/state-stores/file-state-store.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/state-stores/file-state-store.ts#L12)
+Defined in: [packages/oauth/src/state-stores/file-state-store.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/state-stores/file-state-store.ts#L12)

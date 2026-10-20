@@ -2,7 +2,7 @@
 
 # Interface: ReactionAddedEvent
 
-Defined in: [events/reaction.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L7)
+Defined in: [events/reaction.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L7)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/reaction.ts:7](https://github.com/slackapi/node-slack-sdk/bl
 event_ts: string;
 ```
 
-Defined in: [events/reaction.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L13)
+Defined in: [events/reaction.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L13)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/reaction.ts:13](https://github.com/slackapi/node-slack-sdk/b
 item: ReactionMessageItem;
 ```
 
-Defined in: [events/reaction.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L12)
+Defined in: [events/reaction.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L12)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/reaction.ts:12](https://github.com/slackapi/node-slack-sdk/b
 item_user: string;
 ```
 
-Defined in: [events/reaction.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L11)
+Defined in: [events/reaction.ts:11](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L11)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/reaction.ts:11](https://github.com/slackapi/node-slack-sdk/b
 reaction: string;
 ```
 
-Defined in: [events/reaction.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L10)
+Defined in: [events/reaction.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L10)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [events/reaction.ts:10](https://github.com/slackapi/node-slack-sdk/b
 type: "reaction_added";
 ```
 
-Defined in: [events/reaction.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L8)
+Defined in: [events/reaction.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L8)
 
 ***
 
@@ -62,4 +62,4 @@ Defined in: [events/reaction.ts:8](https://github.com/slackapi/node-slack-sdk/bl
 user: string;
 ```
 
-Defined in: [events/reaction.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L9)
+Defined in: [events/reaction.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/reaction.ts#L9)

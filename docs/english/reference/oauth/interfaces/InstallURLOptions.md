@@ -2,7 +2,7 @@
 
 # Interface: InstallURLOptions
 
-Defined in: [packages/oauth/src/install-url-options.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L1)
+Defined in: [packages/oauth/src/install-url-options.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [packages/oauth/src/install-url-options.ts:1](https://github.com/sla
 optional metadata?: string;
 ```
 
-Defined in: [packages/oauth/src/install-url-options.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L6)
+Defined in: [packages/oauth/src/install-url-options.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L6)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [packages/oauth/src/install-url-options.ts:6](https://github.com/sla
 optional redirectUri?: string;
 ```
 
-Defined in: [packages/oauth/src/install-url-options.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L4)
+Defined in: [packages/oauth/src/install-url-options.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L4)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [packages/oauth/src/install-url-options.ts:4](https://github.com/sla
 scopes: string | string[];
 ```
 
-Defined in: [packages/oauth/src/install-url-options.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L2)
+Defined in: [packages/oauth/src/install-url-options.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L2)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [packages/oauth/src/install-url-options.ts:2](https://github.com/sla
 optional teamId?: string;
 ```
 
-Defined in: [packages/oauth/src/install-url-options.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L3)
+Defined in: [packages/oauth/src/install-url-options.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L3)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [packages/oauth/src/install-url-options.ts:3](https://github.com/sla
 optional userScopes?: string | string[];
 ```
 
-Defined in: [packages/oauth/src/install-url-options.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L5)
+Defined in: [packages/oauth/src/install-url-options.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/install-url-options.ts#L5)

@@ -2,7 +2,7 @@
 
 # Interface: PinAddedEvent
 
-Defined in: [events/pin.ts:32](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L32)
+Defined in: [events/pin.ts:32](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L32)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/pin.ts:32](https://github.com/slackapi/node-slack-sdk/blob/m
 channel_id: string;
 ```
 
-Defined in: [events/pin.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L35)
+Defined in: [events/pin.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L35)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/pin.ts:35](https://github.com/slackapi/node-slack-sdk/blob/m
 event_ts: string;
 ```
 
-Defined in: [events/pin.ts:44](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L44)
+Defined in: [events/pin.ts:44](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L44)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/pin.ts:44](https://github.com/slackapi/node-slack-sdk/blob/m
 item: PinnedItem;
 ```
 
-Defined in: [events/pin.ts:36](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L36)
+Defined in: [events/pin.ts:36](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L36)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/pin.ts:36](https://github.com/slackapi/node-slack-sdk/blob/m
 item_user: string;
 ```
 
-Defined in: [events/pin.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L37)
+Defined in: [events/pin.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L37)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [events/pin.ts:37](https://github.com/slackapi/node-slack-sdk/blob/m
 pin_count: string;
 ```
 
-Defined in: [events/pin.ts:38](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L38)
+Defined in: [events/pin.ts:38](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L38)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [events/pin.ts:38](https://github.com/slackapi/node-slack-sdk/blob/m
 pinned_info: object;
 ```
 
-Defined in: [events/pin.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L39)
+Defined in: [events/pin.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L39)
 
 #### channel
 
@@ -90,7 +90,7 @@ pinned_ts: number;
 type: "pin_added";
 ```
 
-Defined in: [events/pin.ts:33](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L33)
+Defined in: [events/pin.ts:33](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L33)
 
 ***
 
@@ -100,4 +100,4 @@ Defined in: [events/pin.ts:33](https://github.com/slackapi/node-slack-sdk/blob/m
 user: string;
 ```
 
-Defined in: [events/pin.ts:34](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L34)
+Defined in: [events/pin.ts:34](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/pin.ts#L34)

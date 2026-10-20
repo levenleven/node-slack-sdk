@@ -2,7 +2,7 @@
 
 # Interface: AssistantThreadContextChangedEvent
 
-Defined in: [events/assistant.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L16)
+Defined in: [events/assistant.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L16)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/assistant.ts:16](https://github.com/slackapi/node-slack-sdk/
 assistant_thread: object;
 ```
 
-Defined in: [events/assistant.ts:18](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L18)
+Defined in: [events/assistant.ts:18](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L18)
 
 #### channel\_id
 
@@ -64,7 +64,7 @@ user_id: string;
 event_ts: string;
 ```
 
-Defined in: [events/assistant.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L28)
+Defined in: [events/assistant.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L28)
 
 ***
 
@@ -74,4 +74,4 @@ Defined in: [events/assistant.ts:28](https://github.com/slackapi/node-slack-sdk/
 type: "assistant_thread_context_changed";
 ```
 
-Defined in: [events/assistant.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L17)
+Defined in: [events/assistant.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/assistant.ts#L17)

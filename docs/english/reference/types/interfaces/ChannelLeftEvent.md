@@ -2,7 +2,7 @@
 
 # Interface: ChannelLeftEvent
 
-Defined in: [events/channel.ts:53](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L53)
+Defined in: [events/channel.ts:53](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L53)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:53](https://github.com/slackapi/node-slack-sdk/bl
 actor_id: string;
 ```
 
-Defined in: [events/channel.ts:56](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L56)
+Defined in: [events/channel.ts:56](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L56)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/channel.ts:56](https://github.com/slackapi/node-slack-sdk/bl
 channel: string;
 ```
 
-Defined in: [events/channel.ts:55](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L55)
+Defined in: [events/channel.ts:55](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L55)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/channel.ts:55](https://github.com/slackapi/node-slack-sdk/bl
 event_ts: string;
 ```
 
-Defined in: [events/channel.ts:57](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L57)
+Defined in: [events/channel.ts:57](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L57)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/channel.ts:57](https://github.com/slackapi/node-slack-sdk/bl
 type: "channel_left";
 ```
 
-Defined in: [events/channel.ts:54](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L54)
+Defined in: [events/channel.ts:54](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L54)

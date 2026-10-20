@@ -2,7 +2,7 @@
 
 # Abstract Class: SlackWebhookError
 
-Defined in: [packages/webhook/src/errors.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L15)
+Defined in: [packages/webhook/src/errors.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L15)
 
 ## Extends
 
@@ -23,7 +23,7 @@ Defined in: [packages/webhook/src/errors.ts:15](https://github.com/slackapi/node
 new SlackWebhookError(message, options?): SlackWebhookError;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:18](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L18)
+Defined in: [packages/webhook/src/errors.ts:18](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L18)
 
 #### Parameters
 
@@ -69,7 +69,7 @@ Error.cause
 abstract readonly code: ErrorCode;
 ```
 
-Defined in: [packages/webhook/src/errors.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L16)
+Defined in: [packages/webhook/src/errors.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L16)
 
 ***
 

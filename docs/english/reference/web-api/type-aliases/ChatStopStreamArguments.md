@@ -6,7 +6,7 @@
 type ChatStopStreamArguments = TokenOverridable & ChannelAndTS & Partial<MarkdownText> & Partial<Metadata> & object;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:280](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L280)
+Defined in: [packages/web-api/src/types/request/chat.ts:280](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L280)
 
 ## Type Declaration
 

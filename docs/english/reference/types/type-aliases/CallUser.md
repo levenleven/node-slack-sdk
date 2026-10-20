@@ -8,7 +8,7 @@ type CallUser =
   | CallUserExternal;
 ```
 
-Defined in: [calls.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/calls.ts#L8)
+Defined in: [calls.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/calls.ts#L8)
 
 ## Description
 

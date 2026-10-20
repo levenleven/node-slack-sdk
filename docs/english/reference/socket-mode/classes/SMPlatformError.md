@@ -2,7 +2,7 @@
 
 # Class: SMPlatformError
 
-Defined in: [packages/socket-mode/src/errors.ts:45](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L45)
+Defined in: [packages/socket-mode/src/errors.ts:45](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L45)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/socket-mode/src/errors.ts:45](https://github.com/slackapi/
 new SMPlatformError(event): SMPlatformError;
 ```
 
-Defined in: [packages/socket-mode/src/errors.ts:49](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L49)
+Defined in: [packages/socket-mode/src/errors.ts:49](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L49)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: SendMessagePlatformError = ErrorCode.SendMessagePlatformError;
 ```
 
-Defined in: [packages/socket-mode/src/errors.ts:46](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L46)
+Defined in: [packages/socket-mode/src/errors.ts:46](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L46)
 
 #### Overrides
 
@@ -68,7 +68,7 @@ Defined in: [packages/socket-mode/src/errors.ts:46](https://github.com/slackapi/
 readonly data: SMPlatformErrorEvent;
 ```
 
-Defined in: [packages/socket-mode/src/errors.ts:47](https://github.com/slackapi/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L47)
+Defined in: [packages/socket-mode/src/errors.ts:47](https://github.com/levenleven/node-slack-sdk/blob/main/packages/socket-mode/src/errors.ts#L47)
 
 ***
 

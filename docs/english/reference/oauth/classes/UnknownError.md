@@ -2,7 +2,7 @@
 
 # Class: UnknownError
 
-Defined in: [packages/oauth/src/errors.ts:55](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L55)
+Defined in: [packages/oauth/src/errors.ts:55](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L55)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/oauth/src/errors.ts:55](https://github.com/slackapi/node-s
 new UnknownError(message, options?): UnknownError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
+Defined in: [packages/oauth/src/errors.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: UnknownError = ErrorCode.UnknownError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:56](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L56)
+Defined in: [packages/oauth/src/errors.ts:56](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L56)
 
 #### Overrides
 

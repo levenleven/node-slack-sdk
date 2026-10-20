@@ -2,7 +2,7 @@
 
 # Interface: WebhookTriggerDefaultArguments
 
-Defined in: [packages/webhook/src/WebhookTrigger.ts:113](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/WebhookTrigger.ts#L113)
+Defined in: [packages/webhook/src/WebhookTrigger.ts:113](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/WebhookTrigger.ts#L113)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [packages/webhook/src/WebhookTrigger.ts:113](https://github.com/slac
 optional fetch?: FetchFunction;
 ```
 
-Defined in: [packages/webhook/src/WebhookTrigger.ts:114](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/WebhookTrigger.ts#L114)
+Defined in: [packages/webhook/src/WebhookTrigger.ts:114](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/WebhookTrigger.ts#L114)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [packages/webhook/src/WebhookTrigger.ts:114](https://github.com/slac
 optional retryConfig?: RetryOptions;
 ```
 
-Defined in: [packages/webhook/src/WebhookTrigger.ts:116](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/WebhookTrigger.ts#L116)
+Defined in: [packages/webhook/src/WebhookTrigger.ts:116](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/WebhookTrigger.ts#L116)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [packages/webhook/src/WebhookTrigger.ts:116](https://github.com/slac
 optional timeout?: number;
 ```
 
-Defined in: [packages/webhook/src/WebhookTrigger.ts:115](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/WebhookTrigger.ts#L115)
+Defined in: [packages/webhook/src/WebhookTrigger.ts:115](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/WebhookTrigger.ts#L115)

@@ -2,7 +2,7 @@
 
 # Interface: StateObj
 
-Defined in: [packages/oauth/src/state-stores/interface.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/state-stores/interface.ts#L6)
+Defined in: [packages/oauth/src/state-stores/interface.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/state-stores/interface.ts#L6)
 
 The data structure represented by the state parameter.
 
@@ -14,7 +14,7 @@ The data structure represented by the state parameter.
 installOptions: InstallURLOptions;
 ```
 
-Defined in: [packages/oauth/src/state-stores/interface.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/state-stores/interface.ts#L15)
+Defined in: [packages/oauth/src/state-stores/interface.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/state-stores/interface.ts#L15)
 
 The passed InstallURLOptions object when generating this state parameter.
 
@@ -26,7 +26,7 @@ The passed InstallURLOptions object when generating this state parameter.
 now: Date;
 ```
 
-Defined in: [packages/oauth/src/state-stores/interface.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/state-stores/interface.ts#L10)
+Defined in: [packages/oauth/src/state-stores/interface.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/state-stores/interface.ts#L10)
 
 The timestamp that the state object was generated.
 
@@ -38,4 +38,4 @@ The timestamp that the state object was generated.
 optional random?: string | number;
 ```
 
-Defined in: [packages/oauth/src/state-stores/interface.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/state-stores/interface.ts#L16)
+Defined in: [packages/oauth/src/state-stores/interface.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/state-stores/interface.ts#L16)

@@ -2,7 +2,7 @@
 
 # Interface: WorkflowDeletedEvent
 
-Defined in: [events/steps-from-apps.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L1)
+Defined in: [events/steps-from-apps.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/steps-from-apps.ts:1](https://github.com/slackapi/node-slack
 event_ts: string;
 ```
 
-Defined in: [events/steps-from-apps.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L12)
+Defined in: [events/steps-from-apps.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L12)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/steps-from-apps.ts:12](https://github.com/slackapi/node-slac
 type: "workflow_deleted";
 ```
 
-Defined in: [events/steps-from-apps.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L2)
+Defined in: [events/steps-from-apps.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L2)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/steps-from-apps.ts:2](https://github.com/slackapi/node-slack
 workflow_draft_configuration: object;
 ```
 
-Defined in: [events/steps-from-apps.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L4)
+Defined in: [events/steps-from-apps.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L4)
 
 #### app\_steps
 
@@ -54,4 +54,4 @@ version_id: string;
 workflow_id: string;
 ```
 
-Defined in: [events/steps-from-apps.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L3)
+Defined in: [events/steps-from-apps.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L3)

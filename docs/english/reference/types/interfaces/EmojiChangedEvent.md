@@ -2,7 +2,7 @@
 
 # Interface: EmojiChangedEvent
 
-Defined in: [events/emoji.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L2)
+Defined in: [events/emoji.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L2)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/emoji.ts:2](https://github.com/slackapi/node-slack-sdk/blob/
 event_ts: string;
 ```
 
-Defined in: [events/emoji.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L10)
+Defined in: [events/emoji.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L10)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/emoji.ts:10](https://github.com/slackapi/node-slack-sdk/blob
 optional name?: string;
 ```
 
-Defined in: [events/emoji.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L6)
+Defined in: [events/emoji.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L6)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/emoji.ts:6](https://github.com/slackapi/node-slack-sdk/blob/
 optional names?: string[];
 ```
 
-Defined in: [events/emoji.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L5)
+Defined in: [events/emoji.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L5)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/emoji.ts:5](https://github.com/slackapi/node-slack-sdk/blob/
 optional new_name?: string;
 ```
 
-Defined in: [events/emoji.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L9)
+Defined in: [events/emoji.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L9)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [events/emoji.ts:9](https://github.com/slackapi/node-slack-sdk/blob/
 optional old_name?: string;
 ```
 
-Defined in: [events/emoji.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L8)
+Defined in: [events/emoji.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L8)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [events/emoji.ts:8](https://github.com/slackapi/node-slack-sdk/blob/
 subtype: "add" | "remove" | "rename";
 ```
 
-Defined in: [events/emoji.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L4)
+Defined in: [events/emoji.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L4)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [events/emoji.ts:4](https://github.com/slackapi/node-slack-sdk/blob/
 type: "emoji_changed";
 ```
 
-Defined in: [events/emoji.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L3)
+Defined in: [events/emoji.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L3)
 
 ***
 
@@ -82,4 +82,4 @@ Defined in: [events/emoji.ts:3](https://github.com/slackapi/node-slack-sdk/blob/
 optional value?: string;
 ```
 
-Defined in: [events/emoji.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L7)
+Defined in: [events/emoji.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/emoji.ts#L7)

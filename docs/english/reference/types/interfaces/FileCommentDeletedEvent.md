@@ -2,7 +2,7 @@
 
 # Interface: FileCommentDeletedEvent
 
-Defined in: [events/file.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L11)
+Defined in: [events/file.ts:11](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L11)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/file.ts:11](https://github.com/slackapi/node-slack-sdk/blob/
 comment: string;
 ```
 
-Defined in: [events/file.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L13)
+Defined in: [events/file.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L13)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/file.ts:13](https://github.com/slackapi/node-slack-sdk/blob/
 file: object;
 ```
 
-Defined in: [events/file.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L15)
+Defined in: [events/file.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L15)
 
 #### id
 
@@ -38,7 +38,7 @@ id: string;
 file_id: string;
 ```
 
-Defined in: [events/file.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L14)
+Defined in: [events/file.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L14)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [events/file.ts:14](https://github.com/slackapi/node-slack-sdk/blob/
 type: "file_comment_deleted";
 ```
 
-Defined in: [events/file.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L12)
+Defined in: [events/file.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L12)

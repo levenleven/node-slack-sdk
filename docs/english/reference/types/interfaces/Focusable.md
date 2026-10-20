@@ -2,7 +2,7 @@
 
 # Interface: Focusable
 
-Defined in: [block-kit/extensions.ts:36](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L36)
+Defined in: [block-kit/extensions.ts:36](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L36)
 
 ## Extended by
 
@@ -35,7 +35,7 @@ Defined in: [block-kit/extensions.ts:36](https://github.com/slackapi/node-slack-
 optional focus_on_load?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
+Defined in: [block-kit/extensions.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
 
 #### Description
 

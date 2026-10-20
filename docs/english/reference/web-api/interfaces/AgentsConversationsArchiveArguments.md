@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsArchiveArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L6)
+Defined in: [packages/web-api/src/types/request/agents.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L6)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:6](https://github.com/
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L8)
+Defined in: [packages/web-api/src/types/request/agents.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L8)
 
 #### Description
 
@@ -30,7 +30,7 @@ ID of the code channel to archive.
 optional summary_message_ts?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L13)
+Defined in: [packages/web-api/src/types/request/agents.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L13)
 
 #### Description
 
@@ -45,7 +45,7 @@ Requires the channel to have an `origin_link` set.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

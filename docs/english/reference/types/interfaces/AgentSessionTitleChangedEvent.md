@@ -2,7 +2,7 @@
 
 # Interface: AgentSessionTitleChangedEvent
 
-Defined in: [events/agent.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L12)
+Defined in: [events/agent.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L12)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/agent.ts:12](https://github.com/slackapi/node-slack-sdk/blob
 channel: string;
 ```
 
-Defined in: [events/agent.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L14)
+Defined in: [events/agent.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L14)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/agent.ts:14](https://github.com/slackapi/node-slack-sdk/blob
 event_ts: string;
 ```
 
-Defined in: [events/agent.ts:20](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L20)
+Defined in: [events/agent.ts:20](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L20)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/agent.ts:20](https://github.com/slackapi/node-slack-sdk/blob
 optional previous_title?: string;
 ```
 
-Defined in: [events/agent.ts:19](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L19)
+Defined in: [events/agent.ts:19](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L19)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/agent.ts:19](https://github.com/slackapi/node-slack-sdk/blob
 team_id: string;
 ```
 
-Defined in: [events/agent.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L16)
+Defined in: [events/agent.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L16)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [events/agent.ts:16](https://github.com/slackapi/node-slack-sdk/blob
 thread_ts: string;
 ```
 
-Defined in: [events/agent.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L17)
+Defined in: [events/agent.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L17)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [events/agent.ts:17](https://github.com/slackapi/node-slack-sdk/blob
 title: string;
 ```
 
-Defined in: [events/agent.ts:18](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L18)
+Defined in: [events/agent.ts:18](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L18)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [events/agent.ts:18](https://github.com/slackapi/node-slack-sdk/blob
 type: "agent_session_title_changed";
 ```
 
-Defined in: [events/agent.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L13)
+Defined in: [events/agent.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L13)
 
 ***
 
@@ -82,4 +82,4 @@ Defined in: [events/agent.ts:13](https://github.com/slackapi/node-slack-sdk/blob
 user: string;
 ```
 
-Defined in: [events/agent.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L15)
+Defined in: [events/agent.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L15)

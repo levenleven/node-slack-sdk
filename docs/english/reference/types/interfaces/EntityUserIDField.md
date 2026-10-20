@@ -2,7 +2,7 @@
 
 # Interface: EntityUserIDField
 
-Defined in: [message-metadata.ts:221](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L221)
+Defined in: [message-metadata.ts:221](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L221)
 
 ## Properties
 
@@ -12,4 +12,4 @@ Defined in: [message-metadata.ts:221](https://github.com/slackapi/node-slack-sdk
 user_id: string;
 ```
 
-Defined in: [message-metadata.ts:222](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L222)
+Defined in: [message-metadata.ts:222](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L222)

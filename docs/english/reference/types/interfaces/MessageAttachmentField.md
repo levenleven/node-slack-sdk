@@ -2,7 +2,7 @@
 
 # Interface: MessageAttachmentField
 
-Defined in: [message-attachments.ts:124](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L124)
+Defined in: [message-attachments.ts:124](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L124)
 
 ## Description
 
@@ -20,7 +20,7 @@ A field object to include in a [MessageAttachment](MessageAttachment.md).
 optional short?: boolean;
 ```
 
-Defined in: [message-attachments.ts:138](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L138)
+Defined in: [message-attachments.ts:138](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L138)
 
 #### Description
 
@@ -35,7 +35,7 @@ other field objects. Defaults to `false`.
 title: string;
 ```
 
-Defined in: [message-attachments.ts:129](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L129)
+Defined in: [message-attachments.ts:129](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L129)
 
 #### Description
 
@@ -50,7 +50,7 @@ will be escaped for you.
 value: string;
 ```
 
-Defined in: [message-attachments.ts:133](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L133)
+Defined in: [message-attachments.ts:133](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-attachments.ts#L133)
 
 #### Description
 

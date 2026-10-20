@@ -2,7 +2,7 @@
 
 # Interface: FileCreatedEvent
 
-Defined in: [events/file.ts:20](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L20)
+Defined in: [events/file.ts:20](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L20)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/file.ts:20](https://github.com/slackapi/node-slack-sdk/blob/
 event_ts: string;
 ```
 
-Defined in: [events/file.ts:27](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L27)
+Defined in: [events/file.ts:27](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L27)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/file.ts:27](https://github.com/slackapi/node-slack-sdk/blob/
 file: object;
 ```
 
-Defined in: [events/file.ts:24](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L24)
+Defined in: [events/file.ts:24](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L24)
 
 #### id
 
@@ -38,7 +38,7 @@ id: string;
 file_id: string;
 ```
 
-Defined in: [events/file.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L22)
+Defined in: [events/file.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L22)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [events/file.ts:22](https://github.com/slackapi/node-slack-sdk/blob/
 type: "file_created";
 ```
 
-Defined in: [events/file.ts:21](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L21)
+Defined in: [events/file.ts:21](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L21)
 
 ***
 
@@ -58,4 +58,4 @@ Defined in: [events/file.ts:21](https://github.com/slackapi/node-slack-sdk/blob/
 user_id: string;
 ```
 
-Defined in: [events/file.ts:23](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L23)
+Defined in: [events/file.ts:23](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L23)

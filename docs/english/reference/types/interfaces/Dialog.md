@@ -2,7 +2,7 @@
 
 # ~~Interface: Dialog~~
 
-Defined in: [dialog.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L5)
+Defined in: [dialog.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L5)
 
 Reusable shapes for argument values
 
@@ -18,7 +18,7 @@ Dialogs are a deprecated surface in Slack. For more details on how to upgrade, c
 callback_id: string;
 ```
 
-Defined in: [dialog.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L7)
+Defined in: [dialog.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L7)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [dialog.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/p
 elements: object[];
 ```
 
-Defined in: [dialog.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L8)
+Defined in: [dialog.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L8)
 
 #### ~~data\_source?~~
 
@@ -128,7 +128,7 @@ optional value?: string;
 optional notify_on_cancel?: boolean;
 ```
 
-Defined in: [dialog.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L31)
+Defined in: [dialog.ts:31](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L31)
 
 ***
 
@@ -138,7 +138,7 @@ Defined in: [dialog.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/
 optional state?: string;
 ```
 
-Defined in: [dialog.ts:32](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L32)
+Defined in: [dialog.ts:32](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L32)
 
 ***
 
@@ -148,7 +148,7 @@ Defined in: [dialog.ts:32](https://github.com/slackapi/node-slack-sdk/blob/main/
 optional submit_label?: string;
 ```
 
-Defined in: [dialog.ts:30](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L30)
+Defined in: [dialog.ts:30](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L30)
 
 ***
 
@@ -158,4 +158,4 @@ Defined in: [dialog.ts:30](https://github.com/slackapi/node-slack-sdk/blob/main/
 title: string;
 ```
 
-Defined in: [dialog.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L6)
+Defined in: [dialog.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/dialog.ts#L6)

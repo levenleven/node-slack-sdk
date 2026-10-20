@@ -2,7 +2,7 @@
 
 # Interface: AssistantThreadsSetTitleArguments
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:50](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L50)
+Defined in: [packages/web-api/src/types/request/assistant.ts:50](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L50)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/assistant.ts:50](https://github.
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:52](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L52)
+Defined in: [packages/web-api/src/types/request/assistant.ts:52](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L52)
 
 #### Description
 
@@ -30,7 +30,7 @@ Channel ID containing the assistant thread.
 thread_ts: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:54](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L54)
+Defined in: [packages/web-api/src/types/request/assistant.ts:54](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L54)
 
 #### Description
 
@@ -44,7 +44,7 @@ Message timestamp of the thread.
 title: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/assistant.ts:56](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L56)
+Defined in: [packages/web-api/src/types/request/assistant.ts:56](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/assistant.ts#L56)
 
 #### Description
 
@@ -58,7 +58,7 @@ Title of the thread.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

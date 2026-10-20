@@ -2,7 +2,7 @@
 
 # Class: WebAPIPlatformError
 
-Defined in: [packages/web-api/src/errors.ts:38](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L38)
+Defined in: [packages/web-api/src/errors.ts:38](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L38)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/errors.ts:38](https://github.com/slackapi/node
 new WebAPIPlatformError(result): WebAPIPlatformError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L42)
+Defined in: [packages/web-api/src/errors.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L42)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: PlatformError = ErrorCode.PlatformError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L39)
+Defined in: [packages/web-api/src/errors.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L39)
 
 #### Overrides
 
@@ -68,7 +68,7 @@ Defined in: [packages/web-api/src/errors.ts:39](https://github.com/slackapi/node
 readonly data: WebAPICallResult & object;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:40](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L40)
+Defined in: [packages/web-api/src/errors.ts:40](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L40)
 
 #### Type Declaration
 

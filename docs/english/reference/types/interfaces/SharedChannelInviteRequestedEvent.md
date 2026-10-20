@@ -2,7 +2,7 @@
 
 # Interface: SharedChannelInviteRequestedEvent
 
-Defined in: [events/shared-channel.ts:103](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L103)
+Defined in: [events/shared-channel.ts:103](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L103)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/shared-channel.ts:103](https://github.com/slackapi/node-slac
 actor: object;
 ```
 
-Defined in: [events/shared-channel.ts:105](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L105)
+Defined in: [events/shared-channel.ts:105](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L105)
 
 #### display\_name
 
@@ -64,7 +64,7 @@ timezone: string;
 channel_date_created: number;
 ```
 
-Defined in: [events/shared-channel.ts:132](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L132)
+Defined in: [events/shared-channel.ts:132](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L132)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [events/shared-channel.ts:132](https://github.com/slackapi/node-slac
 channel_id: string;
 ```
 
-Defined in: [events/shared-channel.ts:114](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L114)
+Defined in: [events/shared-channel.ts:114](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L114)
 
 ***
 
@@ -84,7 +84,7 @@ Defined in: [events/shared-channel.ts:114](https://github.com/slackapi/node-slac
 channel_message_latest_counted_timestamp: number;
 ```
 
-Defined in: [events/shared-channel.ts:133](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L133)
+Defined in: [events/shared-channel.ts:133](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L133)
 
 ***
 
@@ -94,7 +94,7 @@ Defined in: [events/shared-channel.ts:133](https://github.com/slackapi/node-slac
 channel_name: string;
 ```
 
-Defined in: [events/shared-channel.ts:116](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L116)
+Defined in: [events/shared-channel.ts:116](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L116)
 
 ***
 
@@ -104,7 +104,7 @@ Defined in: [events/shared-channel.ts:116](https://github.com/slackapi/node-slac
 channel_type: "private" | "public";
 ```
 
-Defined in: [events/shared-channel.ts:117](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L117)
+Defined in: [events/shared-channel.ts:117](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L117)
 
 ***
 
@@ -114,7 +114,7 @@ Defined in: [events/shared-channel.ts:117](https://github.com/slackapi/node-slac
 event_ts: string;
 ```
 
-Defined in: [events/shared-channel.ts:134](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L134)
+Defined in: [events/shared-channel.ts:134](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L134)
 
 ***
 
@@ -124,7 +124,7 @@ Defined in: [events/shared-channel.ts:134](https://github.com/slackapi/node-slac
 event_type: "slack#/events/shared_channel_invite_requested";
 ```
 
-Defined in: [events/shared-channel.ts:115](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L115)
+Defined in: [events/shared-channel.ts:115](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L115)
 
 ***
 
@@ -134,7 +134,7 @@ Defined in: [events/shared-channel.ts:115](https://github.com/slackapi/node-slac
 is_external_limited: boolean;
 ```
 
-Defined in: [events/shared-channel.ts:131](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L131)
+Defined in: [events/shared-channel.ts:131](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L131)
 
 ***
 
@@ -147,7 +147,7 @@ target_users: [{
 }];
 ```
 
-Defined in: [events/shared-channel.ts:118](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L118)
+Defined in: [events/shared-channel.ts:118](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L118)
 
 ***
 
@@ -169,7 +169,7 @@ teams_in_channel: [{
 }];
 ```
 
-Defined in: [events/shared-channel.ts:119](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L119)
+Defined in: [events/shared-channel.ts:119](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L119)
 
 ***
 
@@ -179,4 +179,4 @@ Defined in: [events/shared-channel.ts:119](https://github.com/slackapi/node-slac
 type: "shared_channel_invite_requested";
 ```
 
-Defined in: [events/shared-channel.ts:104](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L104)
+Defined in: [events/shared-channel.ts:104](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/shared-channel.ts#L104)

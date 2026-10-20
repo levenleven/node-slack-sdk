@@ -2,7 +2,7 @@
 
 # Interface: FileChangeEvent
 
-Defined in: [events/file.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L3)
+Defined in: [events/file.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L3)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/file.ts:3](https://github.com/slackapi/node-slack-sdk/blob/m
 file: object;
 ```
 
-Defined in: [events/file.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L6)
+Defined in: [events/file.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L6)
 
 #### id
 
@@ -28,7 +28,7 @@ id: string;
 file_id: string;
 ```
 
-Defined in: [events/file.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L5)
+Defined in: [events/file.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L5)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [events/file.ts:5](https://github.com/slackapi/node-slack-sdk/blob/m
 type: "file_change";
 ```
 
-Defined in: [events/file.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L4)
+Defined in: [events/file.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/file.ts#L4)

@@ -2,7 +2,7 @@
 
 # Interface: MessageMetadataPostedEvent
 
-Defined in: [events/message-metadata.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L8)
+Defined in: [events/message-metadata.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L8)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/message-metadata.ts:8](https://github.com/slackapi/node-slac
 app_id: string;
 ```
 
-Defined in: [events/message-metadata.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L10)
+Defined in: [events/message-metadata.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L10)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/message-metadata.ts:10](https://github.com/slackapi/node-sla
 optional bot_id?: string;
 ```
 
-Defined in: [events/message-metadata.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L11)
+Defined in: [events/message-metadata.ts:11](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L11)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/message-metadata.ts:11](https://github.com/slackapi/node-sla
 channel_id: string;
 ```
 
-Defined in: [events/message-metadata.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L14)
+Defined in: [events/message-metadata.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L14)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/message-metadata.ts:14](https://github.com/slackapi/node-sla
 event_ts: string;
 ```
 
-Defined in: [events/message-metadata.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L17)
+Defined in: [events/message-metadata.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L17)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [events/message-metadata.ts:17](https://github.com/slackapi/node-sla
 message_ts: string;
 ```
 
-Defined in: [events/message-metadata.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L16)
+Defined in: [events/message-metadata.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L16)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [events/message-metadata.ts:16](https://github.com/slackapi/node-sla
 metadata: MessageMetadata;
 ```
 
-Defined in: [events/message-metadata.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L15)
+Defined in: [events/message-metadata.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L15)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [events/message-metadata.ts:15](https://github.com/slackapi/node-sla
 team_id: string;
 ```
 
-Defined in: [events/message-metadata.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L13)
+Defined in: [events/message-metadata.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L13)
 
 ***
 
@@ -82,7 +82,7 @@ Defined in: [events/message-metadata.ts:13](https://github.com/slackapi/node-sla
 type: "message_metadata_posted";
 ```
 
-Defined in: [events/message-metadata.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L9)
+Defined in: [events/message-metadata.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L9)
 
 ***
 
@@ -92,4 +92,4 @@ Defined in: [events/message-metadata.ts:9](https://github.com/slackapi/node-slac
 user_id: string;
 ```
 
-Defined in: [events/message-metadata.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L12)
+Defined in: [events/message-metadata.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/message-metadata.ts#L12)

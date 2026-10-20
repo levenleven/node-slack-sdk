@@ -2,7 +2,7 @@
 
 # Enumeration: LogLevel
 
-Defined in: [index.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L4)
+Defined in: [index.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L4)
 
 Severity levels for log entries
 
@@ -14,7 +14,7 @@ Severity levels for log entries
 DEBUG: "debug";
 ```
 
-Defined in: [index.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L8)
+Defined in: [index.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L8)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [index.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/pa
 ERROR: "error";
 ```
 
-Defined in: [index.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L5)
+Defined in: [index.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L5)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [index.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/pa
 INFO: "info";
 ```
 
-Defined in: [index.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L7)
+Defined in: [index.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L7)
 
 ***
 
@@ -44,4 +44,4 @@ Defined in: [index.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/pa
 WARN: "warn";
 ```
 
-Defined in: [index.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L6)
+Defined in: [index.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L6)

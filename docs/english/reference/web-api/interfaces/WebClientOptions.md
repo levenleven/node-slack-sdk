@@ -2,7 +2,7 @@
 
 # Interface: WebClientOptions
 
-Defined in: [packages/web-api/src/WebClient.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L43)
+Defined in: [packages/web-api/src/WebClient.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L43)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [packages/web-api/src/WebClient.ts:43](https://github.com/slackapi/n
 optional allowAbsoluteUrls?: boolean;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:71](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L71)
+Defined in: [packages/web-api/src/WebClient.ts:71](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L71)
 
 Determines if a dynamic method name being an absolute URL overrides the configured slackApiUrl.
 When set to false, the URL used in Slack API requests will always begin with the slackApiUrl.
@@ -33,7 +33,7 @@ true
 optional fetch?: FetchFunction;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:59](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L59)
+Defined in: [packages/web-api/src/WebClient.ts:59](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L59)
 
 A custom `fetch` implementation conforming to the WHATWG Fetch standard.
 Defaults to `globalThis.fetch`. Use this to configure proxies, TLS, or other transport-level behavior.
@@ -46,7 +46,7 @@ Defaults to `globalThis.fetch`. Use this to configure proxies, TLS, or other tra
 optional headers?: Record<string, string>;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:62](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L62)
+Defined in: [packages/web-api/src/WebClient.ts:62](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L62)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [packages/web-api/src/WebClient.ts:62](https://github.com/slackapi/n
 optional logger?: Logger;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:51](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L51)
+Defined in: [packages/web-api/src/WebClient.ts:51](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L51)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [packages/web-api/src/WebClient.ts:51](https://github.com/slackapi/n
 optional logLevel?: LogLevel;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:52](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L52)
+Defined in: [packages/web-api/src/WebClient.ts:52](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L52)
 
 ***
 
@@ -76,7 +76,7 @@ Defined in: [packages/web-api/src/WebClient.ts:52](https://github.com/slackapi/n
 optional maxRequestConcurrency?: number;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:53](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L53)
+Defined in: [packages/web-api/src/WebClient.ts:53](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L53)
 
 ***
 
@@ -86,7 +86,7 @@ Defined in: [packages/web-api/src/WebClient.ts:53](https://github.com/slackapi/n
 optional rejectRateLimitedCalls?: boolean;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L61)
+Defined in: [packages/web-api/src/WebClient.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L61)
 
 ***
 
@@ -96,7 +96,7 @@ Defined in: [packages/web-api/src/WebClient.ts:61](https://github.com/slackapi/n
 optional retryConfig?: RetryOptions;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:54](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L54)
+Defined in: [packages/web-api/src/WebClient.ts:54](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L54)
 
 ***
 
@@ -106,7 +106,7 @@ Defined in: [packages/web-api/src/WebClient.ts:54](https://github.com/slackapi/n
 optional slackApiUrl?: string;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:50](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L50)
+Defined in: [packages/web-api/src/WebClient.ts:50](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L50)
 
 The base URL requests are sent to. Often unchanged, but might be set for testing techniques.
 
@@ -126,7 +126,7 @@ https://slack.com/api/
 optional teamId?: string;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L63)
+Defined in: [packages/web-api/src/WebClient.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L63)
 
 ***
 
@@ -136,4 +136,4 @@ Defined in: [packages/web-api/src/WebClient.ts:63](https://github.com/slackapi/n
 optional timeout?: number;
 ```
 
-Defined in: [packages/web-api/src/WebClient.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L60)
+Defined in: [packages/web-api/src/WebClient.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L60)

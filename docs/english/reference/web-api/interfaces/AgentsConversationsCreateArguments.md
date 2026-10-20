@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsCreateArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L17)
+Defined in: [packages/web-api/src/types/request/agents.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L17)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:17](https://github.com
 optional is_private?: boolean;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:34](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L34)
+Defined in: [packages/web-api/src/types/request/agents.ts:34](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L34)
 
 #### Description
 
@@ -30,7 +30,7 @@ Create a private channel instead of a public one.
 name: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:32](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L32)
+Defined in: [packages/web-api/src/types/request/agents.ts:32](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L32)
 
 #### Description
 
@@ -45,7 +45,7 @@ are provided — in that case the channel is named from the origin message and r
 optional origin_channel_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L39)
+Defined in: [packages/web-api/src/types/request/agents.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L39)
 
 #### Description
 
@@ -60,7 +60,7 @@ The channel ID where the agent session was initiated from. Must be provided toge
 optional origin_message_ts?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:44](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L44)
+Defined in: [packages/web-api/src/types/request/agents.ts:44](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L44)
 
 #### Description
 
@@ -75,7 +75,7 @@ with `origin_channel_id`. The author of this message is automatically invited to
 optional session_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:27](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L27)
+Defined in: [packages/web-api/src/types/request/agents.ts:27](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L27)
 
 #### Description
 
@@ -90,7 +90,7 @@ exists for this `session_id`, it is returned instead of creating a new one.
 optional team_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L22)
+Defined in: [packages/web-api/src/types/request/agents.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L22)
 
 #### Description
 
@@ -105,7 +105,7 @@ provided. When omitted, the workspace is derived from the origin channel.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

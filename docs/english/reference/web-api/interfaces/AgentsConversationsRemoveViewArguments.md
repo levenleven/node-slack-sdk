@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsRemoveViewArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:66](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L66)
+Defined in: [packages/web-api/src/types/request/agents.ts:66](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L66)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:66](https://github.com
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:68](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L68)
+Defined in: [packages/web-api/src/types/request/agents.ts:68](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L68)
 
 #### Description
 
@@ -30,7 +30,7 @@ ID of the code channel to remove the view from.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -50,7 +50,7 @@ TokenOverridable.token
 optional view_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:72](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L72)
+Defined in: [packages/web-api/src/types/request/agents.ts:72](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L72)
 
 #### Description
 
@@ -64,7 +64,7 @@ Encoded channel tab ID of the view to remove. Provide exactly one of `view_key` 
 optional view_key?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:70](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L70)
+Defined in: [packages/web-api/src/types/request/agents.ts:70](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L70)
 
 #### Description
 

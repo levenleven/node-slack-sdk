@@ -6,6 +6,7 @@
 type KnownBlock = 
   | ActionsBlock
   | AlertBlock
+  | AuthProviderBlock
   | CardBlock
   | CarouselBlock
   | ContainerBlock
@@ -26,7 +27,7 @@ type KnownBlock =
   | VideoBlock;
 ```
 
-Defined in: [block-kit/blocks.ts:57](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/blocks.ts#L57)
+Defined in: [block-kit/blocks.ts:57](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/blocks.ts#L57)
 
 A helper union type of all known Blocks, as listed out on the
 [Blocks reference](https://docs.slack.dev/reference/block-kit/blocks).

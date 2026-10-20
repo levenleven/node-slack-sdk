@@ -2,7 +2,7 @@
 
 # Interface: ChatStartStreamArguments
 
-Defined in: [packages/web-api/src/types/request/chat.ts:242](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L242)
+Defined in: [packages/web-api/src/types/request/chat.ts:242](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L242)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/chat.ts:242](https://github.com/
 channel: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L22)
+Defined in: [packages/web-api/src/types/request/chat.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L22)
 
 #### Description
 
@@ -36,7 +36,7 @@ Channel.channel
 optional chunks?: AnyChunk[];
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:247](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L247)
+Defined in: [packages/web-api/src/types/request/chat.ts:247](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L247)
 
 #### Description
 
@@ -51,7 +51,7 @@ Either `markdown_text` or `chunks` is required.
 optional icon_emoji?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:267](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L267)
+Defined in: [packages/web-api/src/types/request/chat.ts:267](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L267)
 
 #### Description
 
@@ -71,7 +71,7 @@ Emoji to use as the icon for this message. Overrides `icon_url`.
 optional icon_url?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:272](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L272)
+Defined in: [packages/web-api/src/types/request/chat.ts:272](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L272)
 
 #### Description
 
@@ -91,7 +91,7 @@ http://lorempixel.com/48/48
 optional markdown_text?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:63](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L63)
+Defined in: [packages/web-api/src/types/request/chat.ts:63](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L63)
 
 #### Description
 
@@ -117,7 +117,7 @@ Partial.markdown_text
 optional recipient_team_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:252](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L252)
+Defined in: [packages/web-api/src/types/request/chat.ts:252](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L252)
 
 #### Description
 
@@ -132,7 +132,7 @@ This is required when starting a streaming conversation outside of a DM.
 optional recipient_user_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:257](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L257)
+Defined in: [packages/web-api/src/types/request/chat.ts:257](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L257)
 
 #### Description
 
@@ -147,7 +147,7 @@ This is required when starting a streaming conversation outside of a DM.
 optional task_display_mode?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:262](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L262)
+Defined in: [packages/web-api/src/types/request/chat.ts:262](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L262)
 
 #### Description
 
@@ -162,7 +162,7 @@ Specifies how tasks are displayed in the message. A "timeline" displays individu
 thread_ts: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:92](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L92)
+Defined in: [packages/web-api/src/types/request/chat.ts:92](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L92)
 
 #### Description
 
@@ -183,7 +183,7 @@ ThreadTS.thread_ts
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -203,7 +203,7 @@ TokenOverridable.token
 optional username?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/chat.ts:277](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L277)
+Defined in: [packages/web-api/src/types/request/chat.ts:277](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/chat.ts#L277)
 
 #### Description
 

@@ -2,7 +2,7 @@
 
 # Interface: CodedError
 
-Defined in: [packages/rtm-api/src/errors.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L6)
+Defined in: [packages/rtm-api/src/errors.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L6)
 
 All errors produced by this package adhere to this interface
 
@@ -42,7 +42,7 @@ NodeJS.ErrnoException.cause
 code: ErrorCode;
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L7)
+Defined in: [packages/rtm-api/src/errors.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L7)
 
 #### Overrides
 

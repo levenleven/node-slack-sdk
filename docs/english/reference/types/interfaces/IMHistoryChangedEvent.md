@@ -2,7 +2,7 @@
 
 # Interface: IMHistoryChangedEvent
 
-Defined in: [events/im.ts:19](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L19)
+Defined in: [events/im.ts:19](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L19)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/im.ts:19](https://github.com/slackapi/node-slack-sdk/blob/ma
 event_ts: string;
 ```
 
-Defined in: [events/im.ts:23](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L23)
+Defined in: [events/im.ts:23](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L23)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/im.ts:23](https://github.com/slackapi/node-slack-sdk/blob/ma
 latest: string;
 ```
 
-Defined in: [events/im.ts:21](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L21)
+Defined in: [events/im.ts:21](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L21)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/im.ts:21](https://github.com/slackapi/node-slack-sdk/blob/ma
 ts: string;
 ```
 
-Defined in: [events/im.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L22)
+Defined in: [events/im.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L22)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/im.ts:22](https://github.com/slackapi/node-slack-sdk/blob/ma
 type: "im_history_changed";
 ```
 
-Defined in: [events/im.ts:20](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L20)
+Defined in: [events/im.ts:20](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/im.ts#L20)

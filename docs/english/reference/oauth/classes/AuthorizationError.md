@@ -2,7 +2,7 @@
 
 # Class: AuthorizationError
 
-Defined in: [packages/oauth/src/errors.ts:59](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L59)
+Defined in: [packages/oauth/src/errors.ts:59](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L59)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/oauth/src/errors.ts:59](https://github.com/slackapi/node-s
 new AuthorizationError(message, original?): AuthorizationError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:64](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L64)
+Defined in: [packages/oauth/src/errors.ts:64](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L64)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: AuthorizationError = ErrorCode.AuthorizationError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L60)
+Defined in: [packages/oauth/src/errors.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L60)
 
 #### Overrides
 
@@ -100,7 +100,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
 original: Error | undefined;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:62](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L62)
+Defined in: [packages/oauth/src/errors.ts:62](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L62)
 
 ***
 

@@ -2,7 +2,7 @@
 
 # Interface: AgentSessionStoppedEvent
 
-Defined in: [events/agent.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L2)
+Defined in: [events/agent.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L2)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/agent.ts:2](https://github.com/slackapi/node-slack-sdk/blob/
 channel: string;
 ```
 
-Defined in: [events/agent.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L4)
+Defined in: [events/agent.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L4)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/agent.ts:4](https://github.com/slackapi/node-slack-sdk/blob/
 event_ts: string;
 ```
 
-Defined in: [events/agent.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L8)
+Defined in: [events/agent.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L8)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/agent.ts:8](https://github.com/slackapi/node-slack-sdk/blob/
 streaming_message_ts: string[];
 ```
 
-Defined in: [events/agent.ts:7](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L7)
+Defined in: [events/agent.ts:7](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L7)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/agent.ts:7](https://github.com/slackapi/node-slack-sdk/blob/
 thread_ts: string;
 ```
 
-Defined in: [events/agent.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L6)
+Defined in: [events/agent.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L6)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [events/agent.ts:6](https://github.com/slackapi/node-slack-sdk/blob/
 type: "agent_session_stopped";
 ```
 
-Defined in: [events/agent.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L3)
+Defined in: [events/agent.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L3)
 
 ***
 
@@ -62,4 +62,4 @@ Defined in: [events/agent.ts:3](https://github.com/slackapi/node-slack-sdk/blob/
 user: string;
 ```
 
-Defined in: [events/agent.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L5)
+Defined in: [events/agent.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/agent.ts#L5)

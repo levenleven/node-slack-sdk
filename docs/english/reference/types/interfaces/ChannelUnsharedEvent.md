@@ -2,7 +2,7 @@
 
 # Interface: ChannelUnsharedEvent
 
-Defined in: [events/channel.ts:87](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L87)
+Defined in: [events/channel.ts:87](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L87)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:87](https://github.com/slackapi/node-slack-sdk/bl
 channel: string;
 ```
 
-Defined in: [events/channel.ts:90](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L90)
+Defined in: [events/channel.ts:90](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L90)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/channel.ts:90](https://github.com/slackapi/node-slack-sdk/bl
 event_ts: string;
 ```
 
-Defined in: [events/channel.ts:92](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L92)
+Defined in: [events/channel.ts:92](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L92)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/channel.ts:92](https://github.com/slackapi/node-slack-sdk/bl
 is_ext_shared: boolean;
 ```
 
-Defined in: [events/channel.ts:91](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L91)
+Defined in: [events/channel.ts:91](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L91)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/channel.ts:91](https://github.com/slackapi/node-slack-sdk/bl
 previously_connected_team_id: string;
 ```
 
-Defined in: [events/channel.ts:89](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L89)
+Defined in: [events/channel.ts:89](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L89)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [events/channel.ts:89](https://github.com/slackapi/node-slack-sdk/bl
 type: "channel_unshared";
 ```
 
-Defined in: [events/channel.ts:88](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L88)
+Defined in: [events/channel.ts:88](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L88)

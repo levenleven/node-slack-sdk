@@ -2,7 +2,7 @@
 
 # Interface: AdminUsersSetExpirationArguments
 
-Defined in: [packages/web-api/src/types/request/admin/users.ts:156](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L156)
+Defined in: [packages/web-api/src/types/request/admin/users.ts:156](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L156)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/admin/users.ts:156](https://gith
 expiration_ts: number;
 ```
 
-Defined in: [packages/web-api/src/types/request/admin/users.ts:158](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L158)
+Defined in: [packages/web-api/src/types/request/admin/users.ts:158](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L158)
 
 #### Description
 
@@ -30,7 +30,7 @@ Epoch timestamp in seconds when guest account should be disabled.
 optional team_id?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:70](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L70)
+Defined in: [packages/web-api/src/types/request/common.ts:70](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L70)
 
 #### Description
 
@@ -50,7 +50,7 @@ OptionalTeamAssignable.team_id
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -70,7 +70,7 @@ TokenOverridable.token
 user_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:96](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L96)
+Defined in: [packages/web-api/src/types/request/common.ts:96](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L96)
 
 #### Description
 

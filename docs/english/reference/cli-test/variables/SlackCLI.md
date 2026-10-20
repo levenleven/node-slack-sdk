@@ -6,7 +6,7 @@
 const SlackCLI: object;
 ```
 
-Defined in: [cli/index.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/index.ts#L22)
+Defined in: [cli/index.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/index.ts#L22)
 
 Set of functions to spawn and interact with Slack Platform CLI processes and commands
 

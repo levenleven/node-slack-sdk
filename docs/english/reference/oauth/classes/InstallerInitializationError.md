@@ -2,7 +2,7 @@
 
 # Class: InstallerInitializationError
 
-Defined in: [packages/oauth/src/errors.ts:35](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L35)
+Defined in: [packages/oauth/src/errors.ts:35](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L35)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/oauth/src/errors.ts:35](https://github.com/slackapi/node-s
 new InstallerInitializationError(message, options?): InstallerInitializationError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
+Defined in: [packages/oauth/src/errors.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: InstallerInitializationError = ErrorCode.InstallerInitializationError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:36](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L36)
+Defined in: [packages/oauth/src/errors.ts:36](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L36)
 
 #### Overrides
 

@@ -2,7 +2,7 @@
 
 # Interface: URLRespondable
 
-Defined in: [block-kit/extensions.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L60)
+Defined in: [block-kit/extensions.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L60)
 
 ## Extended by
 
@@ -17,7 +17,7 @@ Defined in: [block-kit/extensions.ts:60](https://github.com/slackapi/node-slack-
 optional response_url_enabled?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:67](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L67)
+Defined in: [block-kit/extensions.ts:67](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L67)
 
 #### Description
 

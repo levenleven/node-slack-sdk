@@ -2,7 +2,7 @@
 
 # Interface: AppsManifestCreateArguments
 
-Defined in: [packages/web-api/src/types/request/apps.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L15)
+Defined in: [packages/web-api/src/types/request/apps.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L17)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/apps.ts:15](https://github.com/s
 manifest: Manifest;
 ```
 
-Defined in: [packages/web-api/src/types/request/apps.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L16)
+Defined in: [packages/web-api/src/types/request/apps.ts:18](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L18)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [packages/web-api/src/types/request/apps.ts:16](https://github.com/s
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

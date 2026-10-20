@@ -2,7 +2,7 @@
 
 # ~~Interface: WorkflowStepView~~
 
-Defined in: [views.ts:67](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L67)
+Defined in: [views.ts:67](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L67)
 
 [modal](https://docs.slack.dev/legacy/legacy-steps-from-appsConfiguration) for [legacy Workflow Steps from Apps](https://docs.slack.dev/legacy/legacy-steps-from-apps).
 
@@ -22,7 +22,7 @@ Steps from Apps are deprecated and will no longer be executed starting September
 blocks: AnyBlock[];
 ```
 
-Defined in: [views.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L6)
+Defined in: [views.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L6)
 
 #### Description
 
@@ -42,7 +42,7 @@ BaseView.blocks
 optional callback_id?: string;
 ```
 
-Defined in: [views.ts:19](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L19)
+Defined in: [views.ts:19](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L19)
 
 #### Description
 
@@ -67,7 +67,7 @@ BaseView.callback_id
 optional external_id?: string;
 ```
 
-Defined in: [views.ts:21](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L21)
+Defined in: [views.ts:21](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L21)
 
 #### Description
 
@@ -87,7 +87,7 @@ BaseView.external_id
 optional private_metadata?: string;
 ```
 
-Defined in: [views.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L13)
+Defined in: [views.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L13)
 
 #### Description
 
@@ -110,7 +110,7 @@ BaseView.private_metadata
 optional submit_disabled?: boolean;
 ```
 
-Defined in: [views.ts:73](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L73)
+Defined in: [views.ts:73](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L73)
 
 #### Description
 
@@ -125,4 +125,4 @@ Defaults to `false`.
 type: "workflow_step";
 ```
 
-Defined in: [views.ts:68](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L68)
+Defined in: [views.ts:68](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L68)

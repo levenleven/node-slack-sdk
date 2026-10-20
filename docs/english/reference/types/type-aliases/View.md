@@ -9,4 +9,4 @@ type View =
   | WorkflowStepView;
 ```
 
-Defined in: [views.ts:76](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/views.ts#L76)
+Defined in: [views.ts:76](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/views.ts#L76)

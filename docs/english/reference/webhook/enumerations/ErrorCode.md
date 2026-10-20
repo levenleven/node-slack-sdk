@@ -2,7 +2,7 @@
 
 # Enumeration: ErrorCode
 
-Defined in: [packages/webhook/src/errors.ts:8](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L8)
+Defined in: [packages/webhook/src/errors.ts:8](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L8)
 
 ## Enumeration Members
 
@@ -12,7 +12,7 @@ Defined in: [packages/webhook/src/errors.ts:8](https://github.com/slackapi/node-
 HTTPError: "slack_webhook_http_error";
 ```
 
-Defined in: [packages/webhook/src/errors.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L10)
+Defined in: [packages/webhook/src/errors.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L10)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [packages/webhook/src/errors.ts:10](https://github.com/slackapi/node
 RequestError: "slack_webhook_request_error";
 ```
 
-Defined in: [packages/webhook/src/errors.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L9)
+Defined in: [packages/webhook/src/errors.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/webhook/src/errors.ts#L9)

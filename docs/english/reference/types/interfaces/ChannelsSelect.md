@@ -2,7 +2,7 @@
 
 # Interface: ChannelsSelect
 
-Defined in: [block-kit/block-elements.ts:481](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L481)
+Defined in: [block-kit/block-elements.ts:481](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L481)
 
 ## Description
 
@@ -26,7 +26,7 @@ in the active workspace.
 optional action_id?: string;
 ```
 
-Defined in: [block-kit/extensions.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
+Defined in: [block-kit/extensions.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
 
 @description: An identifier for this action. You can use this when you receive an interaction payload to
 [identify the source of the action](https://docs.slack.dev/interactivity/handling-user-interaction#payloads). Should be unique
@@ -44,7 +44,7 @@ among all other `action_id`s in the containing block. Maximum length for this fi
 optional confirm?: ConfirmationDialog;
 ```
 
-Defined in: [block-kit/extensions.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
+Defined in: [block-kit/extensions.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
 
 #### Description
 
@@ -63,7 +63,7 @@ with.
 optional focus_on_load?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
+Defined in: [block-kit/extensions.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
 
 #### Description
 
@@ -83,7 +83,7 @@ Defaults to `false`.
 optional initial_channel?: string;
 ```
 
-Defined in: [block-kit/block-elements.ts:489](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L489)
+Defined in: [block-kit/block-elements.ts:489](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L489)
 
 #### Description
 
@@ -97,7 +97,7 @@ The ID of any valid public channel to be pre-selected when the menu loads.
 optional placeholder?: PlainTextElement;
 ```
 
-Defined in: [block-kit/extensions.ts:57](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L57)
+Defined in: [block-kit/extensions.ts:57](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L57)
 
 #### Description
 
@@ -116,7 +116,7 @@ length for the `text` field in this object is 150 characters.
 optional response_url_enabled?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:67](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L67)
+Defined in: [block-kit/extensions.ts:67](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L67)
 
 #### Description
 
@@ -137,7 +137,7 @@ for the message will be determined by the value of this select menu.
 type: "channels_select";
 ```
 
-Defined in: [block-kit/block-elements.ts:485](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L485)
+Defined in: [block-kit/block-elements.ts:485](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L485)
 
 #### Description
 

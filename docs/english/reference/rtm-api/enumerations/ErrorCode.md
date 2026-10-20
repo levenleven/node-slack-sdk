@@ -2,7 +2,7 @@
 
 # Enumeration: ErrorCode
 
-Defined in: [packages/rtm-api/src/errors.ts:13](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L13)
+Defined in: [packages/rtm-api/src/errors.ts:13](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L13)
 
 A dictionary of codes for errors produced by this package
 
@@ -14,7 +14,7 @@ A dictionary of codes for errors produced by this package
 KeepAliveClientNotConnected: "slack_rtmapi_keepalive_client_not_connected";
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:22](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L22)
+Defined in: [packages/rtm-api/src/errors.ts:22](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L22)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [packages/rtm-api/src/errors.ts:22](https://github.com/slackapi/node
 KeepAliveConfigError: "slack_rtmapi_keepalive_config_error";
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:21](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L21)
+Defined in: [packages/rtm-api/src/errors.ts:21](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L21)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [packages/rtm-api/src/errors.ts:21](https://github.com/slackapi/node
 KeepAliveInconsistentState: "slack_rtmapi_keepalive_inconsistent_state";
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:23](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L23)
+Defined in: [packages/rtm-api/src/errors.ts:23](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L23)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [packages/rtm-api/src/errors.ts:23](https://github.com/slackapi/node
 NoReplyReceivedError: "slack_rtmapi_no_reply_received_error";
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:18](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L18)
+Defined in: [packages/rtm-api/src/errors.ts:18](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L18)
 
 ***
 
@@ -54,7 +54,7 @@ Defined in: [packages/rtm-api/src/errors.ts:18](https://github.com/slackapi/node
 SendMessagePlatformError: "slack_rtmapi_send_message_platform_error";
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L16)
+Defined in: [packages/rtm-api/src/errors.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L16)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [packages/rtm-api/src/errors.ts:16](https://github.com/slackapi/node
 SendWhileDisconnectedError: "slack_rtmapi_send_while_disconnected_error";
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L14)
+Defined in: [packages/rtm-api/src/errors.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L14)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [packages/rtm-api/src/errors.ts:14](https://github.com/slackapi/node
 SendWhileNotReadyError: "slack_rtmapi_send_while_not_ready_error";
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L15)
+Defined in: [packages/rtm-api/src/errors.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L15)
 
 ***
 
@@ -84,4 +84,4 @@ Defined in: [packages/rtm-api/src/errors.ts:15](https://github.com/slackapi/node
 WebsocketError: "slack_rtmapi_websocket_error";
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L17)
+Defined in: [packages/rtm-api/src/errors.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L17)

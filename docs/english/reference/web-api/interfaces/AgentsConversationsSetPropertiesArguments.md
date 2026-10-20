@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsSetPropertiesArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:112](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L112)
+Defined in: [packages/web-api/src/types/request/agents.ts:112](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L112)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:112](https://github.co
 optional agent_resource?: object;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:139](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L139)
+Defined in: [packages/web-api/src/types/request/agents.ts:139](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L139)
 
 #### provider?
 
@@ -70,7 +70,7 @@ Agent resource properties to set. Only provided fields are updated.
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:114](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L114)
+Defined in: [packages/web-api/src/types/request/agents.ts:114](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L114)
 
 #### Description
 
@@ -84,7 +84,7 @@ ID of the code channel to update.
 optional code_channel?: object;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:116](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L116)
+Defined in: [packages/web-api/src/types/request/agents.ts:116](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L116)
 
 #### context\_bar\_items?
 
@@ -138,7 +138,7 @@ Code channel properties to set. Only provided fields are updated.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

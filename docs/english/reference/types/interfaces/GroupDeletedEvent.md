@@ -2,7 +2,7 @@
 
 # Interface: GroupDeletedEvent
 
-Defined in: [events/group.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L15)
+Defined in: [events/group.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L15)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/group.ts:15](https://github.com/slackapi/node-slack-sdk/blob
 actor_id: string;
 ```
 
-Defined in: [events/group.ts:19](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L19)
+Defined in: [events/group.ts:19](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L19)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/group.ts:19](https://github.com/slackapi/node-slack-sdk/blob
 channel: string;
 ```
 
-Defined in: [events/group.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L17)
+Defined in: [events/group.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L17)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/group.ts:17](https://github.com/slackapi/node-slack-sdk/blob
 date_deleted: number;
 ```
 
-Defined in: [events/group.ts:18](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L18)
+Defined in: [events/group.ts:18](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L18)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/group.ts:18](https://github.com/slackapi/node-slack-sdk/blob
 event_ts: string;
 ```
 
-Defined in: [events/group.ts:20](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L20)
+Defined in: [events/group.ts:20](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L20)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [events/group.ts:20](https://github.com/slackapi/node-slack-sdk/blob
 type: "group_deleted";
 ```
 
-Defined in: [events/group.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L16)
+Defined in: [events/group.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L16)

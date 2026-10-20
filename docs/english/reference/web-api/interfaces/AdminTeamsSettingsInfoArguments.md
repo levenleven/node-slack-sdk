@@ -2,7 +2,7 @@
 
 # Interface: AdminTeamsSettingsInfoArguments
 
-Defined in: [packages/web-api/src/types/request/admin/teams.ts:29](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/teams.ts#L29)
+Defined in: [packages/web-api/src/types/request/admin/teams.ts:29](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/teams.ts#L29)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/admin/teams.ts:29](https://githu
 team_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L61)
+Defined in: [packages/web-api/src/types/request/common.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L61)
 
 #### Description
 
@@ -36,7 +36,7 @@ TeamID.team_id
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

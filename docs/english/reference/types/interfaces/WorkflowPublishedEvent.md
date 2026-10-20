@@ -2,7 +2,7 @@
 
 # Interface: WorkflowPublishedEvent
 
-Defined in: [events/steps-from-apps.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L15)
+Defined in: [events/steps-from-apps.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L15)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/steps-from-apps.ts:15](https://github.com/slackapi/node-slac
 event_ts: string;
 ```
 
-Defined in: [events/steps-from-apps.ts:26](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L26)
+Defined in: [events/steps-from-apps.ts:26](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L26)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/steps-from-apps.ts:26](https://github.com/slackapi/node-slac
 type: "workflow_published";
 ```
 
-Defined in: [events/steps-from-apps.ts:16](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L16)
+Defined in: [events/steps-from-apps.ts:16](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L16)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/steps-from-apps.ts:16](https://github.com/slackapi/node-slac
 workflow_id: string;
 ```
 
-Defined in: [events/steps-from-apps.ts:17](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L17)
+Defined in: [events/steps-from-apps.ts:17](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L17)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/steps-from-apps.ts:17](https://github.com/slackapi/node-slac
 workflow_published_configuration: object;
 ```
 
-Defined in: [events/steps-from-apps.ts:18](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L18)
+Defined in: [events/steps-from-apps.ts:18](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/steps-from-apps.ts#L18)
 
 #### app\_steps
 

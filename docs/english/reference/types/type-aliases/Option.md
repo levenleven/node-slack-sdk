@@ -8,7 +8,7 @@ type Option =
   | PlainTextOption;
 ```
 
-Defined in: [block-kit/composition-objects.ts:109](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L109)
+Defined in: [block-kit/composition-objects.ts:109](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L109)
 
 ## Description
 

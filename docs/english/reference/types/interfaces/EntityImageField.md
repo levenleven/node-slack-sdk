@@ -2,7 +2,7 @@
 
 # Interface: EntityImageField
 
-Defined in: [message-metadata.ts:261](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L261)
+Defined in: [message-metadata.ts:261](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L261)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [message-metadata.ts:261](https://github.com/slackapi/node-slack-sdk
 alt_text: string;
 ```
 
-Defined in: [message-metadata.ts:262](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L262)
+Defined in: [message-metadata.ts:262](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L262)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [message-metadata.ts:262](https://github.com/slackapi/node-slack-sdk
 optional image_url?: string;
 ```
 
-Defined in: [message-metadata.ts:264](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L264)
+Defined in: [message-metadata.ts:264](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L264)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [message-metadata.ts:264](https://github.com/slackapi/node-slack-sdk
 optional label?: string;
 ```
 
-Defined in: [message-metadata.ts:263](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L263)
+Defined in: [message-metadata.ts:263](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L263)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [message-metadata.ts:263](https://github.com/slackapi/node-slack-sdk
 optional slack_file?: SlackFile;
 ```
 
-Defined in: [message-metadata.ts:265](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L265)
+Defined in: [message-metadata.ts:265](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L265)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [message-metadata.ts:265](https://github.com/slackapi/node-slack-sdk
 optional title?: string;
 ```
 
-Defined in: [message-metadata.ts:266](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L266)
+Defined in: [message-metadata.ts:266](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L266)
 
 ***
 
@@ -62,4 +62,4 @@ Defined in: [message-metadata.ts:266](https://github.com/slackapi/node-slack-sdk
 optional type?: string;
 ```
 
-Defined in: [message-metadata.ts:267](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L267)
+Defined in: [message-metadata.ts:267](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L267)

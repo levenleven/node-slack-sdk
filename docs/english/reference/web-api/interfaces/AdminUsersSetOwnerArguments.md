@@ -2,7 +2,7 @@
 
 # Interface: AdminUsersSetOwnerArguments
 
-Defined in: [packages/web-api/src/types/request/admin/users.ts:162](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L162)
+Defined in: [packages/web-api/src/types/request/admin/users.ts:162](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L162)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/admin/users.ts:162](https://gith
 team_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L61)
+Defined in: [packages/web-api/src/types/request/common.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L61)
 
 #### Description
 
@@ -36,7 +36,7 @@ TeamID.team_id
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -56,7 +56,7 @@ TokenOverridable.token
 user_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:96](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L96)
+Defined in: [packages/web-api/src/types/request/common.ts:96](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L96)
 
 #### Description
 

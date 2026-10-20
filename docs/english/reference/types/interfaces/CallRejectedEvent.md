@@ -2,7 +2,7 @@
 
 # Interface: CallRejectedEvent
 
-Defined in: [events/call.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L1)
+Defined in: [events/call.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/call.ts:1](https://github.com/slackapi/node-slack-sdk/blob/m
 call_id: string;
 ```
 
-Defined in: [events/call.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L3)
+Defined in: [events/call.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L3)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/call.ts:3](https://github.com/slackapi/node-slack-sdk/blob/m
 channel_id: string;
 ```
 
-Defined in: [events/call.ts:5](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L5)
+Defined in: [events/call.ts:5](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L5)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/call.ts:5](https://github.com/slackapi/node-slack-sdk/blob/m
 external_unique_id: string;
 ```
 
-Defined in: [events/call.ts:6](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L6)
+Defined in: [events/call.ts:6](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L6)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [events/call.ts:6](https://github.com/slackapi/node-slack-sdk/blob/m
 type: "call_rejected";
 ```
 
-Defined in: [events/call.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L2)
+Defined in: [events/call.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L2)
 
 ***
 
@@ -52,4 +52,4 @@ Defined in: [events/call.ts:2](https://github.com/slackapi/node-slack-sdk/blob/m
 user_id: string;
 ```
 
-Defined in: [events/call.ts:4](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L4)
+Defined in: [events/call.ts:4](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/call.ts#L4)

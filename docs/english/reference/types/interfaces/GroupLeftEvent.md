@@ -2,7 +2,7 @@
 
 # Interface: GroupLeftEvent
 
-Defined in: [events/group.ts:30](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L30)
+Defined in: [events/group.ts:30](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L30)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/group.ts:30](https://github.com/slackapi/node-slack-sdk/blob
 actor_id: string;
 ```
 
-Defined in: [events/group.ts:33](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L33)
+Defined in: [events/group.ts:33](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L33)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/group.ts:33](https://github.com/slackapi/node-slack-sdk/blob
 channel: string;
 ```
 
-Defined in: [events/group.ts:32](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L32)
+Defined in: [events/group.ts:32](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L32)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/group.ts:32](https://github.com/slackapi/node-slack-sdk/blob
 event_ts: string;
 ```
 
-Defined in: [events/group.ts:34](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L34)
+Defined in: [events/group.ts:34](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L34)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/group.ts:34](https://github.com/slackapi/node-slack-sdk/blob
 type: "group_left";
 ```
 
-Defined in: [events/group.ts:31](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L31)
+Defined in: [events/group.ts:31](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/group.ts#L31)

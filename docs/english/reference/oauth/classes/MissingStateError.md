@@ -2,7 +2,7 @@
 
 # Class: MissingStateError
 
-Defined in: [packages/oauth/src/errors.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L43)
+Defined in: [packages/oauth/src/errors.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L43)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/oauth/src/errors.ts:43](https://github.com/slackapi/node-s
 new MissingStateError(message, options?): MissingStateError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:28](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
+Defined in: [packages/oauth/src/errors.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L28)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: MissingStateError = ErrorCode.MissingStateError;
 ```
 
-Defined in: [packages/oauth/src/errors.ts:44](https://github.com/slackapi/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L44)
+Defined in: [packages/oauth/src/errors.ts:44](https://github.com/levenleven/node-slack-sdk/blob/main/packages/oauth/src/errors.ts#L44)
 
 #### Overrides
 

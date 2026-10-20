@@ -2,7 +2,7 @@
 
 # Interface: EntityArrayItemField
 
-Defined in: [message-metadata.ts:188](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L188)
+Defined in: [message-metadata.ts:188](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L188)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [message-metadata.ts:188](https://github.com/slackapi/node-slack-sdk
 optional alt_text?: string;
 ```
 
-Defined in: [message-metadata.ts:202](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L202)
+Defined in: [message-metadata.ts:202](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L202)
 
 #### Inherited from
 
@@ -30,7 +30,7 @@ Defined in: [message-metadata.ts:202](https://github.com/slackapi/node-slack-sdk
 optional edit?: EntityEditSupport;
 ```
 
-Defined in: [message-metadata.ts:203](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L203)
+Defined in: [message-metadata.ts:203](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L203)
 
 #### Inherited from
 
@@ -44,7 +44,7 @@ Defined in: [message-metadata.ts:203](https://github.com/slackapi/node-slack-sdk
 optional entity_ref?: EntityRefField;
 ```
 
-Defined in: [message-metadata.ts:206](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L206)
+Defined in: [message-metadata.ts:206](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L206)
 
 #### Inherited from
 
@@ -58,7 +58,7 @@ Defined in: [message-metadata.ts:206](https://github.com/slackapi/node-slack-sdk
 optional format?: string;
 ```
 
-Defined in: [message-metadata.ts:199](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L199)
+Defined in: [message-metadata.ts:199](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L199)
 
 #### Inherited from
 
@@ -72,7 +72,7 @@ Defined in: [message-metadata.ts:199](https://github.com/slackapi/node-slack-sdk
 optional icon?: EntityIconField;
 ```
 
-Defined in: [message-metadata.ts:197](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L197)
+Defined in: [message-metadata.ts:197](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L197)
 
 #### Inherited from
 
@@ -86,7 +86,7 @@ Defined in: [message-metadata.ts:197](https://github.com/slackapi/node-slack-sdk
 optional image_url?: string;
 ```
 
-Defined in: [message-metadata.ts:200](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L200)
+Defined in: [message-metadata.ts:200](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L200)
 
 #### Inherited from
 
@@ -100,7 +100,7 @@ Defined in: [message-metadata.ts:200](https://github.com/slackapi/node-slack-sdk
 optional label?: string;
 ```
 
-Defined in: [message-metadata.ts:194](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L194)
+Defined in: [message-metadata.ts:194](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L194)
 
 #### Inherited from
 
@@ -114,7 +114,7 @@ Defined in: [message-metadata.ts:194](https://github.com/slackapi/node-slack-sdk
 optional link?: string;
 ```
 
-Defined in: [message-metadata.ts:196](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L196)
+Defined in: [message-metadata.ts:196](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L196)
 
 #### Inherited from
 
@@ -128,7 +128,7 @@ Defined in: [message-metadata.ts:196](https://github.com/slackapi/node-slack-sdk
 optional long?: boolean;
 ```
 
-Defined in: [message-metadata.ts:198](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L198)
+Defined in: [message-metadata.ts:198](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L198)
 
 #### Inherited from
 
@@ -142,7 +142,7 @@ Defined in: [message-metadata.ts:198](https://github.com/slackapi/node-slack-sdk
 optional slack_file?: SlackFile;
 ```
 
-Defined in: [message-metadata.ts:201](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L201)
+Defined in: [message-metadata.ts:201](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L201)
 
 #### Inherited from
 
@@ -156,7 +156,7 @@ Defined in: [message-metadata.ts:201](https://github.com/slackapi/node-slack-sdk
 optional tag_color?: string;
 ```
 
-Defined in: [message-metadata.ts:204](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L204)
+Defined in: [message-metadata.ts:204](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L204)
 
 #### Inherited from
 
@@ -170,7 +170,7 @@ Defined in: [message-metadata.ts:204](https://github.com/slackapi/node-slack-sdk
 optional type?: string;
 ```
 
-Defined in: [message-metadata.ts:189](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L189)
+Defined in: [message-metadata.ts:189](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L189)
 
 ***
 
@@ -182,7 +182,7 @@ optional user?:
   | EntityUserField;
 ```
 
-Defined in: [message-metadata.ts:205](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L205)
+Defined in: [message-metadata.ts:205](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L205)
 
 #### Inherited from
 
@@ -196,7 +196,7 @@ Defined in: [message-metadata.ts:205](https://github.com/slackapi/node-slack-sdk
 optional value?: string | number;
 ```
 
-Defined in: [message-metadata.ts:195](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L195)
+Defined in: [message-metadata.ts:195](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/message-metadata.ts#L195)
 
 #### Inherited from
 

@@ -2,7 +2,7 @@
 
 # Interface: RTMWebsocketError
 
-Defined in: [packages/rtm-api/src/errors.ts:38](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L38)
+Defined in: [packages/rtm-api/src/errors.ts:38](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L38)
 
 All errors produced by this package adhere to this interface
 
@@ -32,7 +32,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 code: WebsocketError;
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L39)
+Defined in: [packages/rtm-api/src/errors.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L39)
 
 #### Overrides
 
@@ -88,7 +88,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
 original: Error;
 ```
 
-Defined in: [packages/rtm-api/src/errors.ts:40](https://github.com/slackapi/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L40)
+Defined in: [packages/rtm-api/src/errors.ts:40](https://github.com/levenleven/node-slack-sdk/blob/main/packages/rtm-api/src/errors.ts#L40)
 
 ***
 

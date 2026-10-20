@@ -2,7 +2,7 @@
 
 # Interface: Timepicker
 
-Defined in: [block-kit/block-elements.ts:671](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L671)
+Defined in: [block-kit/block-elements.ts:671](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L671)
 
 ## Description
 
@@ -27,7 +27,7 @@ native time picker UIs.
 optional action_id?: string;
 ```
 
-Defined in: [block-kit/extensions.ts:15](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
+Defined in: [block-kit/extensions.ts:15](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L15)
 
 @description: An identifier for this action. You can use this when you receive an interaction payload to
 [identify the source of the action](https://docs.slack.dev/interactivity/handling-user-interaction#payloads). Should be unique
@@ -45,7 +45,7 @@ among all other `action_id`s in the containing block. Maximum length for this fi
 optional confirm?: ConfirmationDialog;
 ```
 
-Defined in: [block-kit/extensions.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
+Defined in: [block-kit/extensions.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
 
 #### Description
 
@@ -64,7 +64,7 @@ with.
 optional focus_on_load?: boolean;
 ```
 
-Defined in: [block-kit/extensions.ts:42](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
+Defined in: [block-kit/extensions.ts:42](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L42)
 
 #### Description
 
@@ -84,7 +84,7 @@ Defaults to `false`.
 optional initial_time?: string;
 ```
 
-Defined in: [block-kit/block-elements.ts:681](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L681)
+Defined in: [block-kit/block-elements.ts:681](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L681)
 
 #### Description
 
@@ -100,7 +100,7 @@ for example 22:25 for 10:25pm.
 optional placeholder?: PlainTextElement;
 ```
 
-Defined in: [block-kit/extensions.ts:57](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L57)
+Defined in: [block-kit/extensions.ts:57](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L57)
 
 #### Description
 
@@ -119,7 +119,7 @@ length for the `text` field in this object is 150 characters.
 optional timezone?: string;
 ```
 
-Defined in: [block-kit/block-elements.ts:686](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L686)
+Defined in: [block-kit/block-elements.ts:686](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L686)
 
 #### Description
 
@@ -134,7 +134,7 @@ text underneath the time picker. It is also passed to the app upon certain inter
 type: "timepicker";
 ```
 
-Defined in: [block-kit/block-elements.ts:675](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L675)
+Defined in: [block-kit/block-elements.ts:675](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L675)
 
 #### Description
 

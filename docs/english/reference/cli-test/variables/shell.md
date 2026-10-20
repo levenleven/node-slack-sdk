@@ -6,7 +6,7 @@
 const shell: object;
 ```
 
-Defined in: [cli/shell.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/cli-test/src/cli/shell.ts#L9)
+Defined in: [cli/shell.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/cli-test/src/cli/shell.ts#L9)
 
 ## Type Declaration
 

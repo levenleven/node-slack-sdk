@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsSetCanvasContentArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:76](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L76)
+Defined in: [packages/web-api/src/types/request/agents.ts:76](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L76)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:76](https://github.com
 canvas_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:80](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L80)
+Defined in: [packages/web-api/src/types/request/agents.ts:80](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L80)
 
 #### Description
 
@@ -30,7 +30,7 @@ Encoded ID of the canvas whose content to replace.
 channel: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:78](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L78)
+Defined in: [packages/web-api/src/types/request/agents.ts:78](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L78)
 
 #### Description
 
@@ -44,7 +44,7 @@ ID of the agent session channel the canvas is attached to.
 content: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:85](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L85)
+Defined in: [packages/web-api/src/types/request/agents.ts:85](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L85)
 
 #### Description
 
@@ -59,7 +59,7 @@ only the changed sections.
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

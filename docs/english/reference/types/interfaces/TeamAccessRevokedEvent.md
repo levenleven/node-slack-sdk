@@ -2,7 +2,7 @@
 
 # Interface: TeamAccessRevokedEvent
 
-Defined in: [events/team.ts:9](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L9)
+Defined in: [events/team.ts:9](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L9)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/team.ts:9](https://github.com/slackapi/node-slack-sdk/blob/m
 event_ts: string;
 ```
 
-Defined in: [events/team.ts:12](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L12)
+Defined in: [events/team.ts:12](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L12)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/team.ts:12](https://github.com/slackapi/node-slack-sdk/blob/
 team_ids: string[];
 ```
 
-Defined in: [events/team.ts:11](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L11)
+Defined in: [events/team.ts:11](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L11)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [events/team.ts:11](https://github.com/slackapi/node-slack-sdk/blob/
 type: "team_access_revoked";
 ```
 
-Defined in: [events/team.ts:10](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L10)
+Defined in: [events/team.ts:10](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/team.ts#L10)

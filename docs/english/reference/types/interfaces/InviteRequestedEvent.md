@@ -2,7 +2,7 @@
 
 # Interface: InviteRequestedEvent
 
-Defined in: [events/invite.ts:1](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/invite.ts#L1)
+Defined in: [events/invite.ts:1](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/invite.ts#L1)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/invite.ts:1](https://github.com/slackapi/node-slack-sdk/blob
 invite_request: object;
 ```
 
-Defined in: [events/invite.ts:3](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/invite.ts#L3)
+Defined in: [events/invite.ts:3](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/invite.ts#L3)
 
 #### channel\_ids
 
@@ -100,4 +100,4 @@ name: string;
 type: "invite_requested";
 ```
 
-Defined in: [events/invite.ts:2](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/invite.ts#L2)
+Defined in: [events/invite.ts:2](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/invite.ts#L2)

@@ -2,7 +2,7 @@
 
 # Interface: FilesRemoteAddArguments
 
-Defined in: [packages/web-api/src/types/request/files.ts:222](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L222)
+Defined in: [packages/web-api/src/types/request/files.ts:222](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L222)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/files.ts:222](https://github.com
 external_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:18](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L18)
+Defined in: [packages/web-api/src/types/request/files.ts:18](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L18)
 
 #### Description
 
@@ -36,7 +36,7 @@ ExternalIDArgument.external_id
 external_url: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:211](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L211)
+Defined in: [packages/web-api/src/types/request/files.ts:211](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L211)
 
 #### Description
 
@@ -56,7 +56,7 @@ SharedFile.external_url
 optional filetype?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:32](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L32)
+Defined in: [packages/web-api/src/types/request/files.ts:32](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L32)
 
 #### Description
 
@@ -80,7 +80,7 @@ FileType.filetype
 optional indexable_file_contents?: Buffer<ArrayBufferLike> | Stream;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:218](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L218)
+Defined in: [packages/web-api/src/types/request/files.ts:218](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L218)
 
 #### Description
 
@@ -101,7 +101,7 @@ SharedFile.indexable_file_contents
 optional preview_image?: Buffer<ArrayBufferLike> | Stream;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:213](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L213)
+Defined in: [packages/web-api/src/types/request/files.ts:213](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L213)
 
 #### Description
 
@@ -121,7 +121,7 @@ SharedFile.preview_image
 title: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/files.ts:209](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L209)
+Defined in: [packages/web-api/src/types/request/files.ts:209](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/files.ts#L209)
 
 #### Description
 
@@ -141,7 +141,7 @@ SharedFile.title
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

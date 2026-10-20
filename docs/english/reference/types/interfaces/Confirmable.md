@@ -2,7 +2,7 @@
 
 # Interface: Confirmable
 
-Defined in: [block-kit/extensions.ts:20](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L20)
+Defined in: [block-kit/extensions.ts:20](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L20)
 
 ## Extended by
 
@@ -34,7 +34,7 @@ Defined in: [block-kit/extensions.ts:20](https://github.com/slackapi/node-slack-
 optional confirm?: ConfirmationDialog;
 ```
 
-Defined in: [block-kit/extensions.ts:25](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
+Defined in: [block-kit/extensions.ts:25](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L25)
 
 #### Description
 

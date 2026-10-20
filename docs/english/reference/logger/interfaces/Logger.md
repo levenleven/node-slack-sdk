@@ -2,7 +2,7 @@
 
 # Interface: Logger
 
-Defined in: [index.ts:14](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L14)
+Defined in: [index.ts:14](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L14)
 
 Interface for objects where objects in this package's logs can be sent (can be used as `logger` option).
 
@@ -14,7 +14,7 @@ Interface for objects where objects in this package's logs can be sent (can be u
 debug(...msg): void;
 ```
 
-Defined in: [index.ts:20](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L20)
+Defined in: [index.ts:20](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L20)
 
 Output debug message
 
@@ -38,7 +38,7 @@ any data to log
 error(...msg): void;
 ```
 
-Defined in: [index.ts:41](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L41)
+Defined in: [index.ts:41](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L41)
 
 Output error message
 
@@ -62,7 +62,7 @@ any data to log
 getLevel(): LogLevel;
 ```
 
-Defined in: [index.ts:53](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L53)
+Defined in: [index.ts:53](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L53)
 
 Return the current LogLevel.
 
@@ -78,7 +78,7 @@ Return the current LogLevel.
 info(...msg): void;
 ```
 
-Defined in: [index.ts:27](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L27)
+Defined in: [index.ts:27](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L27)
 
 Output info message
 
@@ -102,7 +102,7 @@ any data to log
 setLevel(level): void;
 ```
 
-Defined in: [index.ts:48](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L48)
+Defined in: [index.ts:48](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L48)
 
 This disables all logging below the given level, so that after a log.setLevel("warn") call log.warn("something")
 or log.error("something") will output messages, but log.info("something") will not.
@@ -127,7 +127,7 @@ as a string, like 'error' (case-insensitive)
 setName(name): void;
 ```
 
-Defined in: [index.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L60)
+Defined in: [index.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L60)
 
 This allows the instance to be named so that they can easily be filtered when many loggers are sending output
 to the same destination.
@@ -152,7 +152,7 @@ as a string, will be output with every log after the level
 warn(...msg): void;
 ```
 
-Defined in: [index.ts:34](https://github.com/slackapi/node-slack-sdk/blob/main/packages/logger/src/index.ts#L34)
+Defined in: [index.ts:34](https://github.com/levenleven/node-slack-sdk/blob/main/packages/logger/src/index.ts#L34)
 
 Output warn message
 

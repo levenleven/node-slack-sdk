@@ -2,7 +2,7 @@
 
 # Interface: UsersInfoArguments
 
-Defined in: [packages/web-api/src/types/request/users.ts:37](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/users.ts#L37)
+Defined in: [packages/web-api/src/types/request/users.ts:37](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/users.ts#L37)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/users.ts:37](https://github.com/
 optional include_locale?: boolean;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:51](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L51)
+Defined in: [packages/web-api/src/types/request/common.ts:51](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L51)
 
 #### Description
 
@@ -36,7 +36,7 @@ LocaleAware.include_locale
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 
@@ -56,7 +56,7 @@ TokenOverridable.token
 user: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/users.ts:39](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/users.ts#L39)
+Defined in: [packages/web-api/src/types/request/users.ts:39](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/users.ts#L39)
 
 #### Description
 

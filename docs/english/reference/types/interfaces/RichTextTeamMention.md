@@ -2,7 +2,7 @@
 
 # Interface: RichTextTeamMention
 
-Defined in: [block-kit/block-elements.ts:923](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L923)
+Defined in: [block-kit/block-elements.ts:923](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L923)
 
 ## Description
 
@@ -20,7 +20,7 @@ A workspace or team mention element for use in a rich text message.
 optional style?: object;
 ```
 
-Defined in: [block-kit/extensions.ts:86](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L86)
+Defined in: [block-kit/extensions.ts:86](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/extensions.ts#L86)
 
 #### bold?
 
@@ -88,7 +88,7 @@ A limited style object for styling rich text `text` elements.
 team_id: string;
 ```
 
-Defined in: [block-kit/block-elements.ts:931](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L931)
+Defined in: [block-kit/block-elements.ts:931](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L931)
 
 #### Description
 
@@ -102,7 +102,7 @@ The encoded team ID, e.g. T1234ABCD.
 type: "team";
 ```
 
-Defined in: [block-kit/block-elements.ts:927](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L927)
+Defined in: [block-kit/block-elements.ts:927](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/block-elements.ts#L927)
 
 #### Description
 

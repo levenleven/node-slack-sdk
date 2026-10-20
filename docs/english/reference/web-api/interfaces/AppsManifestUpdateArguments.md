@@ -2,7 +2,7 @@
 
 # Interface: AppsManifestUpdateArguments
 
-Defined in: [packages/web-api/src/types/request/apps.ts:26](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L26)
+Defined in: [packages/web-api/src/types/request/apps.ts:28](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L28)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/apps.ts:26](https://github.com/s
 app_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:101](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L101)
+Defined in: [packages/web-api/src/types/request/common.ts:101](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L101)
 
 #### Description
 
@@ -36,7 +36,7 @@ AppID.app_id
 manifest: Manifest;
 ```
 
-Defined in: [packages/web-api/src/types/request/apps.ts:27](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L27)
+Defined in: [packages/web-api/src/types/request/apps.ts:29](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/apps.ts#L29)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [packages/web-api/src/types/request/apps.ts:27](https://github.com/s
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

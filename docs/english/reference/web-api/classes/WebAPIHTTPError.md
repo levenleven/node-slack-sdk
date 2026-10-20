@@ -2,7 +2,7 @@
 
 # Class: WebAPIHTTPError
 
-Defined in: [packages/web-api/src/errors.ts:58](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L58)
+Defined in: [packages/web-api/src/errors.ts:58](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L58)
 
 ## Extends
 
@@ -21,7 +21,7 @@ new WebAPIHTTPError(
 ): WebAPIHTTPError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:66](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L66)
+Defined in: [packages/web-api/src/errors.ts:66](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L66)
 
 #### Parameters
 
@@ -57,7 +57,7 @@ Defined in: [packages/web-api/src/errors.ts:66](https://github.com/slackapi/node
 readonly optional body?: any;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:64](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L64)
+Defined in: [packages/web-api/src/errors.ts:64](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L64)
 
 ***
 
@@ -81,7 +81,7 @@ Defined in: node\_modules/typescript/lib/lib.es2022.error.d.ts:26
 readonly code: HTTPError = ErrorCode.HTTPError;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:59](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L59)
+Defined in: [packages/web-api/src/errors.ts:59](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L59)
 
 #### Overrides
 
@@ -95,7 +95,7 @@ Defined in: [packages/web-api/src/errors.ts:59](https://github.com/slackapi/node
 readonly headers: Record<string, string>;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:62](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L62)
+Defined in: [packages/web-api/src/errors.ts:62](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L62)
 
 ***
 
@@ -147,7 +147,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1078
 readonly statusCode: number;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:60](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L60)
+Defined in: [packages/web-api/src/errors.ts:60](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L60)
 
 ***
 
@@ -157,7 +157,7 @@ Defined in: [packages/web-api/src/errors.ts:60](https://github.com/slackapi/node
 readonly statusMessage: string;
 ```
 
-Defined in: [packages/web-api/src/errors.ts:61](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L61)
+Defined in: [packages/web-api/src/errors.ts:61](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/errors.ts#L61)
 
 ***
 

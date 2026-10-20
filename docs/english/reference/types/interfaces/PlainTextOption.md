@@ -2,7 +2,7 @@
 
 # Interface: PlainTextOption
 
-Defined in: [block-kit/composition-objects.ts:96](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L96)
+Defined in: [block-kit/composition-objects.ts:96](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L96)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [block-kit/composition-objects.ts:96](https://github.com/slackapi/no
 optional description?: PlainTextElement;
 ```
 
-Defined in: [block-kit/composition-objects.ts:85](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L85)
+Defined in: [block-kit/composition-objects.ts:85](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L85)
 
 #### Description
 
@@ -37,7 +37,7 @@ OptionDescriptor.description
 text: PlainTextElement;
 ```
 
-Defined in: [block-kit/composition-objects.ts:101](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L101)
+Defined in: [block-kit/composition-objects.ts:101](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L101)
 
 #### Description
 
@@ -52,7 +52,7 @@ overflow, select and multi-select menus. Maximum length for the `text` in this f
 optional url?: string;
 ```
 
-Defined in: [block-kit/composition-objects.ts:80](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L80)
+Defined in: [block-kit/composition-objects.ts:80](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L80)
 
 #### Description
 
@@ -73,7 +73,7 @@ OptionDescriptor.url
 optional value?: string;
 ```
 
-Defined in: [block-kit/composition-objects.ts:75](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L75)
+Defined in: [block-kit/composition-objects.ts:75](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/block-kit/composition-objects.ts#L75)
 
 #### Description
 

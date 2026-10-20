@@ -2,7 +2,7 @@
 
 # Interface: AgentsConversationsSetCommandsArguments
 
-Defined in: [packages/web-api/src/types/request/agents.ts:89](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L89)
+Defined in: [packages/web-api/src/types/request/agents.ts:89](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L89)
 
 ## Extends
 
@@ -16,7 +16,7 @@ Defined in: [packages/web-api/src/types/request/agents.ts:89](https://github.com
 channel_id: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:91](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L91)
+Defined in: [packages/web-api/src/types/request/agents.ts:91](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L91)
 
 #### Description
 
@@ -30,7 +30,7 @@ ID of the code channel to register commands for.
 commands: object[];
 ```
 
-Defined in: [packages/web-api/src/types/request/agents.ts:96](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L96)
+Defined in: [packages/web-api/src/types/request/agents.ts:96](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/agents.ts#L96)
 
 #### argument\_hint?
 
@@ -86,7 +86,7 @@ previously registered set. Pass an empty array to clear the agent's commands. At
 optional token?: string;
 ```
 
-Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
+Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/levenleven/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)
 
 #### Description
 

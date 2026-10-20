@@ -2,7 +2,7 @@
 
 # Interface: ChannelUnarchiveEvent
 
-Defined in: [events/channel.ts:80](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L80)
+Defined in: [events/channel.ts:80](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L80)
 
 ## Properties
 
@@ -12,7 +12,7 @@ Defined in: [events/channel.ts:80](https://github.com/slackapi/node-slack-sdk/bl
 channel: string;
 ```
 
-Defined in: [events/channel.ts:82](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L82)
+Defined in: [events/channel.ts:82](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L82)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [events/channel.ts:82](https://github.com/slackapi/node-slack-sdk/bl
 event_ts: string;
 ```
 
-Defined in: [events/channel.ts:84](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L84)
+Defined in: [events/channel.ts:84](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L84)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [events/channel.ts:84](https://github.com/slackapi/node-slack-sdk/bl
 type: "channel_unarchive";
 ```
 
-Defined in: [events/channel.ts:81](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L81)
+Defined in: [events/channel.ts:81](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L81)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [events/channel.ts:81](https://github.com/slackapi/node-slack-sdk/bl
 user: string;
 ```
 
-Defined in: [events/channel.ts:83](https://github.com/slackapi/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L83)
+Defined in: [events/channel.ts:83](https://github.com/levenleven/node-slack-sdk/blob/main/packages/types/src/events/channel.ts#L83)
